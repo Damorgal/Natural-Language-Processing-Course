@@ -1,0 +1,476 @@
+
+
+
+  
+
+
+
+
+
+
+
+15.12.18 Versión estenográfica de la presentación del Plan Nacional para la Producción de Hidrocarburos – Presidente de México
+
+			var tmm_lang_no_events = "No events at this period!";
+			
+			var lang_january =  "January";
+			var lang_february = "February";
+			var lang_march =    "March";
+			var lang_april =    "April";
+			var lang_may =      "May";
+			var lang_june =     "June";
+			var lang_july =     "July";
+			var lang_august =   "August";
+			var lang_september = "September";
+			var lang_october =  "October";
+			var lang_november = "November";
+			var lang_december = "December";
+
+			var lang_sunday =   "Sunday";
+			var lang_monday =   "Monday";
+			var lang_tuesday =  "Tuesday";
+			var lang_wednesday = "Wednesday";
+			var lang_thursday = "Thursday";
+			var lang_friday =   "Friday";
+			var lang_saturday = "Saturday";
+
+			var lang_sun = "Sun";
+			var lang_mon = "Mon";
+			var lang_tue = "Tue";
+			var lang_wed = "Wed";
+			var lang_thu = "Thu";
+			var lang_fri = "Fri";
+			var lang_sat = "Sat";
+
+			var lang_today = "today";
+			var lang_month = "month";
+			var lang_week = "week";
+			var lang_day = "day";
+			var lang_time = "Time";
+			var lang_place = "Place";
+			var error_fetching_events = "There was an error while fetching events!";
+
+			var events_time_format = "0";
+			var events_date_format = 0;
+		
+#wpadminbar { display: none; }
+
+						var is_single_page = true;//for breadcumbs definitions it theme.js
+						var site_url = "https://presidente.gob.mx";
+			var capcha_image_url = "https://presidente.gob.mx/wp-content/themes/diplomat/helper/capcha/image.php/";
+			var template_directory = "https://presidente.gob.mx/wp-content/themes/diplomat/";
+			var ajaxurl = "https://presidente.gob.mx/wp-admin/admin-ajax.php";
+			var ajax_nonce = "f72e8039a7";
+			var lang_enter_correctly = "Please enter correct";
+			var lang_sended_succsessfully = "Your message has been sent successfully!";
+			var lang_server_failed = "Server failed. Send later";
+			var lang_any = "Any";
+			var lang_home = "Home";
+			var lang_attach_more_else = "You cant add more else attachments!";
+			var lang_loading = "Loading ...";
+			var lang_mail_sending = "Mail sending ...";
+			var charcount = "3";
+			var widget_advanced_search = "1";
+			var menu_advanced_search = "1";
+			var fixed_menu = "1";
+			var appearing_speed = "50";
+		
+
+
+
+
+
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/presidente.gob.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=0f8a22554fdb4f1563c296282135734f"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		
+
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var LS_Meta = {"v":"6.11.5","fixGSAP":"1"};
+/* ]]> */
+
+
+
+
+
+
+/* Run FooBox FREE (v2.7.16) */
+var FOOBOX = window.FOOBOX = {
+	ready: true,
+	disableOthers: false,
+	o: {wordpress: { enabled: true }, countMessage:'image %index of %total', excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }},
+	selectors: [
+		".gallery", ".wp-block-gallery", ".wp-caption", ".wp-block-image", "a:has(img[class*=wp-image-])", ".foobox"
+	],
+	pre: function( $ ){
+		// Custom JavaScript (Pre)
+		
+	},
+	post: function( $ ){
+		// Custom JavaScript (Post)
+		
+		// Custom Captions Code
+		
+	},
+	custom: function( $ ){
+		// Custom Extra JS
+		
+	}
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body.custom-background { background-color: #ffffff; }
+
+
+
+
+
+
+
+    var analyticsFileTypes = [''];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+
+
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-144351937-1', 'auto');
+ 
+	ga('send', 'pageview');
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144481486-1');
+
+!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="epsuwqqxhdwwqya55vya-f-a36788dd2-clientnsv4-s.akamaihd.net",i={"ak.v":"30","ak.cp":"959687","ak.ai":parseInt("615102",10),"ak.ol":"0","ak.cr":11,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"33378cd4","ak.r":40937,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"35.229.75.0","ak.cport":58702,"ak.gh":"23.56.236.104","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1612574064","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==jD2W10Bo0sFW1iEXfRw8DXIZ2Mft35pEcxSuAuZWJREI7QN59SlJQFHObZVMPzhkqMBuhIzbFqq6nM1eVLZfK84UZWXFEPeiUBK1EC7R6UjHTwsH6A5IoR1B0+NKNI7xAgJzNyiA7czEAw2cnUVPkVQjOP5/0hiB4aRYt+il+uODymPR7FZytDYbF5PUyPY6Ng98iPP7zdNAMvJhwp8vV5VXRZb7hhrM0etp4ol1mIXoSvZhmZm+98fWrr/G9oUQ2beSH+IPYbXBFYO4SNxnyi2V0VjKYCZl1yf1zmMrpEN3Zis+7elqiuRECR4dkh7Hp5w6sqw5qNl6H++jo1YHsX7Gc4ISmGPXV0vbqDp243Vp8DN1mkJI6iZW3s/G4wFi6Q8b2H/VbLA1Kgauibqbl8ogwO5qagsqpurGkXSFE4Y=","ak.pv":"11","ak.dpoabenc":""};if(""!==t)i["ak.ruds"]=t;var _={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))i["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:n,init:function(){if(!_.i){var a=BOOMR.subscribe;a("before_beacon",_.av,null,null),a("onbeacon",_.rv,null,null),_.i=!0}return this},is_complete:function(){return!0}}}}()}(window);
+
+
+(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Inicio
+Sala de Prensa
+
+Boletines
+Transcripciones
+Documentos
+Fotogalería
+Videos
+
+
+Coronavirus COVID-19
+Gabinete
+Oficina de la Presidencia
+Biografía
+Contacto
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+15.12.18 Versión estenográfica de la presentación del Plan Nacional para la Producción de Hidrocarburos
+
+Home Versión Estenográfica 15.12.18 Versión estenográfica de la presentación del Plan Nacional para la Producción de Hidrocarburos 					
+
+
+
+
+
+
+
+
+
+15.12.18 Versión estenográfica de la presentación del Plan Nacional para la Producción de Hidrocarburos
+
+
+VE-025CIUDAD DEL CARMEN, Campeche. 15 de diciembre de 2018Versión estenográfica
+Palabras del presidente de los Estados Unidos Mexicanos, Andrés Manuel López Obrador, durante la presentación del Plan Nacional para la Producción de Hidrocarburos
+Amigas, amigos; paisanas, paisanos:
+Me da mucho gusto estar aquí, con ustedes. Paisanos campechanos, paisanos tabasqueños, paisanos veracruzanos, tamaulipecos, oaxaqueños, paisanos mexicanos:
+Me da mucho gusto estar con ustedes aquí, en Ciudad del Carmen, iniciando este plan de recuperación, de rescate de la industria petrolera nacional.
+Ya sabemos todos lo que sucedió, ya no hace falta puntualizar más sobre los errores, sobre el fracaso, que significó la política petrolera anterior.
+Lo más importante es el plan para rescatarla industria petrolera, ver hacia adelante. Y es un reto, un desafío, lo que tenemos que hacer entre todas y entre todos, porque de un millón 750 mil barriles diarios, tenemos que lograr una producción de más de dos millones 400 mil barriles diarios a finales del sexenio.
+Es un plan bastante realista que puede alcanzar los resultados si participamos como se ha venido haciendo, todos: los trabajadores petroleros en activo, trabajadores de planta y trabajadores transitorios. Vamos a requerir de la experiencia de los trabajadores jubilados de Pemex.
+Y es muy importante la participación de las empresas que trabajan en la industria petrolera, porque no podríamos cumplir con este plan si no participan las empresas que, desde hace muchos años, han estado trabajando en la exploración, la perforación, en la refinación, en la transformación del petróleo.
+Es por eso, muy satisfactorio que estén aquí empresarios, que nos van a ayudar, que se va a ayudar al país. Es un momento decisivo en la historia de nuestro país y en la historia de la explotación petrolera. No exagero. Es algo parecido a lo que tuvo que hacerse en 1938. Es un nuevo rescate de Petróleos Mexicanos.
+El año pasado se perforaron muy pocos pozos. Ahora 117 es el programa, tanto en tierras como en aguas someras. Y ya hay una nueva orientación.
+Vamos a invertir donde sabemos que hay petróleo y que nos cuesta menos extraerlo. Por razones inexplicables, a veces la inversión pública se orienta a donde no hay petróleo o es escasa la rentabilidad donde no hay negocio para la nación, aclaro.
+Ahora vamos a invertir en exploración, en perforación de pozos, en tierra y en aguas someras de Veracruz, de Tabasco, de Campeche.
+Vamos a reactivar la industria petrolera. Estamos haciendo un esfuerzo, de verdad, muy importante al aplicar un plan de austeridad republicana y con ahorros sin contratación de deuda, sin aumentar impuestos en términos reales, sin aumentar los precios de los combustibles a los consumidores.
+Vamos a poder financiar este plan de rescate a la industria petrolera. Por eso, mi agradecimiento, repito, insisto, a los empresarios, porque nos están ayudando, no solo porque tienen el conocimiento, la experiencia, sino también nos están ayudando, porque están aceptando, eso es lo que me ha informado Octavio, a no ser que sea un asunto de él.
+Me ha estado informando de que están bajando los costos de producción y eso es muy importante. Vamos a reducir costos. Y saben, como dicen los tecnócratas, una variable muy importante para sacar adelante este plan es acabar con la corrupción en Pemex y en el país.
+Nos va a rendir mucho el presupuesto. Es que se rayaban, era una exageración. Un día venía yo en un avión comercial de la Ciudad de México, acá, a una ciudad petrolera, y junto a mí un comerciante, un joyero, y sale la plática, y le pregunto: a qué vas a El Carmen.
+Se para, saca de un estuche un reloj. Voy a esto, a entregar un reloj´, aquí, al Carmen. Un millón de dólares el reloj. Por eso se está hundiendo el país. Pero, miren, qué bueno que ya se dio este cambio.
+Hace unos días comentaba yo que era como cuando se estaba saqueando un banco y llegaban los rateros a la bóveda y a echarle dinero al costal, a la bolsa, y de repente, sonó la alarma y no pudieron ya llevarse todo.
+El día 1º de julio sonó la alarma. Y con lo que dejaron, y con un nuevo proceder, con un recto proceder, como decía el presidente Juárez, vamos a rescatar a nuestro querido México y a la industria petrolera nacional.
+Me da mucho gusto iniciar con ustedes este plan para producir petróleo. Tenemos que hacerlo. Hay una situación, como hemos visto, de emergencia. Es una vergüenza que estemos comprando petróleo crudo, petróleo ligero, para nuestras refinerías.
+Y de este plan depende el que podamos producir las gasolinas en el país, que tenemos un Plan Nacional de Refinación que consiste en reparar, mejorar, modernizar las seis refinerías, construir la nueva Refinería de Dos Bocas, pero si no tenemos la materia prima, no hacemos nada.
+Por eso, qué bien que tenemos esta meta de producir, a finales del sexenio, dos millones 400 mil barriles diarios. Con eso es suficiente, manteniendo las reservas, porque el petróleo, además de ser un recurso no renovable, pertenece también a las generaciones futuras y no lo podemos nosotros explotar de manera irracional.
+Hay países, gobiernos, en donde, inclusive, cada año, van dejando un fondo de ahorro para las nuevas generaciones. Eso es lo que hacen en Noruega, por ejemplo, con la idea de que los recursos naturales son de nosotros, pero también de nuestros hijos, nuestros nietos, de las generaciones futuras, si extraemos petróleo suficiente, conservando reservas, cuidando el medio ambiente.
+Aquí en Campeche, sin duda, es el sitio, la región del mundo en donde más se ha quemado gas a la atmósfera en los últimos 100 años aquí, porque era cuando Cantarell estaba en su apogeo.
+Y cuando inyectaron nitrógeno para intervenir los pozos era sacar petróleo, sin importar que se desperdiciaba y se quemaba mucho gas. Al mismo tiempo que se estaba comprando el gas y que empezábamos a ser dependientes; es decir, que nos estábamos convirtiendo en importadores de gas. Aquí se quemaba el gas.
+Cuando se podía resolver lo de la contaminación de los pozos, con tecnología sencilla, pero a nadie le importaba que se quemara el gas, porque el negocio estaba en comprar el gas en el extranjero. Eso ya no puede seguir sucediendo.
+Este campo petrolero, extraordinario, de Cantarell, merece un reconocimiento histórico. Por más de 40 años produciendo, mantuvo al país; más de dos millones de barriles diarios llegó a producir. Y ahora, agotado, produce alrededor de 200 mil barriles.
+Pero si logramos, además del plan, y esto hago un desafío para los ingenieros petroleros, si logramos trabajar en la recuperación en Cantarell podemos todavía sacar petróleo de este campo. Si se trabaja en investigación, si se trabaja en la recuperación de Cantarell y de todos estos campos que fueron sobre explotados, mal manejados.
+Todo esto puede llevarnos tiempo, puede ser que tardemos tres años, seis años, pero le dejamos a los nuevos gobiernos una posibilidad de explotación a futuro. Esto es una tarea, es algo que debe de plantearse, que lo de Cantarell, repito, es un fenómeno mundial.
+Estamos hablando del campo más productivo posiblemente del mundo y, al mismo tiempo, el campo más mal explotado del mundo. Por eso, es una tarea para técnicos, para especialistas, para el Instituto Mexicano del Petróleo y que podamos seguir beneficiándonos con Cantarell.
+Pedirles a todas, a todos que nos ayuden en la evaluación, también, del plan. Que no es la presentación del plan; ya es un avance tener un plan, tener objetivos, tener metas, tener el presupuesto, la forma en que se van a entregar los contratos, que esto es muy importante para que se actúe rápido en la emergencia.
+Yo le he pedido a la secretaria de la Función Pública, antes la contraloría, Irma Eréndira Sandoval, que acompañe a Octavio, que acompañe a Rocío, al licenciado Bartlett en todo lo que es la contratación del sector energético, para que hagamos las cosas lo más pronto posible y que, al mismo tiempo, se garantice la transparencia y la honestidad, pero que no haya obstáculos, que actuemos con celeridad, como le exigen las circunstancias.
+Vamos a estar evaluando. Yo, como aquí lo mencionó Alejandro Moreno, gobernador de Campeche, que nos ha apoyado bastante, en todo, yo voy a estar visitando Campeche. Hago ese compromiso.
+Y los que estamos, si les parece hacemos el compromiso, quedamos invitados para ver cómo vamos en tres meses. ¿Les parece? Los mismos que estamos aquí, en tres meses, igual. Y cada tres meses evaluamos de manera conjunta. ¿De acuerdo?
+Muchas gracias a todas, a todos ustedes, vamos adelante. Yo creo que vamos a lograr el propósito de recuperar la producción de petróleo y de sacar de este momento difícil la industria petrolera nacional, con el apoyo de los trabajadores de Pemex, también para que me ayuden en eso, los trabajadores, los dirigentes sindicales.
+Y que me ayuden para que también haya democracia en el sindicato. Tiene que haber democracia en la familia, con todo respeto. Democracia en la escuela. Democracia en el sindicato. Democracia en la sociedad, la democracia como forma de vida, como forma de gobierno.
+En el caso de los sindicatos, ya no va a haber sindicatos protegidos por el gobierno. Lo dirigentes sindicales van a ser elegidos por el pueblo, por los trabajadores con voto libre y secreto.
+Vamos a transitar hacia una verdadera transformación. Y vamos a hacerlo en armonía. Vamos al cambio, a la transformación por el camino de la concordia.
+Ha habido tres transformaciones: la Independencia, la Reforma, la Revolución, nosotros queremos llevar a cabo la Cuarta Transformación. Una diferencia es que las tres transformaciones que se han realizado en nuestro país, por las circunstancias, se tuvieron que hacer con violencia, por la vía armada. Nosotros podemos lograr, es una dicha enorme, esta transformación de manera pacífica, sin violencia y esto implica que todos ayudemos.
+Me preguntan: ¿Qué se tiene que hacer? Puedo resumirlo en una frase: Portarnos bien. Todos a portarnos bien, todos. A portarnos bien.
+Y termino, termino, reafirmando el compromiso, aquí, en Ciudad del Carmen, sí va a mudarse, sí va a trasladarse Petróleos Mexicanos a Ciudad del Carmen, Campeche. Que ya Octavio empiece a ver en qué oficina. Aquí hay ahora muchas oficinas de Pemex para empezar a laborar, y Exploración y Producción puede quedar donde está, en Tabasco, como era, pero aquí la Dirección de PEMEX, aquí, en Ciudad del Carmen.
+¿Dónde está Producción y Exploración? En la torre. ¿Qué hace allá? No, acá, a Ciudad del Carmen. Yo pensaba que estaba en Villahermosa. Sí, Pemex completo, completo, en Ciudad del Carmen; y la Secretaría de Energía en Villahermosa, Tabasco.
+Muchas gracias, paisanas, paisanos. Que viva el pueblo de Campeche. Que viva Ciudad del Carmen. Viva Pemex.
+Viva el general Lázaro Cárdenas del Río. Viva México. Viva México. Viva México.
+- - - 0 - - -
+
+
+
+
+
+
+
+Conferencia de prensa matutinaConferencia de prensa matutina
+
+
+
+Sala de prensaSala de prensa
+
+
+
+DocumentosDocumentos
+
+
+
+GabineteGabinete
+
+
+
+Semáforo de riesgo epidémico
+
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 100%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+Enlaces de interés
+
+Aprende en casa II
+Atlas Nacional de Riesgos – Cenapred
+Becas Benito Juárez
+Becas para estudiantes
+Ciudadanos Alertadores
+Gobierno de México
+INAPAM
+Instituto de Salud para el Bienestar
+Jóvenes Construyendo el Futuro
+Liconsa
+Pensión Adultos Mayores
+Planeando juntos
+Proequidad
+Programa Nacional de Reconstrucción
+Proyecto Refinería Dos Bocas
+Responsabilidad Compartida – Infonavit
+Sembrando Vida
+SSA Nuevo coronavirus COVID-19
+Trabajadoras del hogar – programa de afiliación al IMSS
+Universidad de la Salud – CDMX
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close
+
+
+
+
+
+
+
+
+
+
+
+Contacto Andrés Manuel López Obrador
+Presidente de México
+t. 5093 4900
+t. 01800 080 1127
+Puerta 8 Palacio Nacional, Plaza de la Constitución S/N, Colonia Centro, Ciudad de México, C.P. 06066
+Aviso de privacidad
+
+
+
+
+
+
+
+
+
+
+
+
+
+					Copyright © 2021				
+
+
+
+					Developed by ThemeMakers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"es","ajaxurl":"https:\/\/presidente.gob.mx\/wp-admin\/admin-ajax.php","nonce":"51b38c8652","display_exif":"0","display_geo":"1","background_color":"white","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"0","login_url":"https:\/\/presidente.gob.mx\/administrador\/?redirect_to=https%3A%2F%2Fpresidente.gob.mx%2Fversion-estenografica-de-la-presentacion-del-plan-nacional-para-la-produccion-de-hidrocarburos%2F","local_comments_commenting_as":"<fieldset><label for=\"email\">Email<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>"};
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"es","ajaxurl":"https:\/\/presidente.gob.mx\/wp-admin\/admin-ajax.php","nonce":"51b38c8652","display_exif":"0","display_geo":"1","display_comments":"0","fullsize_display":"0","background_color":"white","comment":"","post_comment":"Post Comment","loading_comments":"","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"0","login_url":"https:\/\/presidente.gob.mx\/administrador\/?redirect_to=https%3A%2F%2Fpresidente.gob.mx%2Fversion-estenografica-de-la-presentacion-del-plan-nacional-para-la-produccion-de-hidrocarburos%2F"};
+/* ]]> */
+
+
+
+
+
+

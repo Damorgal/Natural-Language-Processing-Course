@@ -1,0 +1,550 @@
+
+
+
+  
+
+
+
+
+
+
+
+27.09.19 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador – Presidente de México
+
+			var tmm_lang_no_events = "No events at this period!";
+			
+			var lang_january =  "January";
+			var lang_february = "February";
+			var lang_march =    "March";
+			var lang_april =    "April";
+			var lang_may =      "May";
+			var lang_june =     "June";
+			var lang_july =     "July";
+			var lang_august =   "August";
+			var lang_september = "September";
+			var lang_october =  "October";
+			var lang_november = "November";
+			var lang_december = "December";
+
+			var lang_sunday =   "Sunday";
+			var lang_monday =   "Monday";
+			var lang_tuesday =  "Tuesday";
+			var lang_wednesday = "Wednesday";
+			var lang_thursday = "Thursday";
+			var lang_friday =   "Friday";
+			var lang_saturday = "Saturday";
+
+			var lang_sun = "Sun";
+			var lang_mon = "Mon";
+			var lang_tue = "Tue";
+			var lang_wed = "Wed";
+			var lang_thu = "Thu";
+			var lang_fri = "Fri";
+			var lang_sat = "Sat";
+
+			var lang_today = "today";
+			var lang_month = "month";
+			var lang_week = "week";
+			var lang_day = "day";
+			var lang_time = "Time";
+			var lang_place = "Place";
+			var error_fetching_events = "There was an error while fetching events!";
+
+			var events_time_format = "0";
+			var events_date_format = 0;
+		
+#wpadminbar { display: none; }
+
+						var is_single_page = true;//for breadcumbs definitions it theme.js
+						var site_url = "https://presidente.gob.mx";
+			var capcha_image_url = "https://presidente.gob.mx/wp-content/themes/diplomat/helper/capcha/image.php/";
+			var template_directory = "https://presidente.gob.mx/wp-content/themes/diplomat/";
+			var ajaxurl = "https://presidente.gob.mx/wp-admin/admin-ajax.php";
+			var ajax_nonce = "f72e8039a7";
+			var lang_enter_correctly = "Please enter correct";
+			var lang_sended_succsessfully = "Your message has been sent successfully!";
+			var lang_server_failed = "Server failed. Send later";
+			var lang_any = "Any";
+			var lang_home = "Home";
+			var lang_attach_more_else = "You cant add more else attachments!";
+			var lang_loading = "Loading ...";
+			var lang_mail_sending = "Mail sending ...";
+			var charcount = "3";
+			var widget_advanced_search = "1";
+			var menu_advanced_search = "1";
+			var fixed_menu = "1";
+			var appearing_speed = "50";
+		
+
+
+
+
+
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/presidente.gob.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=0f8a22554fdb4f1563c296282135734f"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		
+
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var LS_Meta = {"v":"6.11.5","fixGSAP":"1"};
+/* ]]> */
+
+
+
+
+
+
+/* Run FooBox FREE (v2.7.16) */
+var FOOBOX = window.FOOBOX = {
+	ready: true,
+	disableOthers: false,
+	o: {wordpress: { enabled: true }, countMessage:'image %index of %total', excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }},
+	selectors: [
+		".gallery", ".wp-block-gallery", ".wp-caption", ".wp-block-image", "a:has(img[class*=wp-image-])", ".foobox"
+	],
+	pre: function( $ ){
+		// Custom JavaScript (Pre)
+		
+	},
+	post: function( $ ){
+		// Custom JavaScript (Post)
+		
+		// Custom Captions Code
+		
+	},
+	custom: function( $ ){
+		// Custom Extra JS
+		
+	}
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body.custom-background { background-color: #ffffff; }
+
+
+
+
+
+
+
+    var analyticsFileTypes = [''];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+
+
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-144351937-1', 'auto');
+ 
+	ga('send', 'pageview');
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144481486-1');
+
+!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="epsuwqqxg47ssya55xja-f-3c0f503e3-clientnsv4-s.akamaihd.net",i={"ak.v":"30","ak.cp":"959687","ak.ai":parseInt("615102",10),"ak.ol":"0","ak.cr":11,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"1e9e06d5","ak.r":36140,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"35.229.75.0","ak.cport":46640,"ak.gh":"23.55.63.37","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1612574162","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==n5J8LZVZz80IUD5jXBM9EWuHYwIorpMMQrNJLW+nLrjkQMc9ka8VSaGWc0nHj2aUOVcy3U5z/VKQUK4oTUuoaIjoeo3wwp0DQjpFdr02su+sbHw2v914zAsUdzMJYP8pCOsc8NKelZ80RKBeHSAubC0xk5FZxoYZdsRHiJe9QEMID983NwYaCDnQ5YuPIPB20+tS1l9fbPkf+by+2Gk8NXVdC1S1pnUu+cAKjEMAtbQMSVMVfDnzBpVtLdLPqGZ+RFjyQVsIDnQVfsmGJ/FuCh1hOFx0tmjrq0lfiDoSyfCuIew9M+Oq5vCp0FP1AhmnwlRXGUt5PJRozDBFDefLgrbV6bLhccSW0beNzYo6eNbyhomrHCnI2sHB/huQgoAaNbc21DZAmtul44Uf58Q1Nel2mxMCz6Oe9Jbz1o/t7T8=","ak.pv":"11","ak.dpoabenc":""};if(""!==t)i["ak.ruds"]=t;var _={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))i["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:n,init:function(){if(!_.i){var a=BOOMR.subscribe;a("before_beacon",_.av,null,null),a("onbeacon",_.rv,null,null),_.i=!0}return this},is_complete:function(){return!0}}}}()}(window);
+
+
+(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Inicio
+Sala de Prensa
+
+Boletines
+Transcripciones
+Documentos
+Fotogalería
+Videos
+
+
+Coronavirus COVID-19
+Gabinete
+Oficina de la Presidencia
+Biografía
+Contacto
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+27.09.19 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador
+
+Home Versión Estenográfica 27.09.19 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador 					
+
+
+
+
+
+
+
+
+
+27.09.19 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador
+
+
+2019, Año del Caudillo de Sur, Emiliano Zapata
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Buenos días.
+Vamos a distribuir este documento, es el Plan Nacional de Desarrollo 2019-2014, porque aquí está la filosofía y los principios fundamentales que inspiran al nuevo gobierno en la Cuarta Transformación de la vida pública del país.
+Es un orgullo porque, les comentaba ayer, antier, que siempre los planes de desarrollo se hacían a partir de la agenda que imponían desde el extranjero con las llamadas reformas estructurales; esto es distinto.
+El antecedente de planes soberanos, independientes es el plan del Partido Liberal de 1906, que es un documento extraordinario hecho por los Flores Magón, el plan sexenal con el general Cárdenas, y considero que este es el plan que inicia una etapa nueva en el desarrollo del país.
+
+
+
+
+Está garantizado el derecho a la manifestación, pero tenemos que evitar la violencia. Conferencia matutina.
+Anunciamos la distribución del Plan Nacional de Desarrollo para que los ciudadanos conozcan los principios fundamentales que inspiran al nuevo gobierno en la Cuarta Transformación. Demostramos que sí hay una opción diferente a la política económica que se había aplicado.Enviaremos al INE un escrito para contestar sus dudas. Ejerceremos nuestro derecho a la defensa y acataremos lo que las autoridades determinen. Nosotros venimos de una lucha en la que padecimos fraudes de Estado y los programas sociales se utilizaban con propósitos clientelares. No somos iguales.Más información: http://bit.ly/2nL7UCU
+Publicado por Andrés Manuel López Obrador en Viernes, 27 de septiembre de 2019
+
+Aunque algunos de ustedes lo tienen, aprovecho para darlo a conocer, y el que no tenga su ejemplar, se lo entregamos. Se mandaron a hacer en una primera edición 10 mil, pero vamos a distribuir para que la mayor parte de los ciudadanos lo conozca, que se sepa cuál es el marco de referencia, el marco teórico, político, conceptual de nuestras acciones de gobierno.
+También se decía en el periodo neoliberal que no había de otra, que sólo era la política económica que se estaba aplicando, la única, y aquí se está demostrando que sí hay otro camino, sí hay otra opción, y ya se está haciendo a un lado el camino trillado de siempre. Entonces, por eso es importante lo del plan.
+Esto va a acompañado de toda la promoción que se está haciendo de fomento a la lectura de textos básicos, fundamentales, de precio accesible, que está haciendo el Fondo de Cultura Económica, ya un millón de ejemplares; y también se está -como saben ustedes- distribuyendo la Cartilla moral, de Alfonso Reyes; ocho millones de ejemplares.
+Todo esto, para tener elementos teóricos, repito, conceptuales, marco de referencia del porqué de nuestras acciones, en qué nos basamos, en qué se inscribe lo que estamos haciendo, para que se entienda mejor por qué el combate a la corrupción, por qué la austeridad, por qué el nuevo paradigma en materia de seguridad pública. Aquí está dispuesto.
+Bueno, vamos a una gira el fin de semana, vamos a Coahuila y vamos a Chihuahua este fin de semana. No vamos a tardar mucho este día en la conferencia porque sale el vuelo como a las 8:45, entonces me tengo que ir muy rápido, pero nos va a dar tiempo porque…
+PREGUNTA: Sobre el plan.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Sobre el plan. Vámonos.
+PREGUNTA: Buenos días, señor presidente. Juan Carlos Machorro, de portal Expok.
+En el Plan Nacional de Desarrollo, ¿qué tan importante o qué tanto peso tiene las políticas sociales de su gobierno y la intervención y la responsabilidad social de las empresas que usted ha destacado en varias ocasiones?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Pues es fundamental, es un capítulo completo la política social, es construir un país con bienestar, con desarrollo sostenible, es decir, cuidar el medio ambiente, la naturaleza.
+Todos los programas del bienestar que estamos llevando a la práctica: las becas para los jóvenes, los Jóvenes Construyendo el Futuro, Sembrando Vida, desarrollo urbano y vivienda, las Tandas para el Bienestar, la educación, las universidades públicas que ya se están constituyendo -ya casi se va a llegar a 100 en distintos puntos del país- el Instituto de la Salud para el Bienestar, que es fundamental, y la cultura, el fortalecimiento de valores culturales, morales, espirituales, es todo un capítulo; y en economía es otro capítulo.
+Son dos cosas, en general:
+Primero, desempolvar lo que se establece en el artículo 25 de la Constitución, que el Estado tiene que promover el desarrollo. Ese principio no se aplicaba durante el periodo neoliberal, se pensaba que todo lo resolvía el mercado, que el Estado no tenía por qué promover el desarrollo.
+Claro que todo esto era muy hipócrita, porque se usaba al Estado, como sucedió, para rescatar a los bancos, lo que fue el Fobaproa. Ahí sí les gustaba que interviniera el Estado.
+Entonces, ya eso se hace a un lado y el Estado tiene que promover el desarrollo, conducir el desarrollo.
+Y lo otro es que no debemos centrarnos sólo en la búsqueda del crecimiento, sino en procurar que haya crecimiento con bienestar, progreso con justicia, porque progreso sin justicia es retroceso, simple crecimiento no significa desarrollo, no necesariamente implica desarrollo. Entonces, son los nuevos elementos para la economía.
+Y desde luego, todo un capítulo sobre política y gobierno; el respeto a las libertades, el derecho a disentir, la libertad religiosa, la diversidad, la pluralidad, la democracia, el verdadero Estado de derecho, la división y el equilibrio entre los poderes, terminar con la simulación de respetar la Constitución nada más en la forma y violarla en el fondo, en fin, todo esto.
+La democracia participativa, la revocación del mandato, las consultas ciudadanas, el combate a la corrupción, a la impunidad. Es realmente un buen documento, no es de -no le quiero hacer propaganda a un medicamento, pero para que se entienda mejor- no es un Tafil.
+PREGUNTA: Señor presidente, rapidísimo.
+Ahorita que está por terminar la cumbre climática en Nueva York y hay representantes mexicanos allá de la cancillería, el Informe Nacional Voluntario que habla sobre las políticas y avances en todo lo que es desarrollo sostenible de México, ¿hay fechas tentativas de si se podría presentar este año?
+Gracias.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Vamos a presentar un nuevo informe el día 1º de diciembre, vamos a informar al cumplir un año de desempeño en el gobierno y ya va a ser un balance.
+Yo espero que para el 1º de diciembre ya podamos hablar de que se han sentado las bases de la transformación, estamos avanzando en ese propósito, nos faltan algunas cosas, pero se va avanzando en todo y el día 1º de diciembre vamos a informar.
+PREGUNTA: ¿En el Zócalo?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: No, aquí.
+Actos grandes en el país, o sea, promovidos por el gobierno, sólo la conmemoración de la Revolución mexicana, que va a ser importante, como nunca, porque los neoliberales olvidaban esa fecha y nosotros consideramos que fue una revolución fundamental, la primera revolución social del mundo, la Revolución mexicana, y vamos a organizar una buena conmemoración.
+INTERLOCUTOR: ¿El homenaje deportivo que tenía antes?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: No, vamos a recordar lo que fue la Revolución, una lección para todos la Revolución.
+No olvidar a los precursores de la Revolución, no olvidar a los liberales que iniciaron la Revolución, la Convención de San Luis Potosí, Ponciano Arriaga, los Flores Magón.
+No olvidar a la prensa independiente que enfrentó la dictadura, esa es otra escena que queremos presentar.
+La tercera, las huelgas históricas: Cananea, Río Blanco.
+Luego el maderismo, el movimiento constitucionalista encabezado por Carranza, la División del Norte, encabezada por Francisco Villa, el movimiento zapatista; y vamos a terminar en el sexenio del general Cárdenas, cuando se terminan de consumar las demandas de la Revolución, sobre todo en los social y en la recuperación de nuestros recursos naturales, el petróleo, la recuperación del petróleo. Entonces, así va a ser la conmemoración del día 20 de noviembre.
+PREGUNTA: Este el 2 de octubre, presidente.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: El 2 de octubre no se olvida, hay que recordarlo aquí, como lo hicimos ayer con los jóvenes, con el compromiso de que nunca más un régimen autoritario, represor, que siempre se garanticen las libertades.
+Ayer hubo excesos. Dicen algunos y respeto desde luego ese punto de vista, que son anarquistas. No, el anarquismo es un movimiento muy profundo en ideales, productivo, propositivo; no es anarquismo lo de ayer, ahora sí que lo que diga mi dedito, esa es una variante del conservadurismo, de tantas variantes que tiene el conservadurismo.
+Imagínense, ¿cómo van a ser anarquistas los que destruyen una librería? Eso no tiene que ver nada con el movimiento de izquierda, con el movimiento progresista, eso se acerca más a otras cosas, al conservadurismo que tiene varias manifestaciones, expresiones.
+Pero eso ya les toca a ustedes hacer la investigación.
+PREGUNTA: ¿Tiene detectados los nombres de estos grupos?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Pues siempre hay estos provocadores, hay que ver quiénes. Yo creo que en la Ciudad de México, el gobierno de la ciudad va a hacer la investigación correspondiente y se va a actuar.
+También otra variante del conservadurismo, gritan como pregoneros que hay que usar la mano dura, porque así es esto; yo lo que considero es de que debe de hacerse valer la legalidad, tiene que respetarse la ley, pero sin usar la fuerza, porque por eso son provocadores.
+Imagínense, 100, 50, que nos tienen aquí hablando del tema, logran su propósito; pero si se reprime, se les hace -como se dice coloquialmente- el caldo gordo. Entonces, vamos a hablar de otras cosas mejor y que la autoridad de la ciudad haga las investigaciones.
+Y decirle a los que participan en estos actos que se portan mal, muy mal, que no tienen respaldo de los ciudadanos, que no son de izquierda, son conservadores, que perjudican al movimiento legítimo, justo, de los familiares de los jóvenes que quieren encontrar a los estudiantes desaparecidos, porque ni participan en la marcha, van en paralelo destruyendo.
+Los padres de familia, los que organizan la manifestación están hablando de no a la violencia; o sea, manchan movimientos justos que tienen toda la justificación, y no son anarquistas, o sea, aquí sí… Imagínense, Ricardo Flores Magón, que en un tiempo asume el anarquismo, como muchos otros, es un hombre con ideales, con principios, casi se quedó ciego de tanto leer y de mantener sus principios con dignidad, ¡qué van a ser anarquistas esos que quieren quemar una biblioteca, perdón, una librería!
+Es, ya lo dije, una variable del conservadurismo, no son radicales tampoco.
+PREGUNTA: ¿Quién va a pagar los daños?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Lo tiene que ver la ciudad y lo que corresponda a nosotros, lo asumimos.
+PREGUNTA: ¿Por qué no los detuvieron si estaban en flagrancia?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Porque se tiene que actuar con prudencia para no caer en las provocaciones.  Si nos tienen hablando de eso, les digo, hoy en la mañana.
+Vámonos a otro tema.
+PREGUNTA: Presidente legítimo de México, Carlos Pozos, reportero de Petróleo y Energía.
+Presidente, en 1857 se concreta la separación constitucional de la Iglesia en los asuntos sociales.
+Mi pregunta es: ¿Cuál es el estado que guarda de la relación con las diferentes jerarquías de las distintas iglesias mexicanas su gobierno?, y si estas iglesias participaron en este plan de desarrollo y -la pregunta- si les dará usted el canal de televisión que había anunciado.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Miren, en el plan se habla de la libertad religiosa y al mismo tiempo del Estado laico, en el plan.
+¿Qué es en esencia el Estado laico?
+Es el que se puedan garantizar todas las creencias y todas las religiones y que no haya una religión predominante, una religión del Estado. Eso es el Estado laico.
+Y al mismo tiempo la libertad religiosa, que cada quien pueda profesar la religión, que se acerque a su manera de pensar, como también garantizar la libertad a quienes no tienen creencias o a los agnósticos, no sólo a los ateos, garantizar a todos su libertad, eso es fundamental, ser respetuosos, no imponer ninguna religión ni prohibir ninguna religión. Eso es lo que establece en el plan.
+Y llevamos buenas relaciones con todas las iglesias, con todas. Y hay temas que son polémicos y yo trato de no abordarlos, porque represento a todos los mexicanos de todas las religiones, represento a creyentes y no creyentes, y en ese tema no me voy a meter.
+INTERLOCUTOR: Y lo de la televisión.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Buscar la forma de facilitar la libre manifestación de las ideas y no prohibir lo que pueda ayudar en el fortalecimiento de los valores, culturales, morales, espirituales.
+Si es para moralizar en el sentido amplio y profundo del término, del concepto, dar facilidades. Necesitamos -siempre lo he dicho- el bienestar material, pero también el bienestar del alma; entonces, todo lo que ayude a fortalecer valores debe de ser apoyado por el gobierno.
+El propósito de un buen gobierno es conseguir la felicidad del pueblo. Y la felicidad no se logra sólo acumulando bienes materiales o fama, o títulos, siempre lo digo, la felicidad es estar bien con uno mismo, estar bien con nuestra consciencia y estar bien con el prójimo.
+Entonces, ¿por qué no hablar de estos temas?, ¿por qué limitar este debate?  Hablemos de estos temas y sobre todo pensemos en conseguir la paz, pensemos en la no violencia.
+Y tenemos todos que hacer un esfuerzo por autolimitarnos, no querer imponer nada, que a veces cuando hay mucha confrontación lo recomendable, cuando hay discrepancias -sobre temas es la democracia- es el mejor método, preguntar a la gente, que participen todos los ciudadanos cuando realmente se necesite, también no se puede estar consultando todo.
+Aunque en la democracia en sus mejores momentos, por ejemplo, en América, particularmente en Estados Unidos cuando llegan los que constituyen esa nación, fundamentalmente ingleses, con el propósito de establecer una democracia, Tocqueville trata este tema bien, habla de cómo se organizan a partir de la democracia desde abajo y se elige a jueces y se elige a autoridades locales y hasta ahora hay regiones en Estados Unidos en donde una colonia en una zona urbana, si se va a cortar un árbol tiene que haber consulta y lo decide la gente. Eso viene desde la fundación de ese país.
+Nosotros tenemos nuestra democracia tradicional, cultural en los pueblos de Oaxaca, para dar un caso, que eso viene también de la época prehispánica, la asamblea decide. Entonces, en temas difíciles la consulta.
+INTERLOCUTOR: El Congreso de Oaxaca aprobó, discúlpenme, aprobó ayer la despenalización del aborto. Es la segunda entidad, con la Ciudad de México, que se aprueba.
+La pregunta, señor presidente, ¿cuál es su postura? Si sí ¿o cuál es su postura? si no al aborto.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Ya la contesté anteriormente.
+INTERLOCUTOR: Bien.
+PREGUNTA: Presidente, ¿nos puede comentar sobre los militares? ¿qué informe tiene?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Si, muy lamentable lo que sucedió con militares que perdieron la vida, les mandamos a sus familiares nuestro más sentido pésame. Tres soldados originarios de Veracruz, dos de los Tuxtlas, Veracruz, uno de Santiago Tuxtla, otro de San Andrés, y otro del centro-norte de Veracruz.
+Fue una emboscada en la Sierra de Guerrero, iban a una comisión a cumplir unas órdenes y los emboscaron, fallecieron tres.
+PREGUNTA: ¿Cuál sería el mensaje?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Que estamos nosotros pendientes de ellos, que no vamos a arriesgarlos, que los cuidamos y que nos sentimos muy orgullosos de lo que hacen, mucho muy orgullosos de lo que hacen.
+Les puedo decir a ustedes también que evitamos los enfrentamientos, que cada vez hay más trabajo de inteligencia para, entre otras cosas, cuidar al personal militar, desde luego a marinos, a todos los cuerpos de seguridad.
+No queremos que suceda lo que pasaba en años anteriores, que perdían la vida muchos, tanto civiles, como militares en enfrentamientos. Aquí viene un cambio en esa política, nosotros no queremos la guerra, no declaramos la guerra, en el tiempo que llevamos son pocos los elementos que han perdido la vida por esta nueva estrategia; y también se protege a los civiles, se respetan los derechos humanos, no hay razias, no hay masacres, no hay exterminio.
+Entonces, por eso lamentamos mucho el que pierdan la vida estos soldados, que fueron cobardemente emboscados.
+INTERLOCUTORA: Presidente, y preguntarle sobre las declaraciones del presidente Trump, que dice que está usando a México en la frontera.
+¿Cómo toma estas declaraciones?, ¿México le está haciendo el trabajo sucio de policía a Donald Trump?
+Yo sé que usted no se va a confrontar, pero ¿qué opina de esto?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Pues eso mismo que tú dices, lo que diga mi dedito. No tengo ningún problema de conciencia.
+INTERLOCUTORA: (inaudible)
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Pues que no se preocupen, nosotros sin balandronadas, sin exageraciones, representamos con dignidad a nuestro país; y no tenemos nada de qué avergonzarnos, se defiende la soberanía de México.
+Al mismo tiempo no queremos confrontación, tenemos la mano franca, abierta, tendida a todos los gobiernos del mundo y abrazamos a todos los pueblos del mundo; y de manera especial nos interesa una buena relación con Estados Unidos, una vecindad y buscamos que haya cooperación para el desarrollo y respeto mutuo.
+No nos metemos en los asuntos internos de otros países porque no queremos que nadie intervenga en los asuntos internos de México. Se aplica el principio de no intervención y autodeterminación de los pueblos. Entonces, es básicamente.
+Me tengo que ir.
+PREGUNTA: Señor presidente, el INE lo está llamando a comparecer en un caso…
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: ¿Quién?
+INTERLOCUTOR: El INE, lo está llamando a comparecer a usted y a la secretaria Albores por un presunto uso indebido de recursos para promoción de imagen personal. Usted estaría citado hoy a comparecer ante el INE, evidentemente se va de viaje, hay la posibilidad de que también haga una declaración por escrito.
+¿Cuál sería el mecanismo para cumplir…?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Bueno, aprovecho para decirle a los servidores públicos del INE, a los consejeros del INE que no voy a poder asistir ahora, pero que sí voy a enviarles un escrito hoy mismo, si me lo permiten, para contestar todas sus dudas y ejercer mi derecho a la defensa.
+PREGUNTA: ¿Usted negaría que hubiera hecho, a través de los programas sociales, promoción personal?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Claro. O sea, lo único que les voy a decir es: Vámonos respetando, no somos iguales, no enfrentándolos a ellos, que no me confundan, porque eso sí caliente.
+Nosotros venimos de una lucha en donde padecimos de los fraudes de Estado, del uso de los presupuestos para favorecer a los partidos, a los candidatos.
+Los programas sociales, se los puedo hasta enlistar, que los utilizaban con propósitos electorales: Solidaridad, Progresa, Oportunidades, Prospera, puro programa clientelar con propósitos electorales, puro reparto de migajas, de despensas, frijol con gorgojo.
+Y, por cierto, con todo respeto, los consejeros del INE se hicieron de la vista gorda, sobre todo en el último tramo, con la aplicación del Prospera, y ahora se convierten en paladines de la democracia.
+De todas maneras, es su derecho y los respeto, y son autoridad, y si ellos emiten una recomendación o deciden infraccionarnos, nosotros vamos a defendernos y acatar lo que la autoridad determine.
+Nada más que no voy a poder asistir, pero sí por escrito esto mismo. Ayúdenme, transcríbanlo y…
+PREGUNTA: ¿Nos va mandar copia de esa carta?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Es esta misma.
+INTERLOCUTOR: Pero en sus redes sociales, por escrito.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: También, sí, con Jesús. Quizás en las redes no, pero sí se las entregamos.
+PREGUNTA: ¿No tiene que ir con su firma?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Sí, sí, sí, la voy a hacer ahora.
+Ya me voy, si no, no llego.
+Adiós, adiós.
+---
+
+
+
+
+
+
+
+Conferencia de prensa matutinaConferencia de prensa matutina
+
+
+
+Sala de prensaSala de prensa
+
+
+
+DocumentosDocumentos
+
+
+
+GabineteGabinete
+
+
+
+Semáforo de riesgo epidémico
+
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 100%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+Enlaces de interés
+
+Aprende en casa II
+Atlas Nacional de Riesgos – Cenapred
+Becas Benito Juárez
+Becas para estudiantes
+Ciudadanos Alertadores
+Gobierno de México
+INAPAM
+Instituto de Salud para el Bienestar
+Jóvenes Construyendo el Futuro
+Liconsa
+Pensión Adultos Mayores
+Planeando juntos
+Proequidad
+Programa Nacional de Reconstrucción
+Proyecto Refinería Dos Bocas
+Responsabilidad Compartida – Infonavit
+Sembrando Vida
+SSA Nuevo coronavirus COVID-19
+Trabajadoras del hogar – programa de afiliación al IMSS
+Universidad de la Salud – CDMX
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close
+
+
+
+
+
+
+
+
+
+
+
+Contacto Andrés Manuel López Obrador
+Presidente de México
+t. 5093 4900
+t. 01800 080 1127
+Puerta 8 Palacio Nacional, Plaza de la Constitución S/N, Colonia Centro, Ciudad de México, C.P. 06066
+Aviso de privacidad
+
+
+
+
+
+
+
+
+
+
+
+
+
+					Copyright © 2021				
+
+
+
+					Developed by ThemeMakers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"es","ajaxurl":"https:\/\/presidente.gob.mx\/wp-admin\/admin-ajax.php","nonce":"51b38c8652","display_exif":"0","display_geo":"1","background_color":"white","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"0","login_url":"https:\/\/presidente.gob.mx\/administrador\/?redirect_to=https%3A%2F%2Fpresidente.gob.mx%2F27-09-19-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador%2F","local_comments_commenting_as":"<fieldset><label for=\"email\">Email<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>"};
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"es","ajaxurl":"https:\/\/presidente.gob.mx\/wp-admin\/admin-ajax.php","nonce":"51b38c8652","display_exif":"0","display_geo":"1","display_comments":"0","fullsize_display":"0","background_color":"white","comment":"","post_comment":"Post Comment","loading_comments":"","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"0","login_url":"https:\/\/presidente.gob.mx\/administrador\/?redirect_to=https%3A%2F%2Fpresidente.gob.mx%2F27-09-19-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador%2F"};
+/* ]]> */
+
+
+
+
+
+

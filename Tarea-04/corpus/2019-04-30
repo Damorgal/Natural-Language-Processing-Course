@@ -1,0 +1,599 @@
+
+
+
+  
+
+
+
+
+
+
+
+30.04.19 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador – Presidente de México
+
+			var tmm_lang_no_events = "No events at this period!";
+			
+			var lang_january =  "January";
+			var lang_february = "February";
+			var lang_march =    "March";
+			var lang_april =    "April";
+			var lang_may =      "May";
+			var lang_june =     "June";
+			var lang_july =     "July";
+			var lang_august =   "August";
+			var lang_september = "September";
+			var lang_october =  "October";
+			var lang_november = "November";
+			var lang_december = "December";
+
+			var lang_sunday =   "Sunday";
+			var lang_monday =   "Monday";
+			var lang_tuesday =  "Tuesday";
+			var lang_wednesday = "Wednesday";
+			var lang_thursday = "Thursday";
+			var lang_friday =   "Friday";
+			var lang_saturday = "Saturday";
+
+			var lang_sun = "Sun";
+			var lang_mon = "Mon";
+			var lang_tue = "Tue";
+			var lang_wed = "Wed";
+			var lang_thu = "Thu";
+			var lang_fri = "Fri";
+			var lang_sat = "Sat";
+
+			var lang_today = "today";
+			var lang_month = "month";
+			var lang_week = "week";
+			var lang_day = "day";
+			var lang_time = "Time";
+			var lang_place = "Place";
+			var error_fetching_events = "There was an error while fetching events!";
+
+			var events_time_format = "0";
+			var events_date_format = 0;
+		
+#wpadminbar { display: none; }
+
+						var is_single_page = true;//for breadcumbs definitions it theme.js
+						var site_url = "https://presidente.gob.mx";
+			var capcha_image_url = "https://presidente.gob.mx/wp-content/themes/diplomat/helper/capcha/image.php/";
+			var template_directory = "https://presidente.gob.mx/wp-content/themes/diplomat/";
+			var ajaxurl = "https://presidente.gob.mx/wp-admin/admin-ajax.php";
+			var ajax_nonce = "f72e8039a7";
+			var lang_enter_correctly = "Please enter correct";
+			var lang_sended_succsessfully = "Your message has been sent successfully!";
+			var lang_server_failed = "Server failed. Send later";
+			var lang_any = "Any";
+			var lang_home = "Home";
+			var lang_attach_more_else = "You cant add more else attachments!";
+			var lang_loading = "Loading ...";
+			var lang_mail_sending = "Mail sending ...";
+			var charcount = "3";
+			var widget_advanced_search = "1";
+			var menu_advanced_search = "1";
+			var fixed_menu = "1";
+			var appearing_speed = "50";
+		
+
+
+
+
+
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/presidente.gob.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=0f8a22554fdb4f1563c296282135734f"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		
+
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var LS_Meta = {"v":"6.11.5","fixGSAP":"1"};
+/* ]]> */
+
+
+
+
+
+
+/* Run FooBox FREE (v2.7.16) */
+var FOOBOX = window.FOOBOX = {
+	ready: true,
+	disableOthers: false,
+	o: {wordpress: { enabled: true }, countMessage:'image %index of %total', excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }},
+	selectors: [
+		".gallery", ".wp-block-gallery", ".wp-caption", ".wp-block-image", "a:has(img[class*=wp-image-])", ".foobox"
+	],
+	pre: function( $ ){
+		// Custom JavaScript (Pre)
+		
+	},
+	post: function( $ ){
+		// Custom JavaScript (Post)
+		
+		// Custom Captions Code
+		
+	},
+	custom: function( $ ){
+		// Custom Extra JS
+		
+	}
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body.custom-background { background-color: #ffffff; }
+
+
+
+
+
+
+
+    var analyticsFileTypes = [''];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+
+
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-144351937-1', 'auto');
+ 
+	ga('send', 'pageview');
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144481486-1');
+
+!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="epsuwqqxg47scya55trq-f-4ee89e3b5-clientnsv4-s.akamaihd.net",i={"ak.v":"30","ak.cp":"959687","ak.ai":parseInt("615102",10),"ak.ol":"0","ak.cr":11,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"42eb91ef","ak.r":36140,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"35.229.75.0","ak.cport":59394,"ak.gh":"23.55.63.29","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1612573923","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==aLUu9Io+tYmJf4EhGPFeC3Xr7/CM7ZXGiw3q8nuw0yBBz0mdKwqTZEFgYRD3FLwqioey0S6d0hlhtnIHM3Y4eRDOD4aKgQNmOg1GS8p3MZu6tWwpzXGaqlhayeFoMsdSraR+3TXyJUJOvGenDQdvwOXFhZTHyK9Rli592p/OzUJhWiB4KiGUr2szBzHpm96NxwgrroPIbeAPLruWWcVI9FUizdMjUVQgCVW7OE+ZFs7IPns5WqyPSZUNfqeIpZb9mO7yQR9aqnrbpOMNQQBtX/4tt8PasW4rV3TBjdLoky4RSsMvLd8ZcJ7S1OQtcmJihZB0fTkgnJ+JYPpyN5JZmuJFG5hTkIfrJ0HeW7fYPsObbidG6r/9C4rjre/DRVbQZHjugZZG3GhH+XISQDvdXFZygklLDDkAtqEvH2+bvBo=","ak.pv":"11","ak.dpoabenc":""};if(""!==t)i["ak.ruds"]=t;var _={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))i["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:n,init:function(){if(!_.i){var a=BOOMR.subscribe;a("before_beacon",_.av,null,null),a("onbeacon",_.rv,null,null),_.i=!0}return this},is_complete:function(){return!0}}}}()}(window);
+
+
+(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Inicio
+Sala de Prensa
+
+Boletines
+Transcripciones
+Documentos
+Fotogalería
+Videos
+
+
+Coronavirus COVID-19
+Gabinete
+Oficina de la Presidencia
+Biografía
+Contacto
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+30.04.19 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador
+
+Home Versión Estenográfica 30.04.19 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador 					
+
+
+
+
+
+
+
+
+
+30.04.19 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador
+
+
+2019, Año del Caudillo del Sur, Emiliano Zapata
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Buenos días.
+Nos da mucho gusto recibirles aquí en Palacio a las niñas, a los niños.
+Aquí trabajamos para atender los asuntos que se tienen que resolver, que se tienen que atender para que todos los mexicanos vivamos felices y en paz.
+
+
+
+
+Las niñas, los niños, los jóvenes, los papás, las mamás, los abuelitos, las abuelitas, que seamos muy felices en México.
+Y hoy les invitamos, porque es el Día del Niño y de la Niña, y son ustedes nuestros invitados especiales.
+¿Cómo lo ven? ¿Está bien?
+Bueno, entonces, vamos a aplaudirle a las niñas y a los niños. Y la felicitación a todas las niñas y los niños de México.
+Parte de nuestro trabajo es informar a los ciudadanos de lo que se hace en el gobierno, todas las mañanas tenemos este encuentro con los periodistas, mujeres, hombres, que se dedican a informar. Ese es el oficio del periodismo, los que trabajan para informar a todos los ciudadanos.
+Y todos los días tenemos esta reunión y se informa, a través de los periodistas, de los medios, a toda la población, se llama rueda de prensa. Nosotros decimos diálogo circular, porque no sólo hablamos nosotros, sino los periodistas preguntan y nosotros contestamos, son mensajes de ida y vuelta, de allá para acá y de aquí para allá. Se establece ese diálogo.
+Se hacen estos encuentros todos los días de siete a ocho de la mañana. Son las siete, siete con dos, se llevan a cabo estos encuentros con los periodistas.
+Les invitamos para que puedan ustedes ahora, como testigos, como invitados especiales, presenciar cómo es esta conferencia de prensa.
+Vamos a comenzar ya.
+Ahora en las sillas de atrás están las periodistas y los periodistas que siempre están aquí adelante, pero ahora ustedes son los invitados especiales por eso están en las primeras filas.
+Voy a informar a las compañeras, compañeros de los medios de comunicación y a los ciudadanos que nos ven, que nos escuchan, que estamos muy contentos, muy satisfechos por la aprobación ayer en el Senado de la Reforma Laboral.
+Fue un avance importante porque se logra que los trabajadores tengan garantizados sus derechos para elegir con libertad a sus representantes, que los líderes sindicales no sean impuestos, sino que sean electos por los trabajadores y que haya democracia sindical.
+Antes de esta reforma no había voto libre, directo, secreto de los trabajadores para elegir a sus representantes sindicales. Ahora van a ser los trabajadores los que van a elegir libremente. Es un gran avance en beneficio de los trabajadores de México.
+Esto que se logró, gracias a la participación de todos los sectores, porque esta reforma fue apoyada por los empresarios, fue apoyada por los sindicatos, fue apoyada por los legisladores, por los senadores; también por los diputados va a ser apoyada esta reforma.
+Tiene esta reforma, además, un complemento que es muy importante, que se cumple con un compromiso que se hizo con el gobierno de Estados Unidos para la firma del Tratado de Libre Comercio.
+Se hizo el compromiso de que se iba a llevar a cabo una reforma laboral, apegada a lo que exigen las normas internacionales en cuanto a la defensa de los derechos laborales.
+Entonces, al aprobarse ayer esta Reforma Laboral se cumplen dos propósitos, el principal es que se beneficia a los trabajadores mexicanos porque se establece la democracia sindical, el voto libre, el voto secreto, el que se consulte siempre a los trabajadores, que no hagan acuerdo los líderes a espaldas de los trabajadores, para que así defiendan los derechos que tienen los trabajadores mexicanos.
+Ese es el propósito principal, pero también, repito, se cumple con el compromiso que se hizo con el gobierno de Estados Unidos. Estamos demostrando que en México cumplimos los compromisos.
+Se dijo que se iba a aprobar esta reforma y ya cumplimos, ahora corresponde al gobierno de Estados Unidos, a los legisladores de Estados Unidos, terminar de aprobar el Tratado de Libre Comercio. Nosotros estamos cumpliendo y queremos ese Tratado de Libre Comercio con Estados Unidos y con Canadá.
+Para hablar sobre esto e invitado a Jesús Seade, economista, subsecretario de Relaciones Exteriores, y quien nos representa en las negociaciones del Tratado de Libre Comercio.
+Él es el representante de nuestro gobierno en las negociaciones que se llevan a cabo en Estados Unidos y en Canadá, Jesús Seade.
+Y él va a explicar la importancia que tiene lo que se aprobó el día de ayer, la Reforma Laboral, la importancia que tiene, sobre todo por el cumplimiento de nuestra palabra en cuanto a la firma del Tratado de Libre Comercio.
+Entonces, vamos a escuchar a Jesús Seade.
+JESÚS SEADE KURI, SUBSECRETARIO PARA AMÉRICA DEL NORTE DE LA SECRETARÍA DE RELACIONES EXTERIORES: Muy buenos días a todas y a todos, en particular, a los invitados de honor, a los invitados especiales, en este su día.
+En efecto, como dijo el señor presidente, hemos completado una reforma, la legislación para una reforma extremadamente importante para México.
+Como ustedes saben, como ustedes los niños de México están estudiando en la escuela, México tiene una tradición muy distinguida de leyes en materia laboral, fuimos el primer país del mundo que, a principios de siglo pasado, hace 102 años, basamos nuestra Constitución, en la cual hay un artículo, artículo 123, que garantiza todos los derechos más modernos para los trabajadores, para defender su bienestar, su buena participación, su libertad y su libertad sindical.
+Con ese sistema tuvimos una buena protección de los trabajadores durante gran parte del siglo pasado, de los años 30, 40, 50, 60, 70, pero después, a partir de hace 30 años, una cosa así, quizás buscando mayor competitividad en los mercados internacionales con el TLCAN, para ser competitivos, empezaron a reducirse los sueldos de los trabajadores en forma artificial.
+Y un elemento clave para poder lograr eso era que los trabajadores, en realidad no tenían libertad sindical, tenían sindicatos, pero muchos de estos sindicatos no eran escogidos por los trabajadores, y los contratos que los sindicatos negociaban no eran del conocimiento de los trabajadores hasta que ya se aplicaban. Ellos no elegían aceptar esos contratos ni esos sindicatos.
+Esto nos empezó a dar muchos dolores de cabeza, problemas, a partir del propio TLCAN que se firmó hace 25 años, se hizo necesario, en aquel entonces, hacer un acuerdo internacional de mayor libertad para los trabajadores, pero esto no se reflejó en ley detallada en México, y en realidad las cosas no cambiaron.
+Y durante los últimos 20, 25 años hemos sido sujetos de muchas críticas de organismos internacionales.
+El organismo especialista en cosas de trabajo, que se llama Organización Internacional del Trabajo, que está basado en Europa, ha sacado muchos informes siendo muy crítico de la situación sindical, de cómo funcionan estas materias para los trabajadores en México, al mismo tiempo Estados Unidos también, Canadá.
+Entonces, había muchas presiones por fuera y había muchas presiones por dentro, porque hay una cosa que se llama el salario real, que es el sueldo que reciben los trabajadores comparado a los precios, y éste fue el más alto de América Latina en los años 70, y desde entonces ha ido cayendo, cayendo, cayendo, y ahora es uno de los más bajos entre los países grandes de América Latina.
+Entonces, todo esto reclamaba corrección para satisfacer las necesidades y los derechos de nuestros trabajadores y también los compromisos tomados por fuera.
+En ese contexto nosotros adoptamos un compromiso en el TLCAN de hacer lo que queríamos hacer por razones internas de México y ayer se completó la aprobación, por parte de los senadores, los diputados ya habían aprobado antes, de una Reforma Laboral extremadamente buena para México, muy moderna, muy ambiciosa, con muchos elementos de protección al trabajador, estabilidad en sus empleos, justicia en sus salarios.
+Pero, sobre todo, lo más importante, es que los trabajadores escogen mediante un voto libre y secreto a sus representantes y también los trabajadores tienen que estar de acuerdo con el contrato bajo el cual van a trabajar en un voto libre y secreto.
+Con eso cumplimos con estos trabajadores, cumplimos con una necesidad de muchas décadas de nuestro país y cumplimos con los compromisos tomados con el exterior, en particular, con Estados Unidos y Canadá, con el Acuerdo de Libre Comercio, que queremos que salga adelante, pero también con otros organismos que han invitado a México a corregir sus formas de relacionarse con los trabajadores.
+Esto es algo muy positivo para México. Estamos muy contentos.
+Muchas gracias, señor presidente.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Pues es básicamente la información.
+Como complemento, nos acompaña la secretaria de Gobernación, niñas y niños, la licenciada Olga Sánchez Cordero, ella es secretaria de Gobernación.
+Por primera vez en la historia una mujer es secretaria de Gobernación, la licenciada Olga Sánchez Cordero.
+Porque como ustedes saben tenemos que ser iguales, buscar la igualdad, nada que sólo los hombres puedan participar, tienen que participar mujeres y hombres en igualdad, en todo, niñas y niños.
+Entonces, también en el gobierno hay esta igualdad en los cargos que se tienen en el gobierno federal, la mitad son mujeres en las secretarías, son 10 hombres y ocho mujeres. Así es el gobierno, el Gabinete.
+En la Cámara de Diputados, en la Cámara de Senadores, lo mismo, ya se logró también esta igualdad, mujeres y hombres, igual. Antes no era así, ya hemos ido avanzando en eso y hay que seguir avanzando.
+Y también nos acompaña el secretario de Educación Pública, Esteban Moctezuma, él es el encargado de todo lo relacionada con la educación pública, el prescolar, la primaria, la secundaria.
+¿Ustedes están en primaria?, ¿en qué año?
+Segundo, o sea, tienen siete años en promedio, ocho, siete, claro, siete.
+Esteban se hace cargo de prescolar, primaria, secundaria, que se le llama educación básica.
+Luego, también Esteban se hace cargo de la educación media superior, lo que antes se conocía como como preparatoria, que son los colegios de bachilleres, las escuelas técnicas.
+Y también se hace cargo de la educación superior, las universidades, los institutos, y más allá de la licenciatura están los posgrados, maestría, doctorado. Toda la educación, que es muy importante.
+Ese es el trabajo de Esteban, que trata con las maestras, los maestros de México, que son muy buenos.
+¿Ustedes que opinan de las maestras y de los maestros? ¿Son buenos?
+A ver, a ver, a ver, esto es muy importante.
+¿Sí les enseñan?
+Bueno, un aplauso para las maestras y los maestros.
+Dicho todo lo anterior, ahora vamos a pasar a las preguntas y a las respuestas.
+PREGUNTA: Presidente constitucional de México. Carlos Pozos, de Líderes Mexicanos, Petróleo y Energía.
+Presidente, pues ya en el tema laboral, yo quisiera preguntarle, mañana es Día del Trabajo, saber si usted va a trabajar y saber si va a haber el desfile del 1º de Mayo, como se venía haciendo en años anteriores.
+Y sobre ese mismo tema, señor presidente, quisiera saber respecto al Programa de Jóvenes Construyendo el Futuro, se tiene reportes que hay 23 mil 900 inscritos, pero que serán capacitados en tortillerías, fondas y tiendas, y no tendrán el conocimiento de nuevas habilidades que usted nos pudiera explicar.
+Esa es la primera pregunta y una más, nada más, si usted me responde.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Mañana, en efecto, es Día del Trabajo; como lo han hecho siempre los sindicatos van a manifestarse, van a haber marchas de las distintas organizaciones laborales.
+Es su derecho de manifestación, van a expresarse con libertad todos los sindicatos. Tengo ese informe.
+Empiezan a reunirse desde muy temprano todas las expresiones sindicales, todas las corrientes, todas las tendencias que hay en el sindicalismo mexicano.
+Y yo estoy haciendo una invitación a dirigentes de todas las expresiones lo más plural que se pueda para que podamos convivir mañana al medio día, terminando las manifestaciones, invitar a algunos dirigentes para que podamos platicar y reafirmar nuestros compromisos con el sector laboral.
+INTERLOCUTOR: ¿Pero va a encabezar usted desde balcón presidencial?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: No, no, porque en esta ocasión es una manifestación libre de todos los trabajadores.
+Vamos a analizar si conviene o no el hacerlo como se acostumbraba anteriormente.
+Yo soy más partidario de que el Día del Trabajo sea un día de manifestación libre de las demandas de los trabajadores, que haya independencia, autonomía, y que, incluso, se expresen las denuncias y las inconformidades en contra del gobierno como debe de ser.
+Así surge este día, para eso se estableció, para conmemorar un hecho histórico en el que se comete una gran injusticia a los trabajadores, que se reprime a los trabajadores en Chicago.
+Por eso surge este día y es un día para la protesta, no para el aplauso. Es para que los trabajadores se manifiesten.
+Es muy importante lo que comentaba Jesús Seade, a ver si ponen la gráfica, porque en este marco es que se va a conmemorar el Día del Trabajo.
+Jesús nos explicaba lo que ha significado la política neoliberal o neoporfirista en cuanto al salario de los trabajadores.
+Luego de ser México el país con los mejores salarios en toda América Latina, miren allá arriba, 1976, miren como viene cayendo. Lo rojo es cómo se viene deteriorando el salario y llega a ser uno de los salarios más bajos de América y del mundo.
+Es para nosotros muy satisfactorio poder decir que al inicio de este gobierno se da un aumento al salario mínimo y también a los salarios en general.
+Y ya se ve aquí muy poquito, pero ya empieza a repuntar, ya cambia. Ya no va a seguir cayendo, va a ir poco a poco el salario recuperando su poder de compra, su poder adquisitivo.
+Entonces, en este marco es que el día de ayer se aprueba la Reforma Laboral y mañana, pues es el Día del Trabajo.
+INTERLOCUTOR: Presidente mi segunda pregunta, en 2018 usted anuncia la descentralización de las secretarías del actual gabinete, quisiéramos saber cuál es el estado que guarda esta descentralización.
+Y, finalmente, la Ley de Austeridad está en stand by, hoy concluye sesiones el Congreso y si usted podría enviar un memorándum para que esta ley pudiera salir adelante.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Va la descentralización, se está llevando a cabo poco a poco, pero sí ya una parte de Cultura está en Tlaxcala, una parte de la Secretaría de Turismo está en Chetumal, ya prácticamente toda la Secretaría de Energía está en Villahermosa, hay un proceso de mudanza, Pemex va a Ciudad del Carmen.
+Se tiene que descentralizar el gobierno, es un compromiso que hicimos y va a cumplirse.
+Acerca de la Ley de Austeridad, yo espero que se apruebe para que no haya lujos en el gobierno, ya se han tomado medidas. Sin esa ley ya se redujo el salario de los altos funcionarios públicos, ya no hay fondo de ahorro especial para los altos funcionarios públicos, ya no hay atención médica privada para los altos funcionarios públicos, ya no se viaja en avión, en helicóptero particular, privado. Todos tenemos que viajar en aviones de línea.
+Ya ha habido muchas medidas de austeridad, pero falta que se apruebe la ley, porque vienen otras medidas.
+INTERLOCUTOR: ¿Cuáles?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Por ejemplo, el uso de vehículos. No se van a comprar vehículos nuevos, ni se van a rentar vehículos en el gobierno, en toda la administración, sólo las patrullas, las ambulancias, los equipos para bomberos, lo que se requiera para la protección civil, pero no vehículos particulares para funcionarios públicos.
+¿Qué otras medidas?
+Se van a reducir al mínimo los viajes al extranjero, van a ser autorizados por el presidente. No van a poder salir del país si no hay una autorización y una comisión especial que lo amerite.
+Vamos a controlar todo el gasto en viáticos, se va a controlar el gasto en combustibles, en la telefonía. Va a ser un gobierno completamente austero.
+Ya se están tomando estas medidas, pero estamos esperando la aplicación o la aprobación de esta ley para que no haya gobierno rico con pueblo pobre.
+Que no nos ensimismemos, porque lo que pasaba es que todo el presupuesto se quedaba en el mismo gobierno y no se destinaba el presupuesto al pueblo.
+Todo el presupuesto era para pagar sueldos elevados, para que los altos funcionarios se dieran la gran vida y no había presupuesto para atender las necesidades de la gente.
+Ahora le va a costar mucho menos el gobierno al pueblo, porque le costaba mucho al pueblo de México mantener al gobierno. Era un gobierno mantenido y bueno para nada. Todo esto va a cambiar.
+INTERLOCUTOR: Muchas gracias.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Ustedes dos.
+PREGUNTA: Señor presidente. Jaime Hernández, de Bajo Palabra.
+Usted ha dicho reiteradamente que primero, antes que otra cosa, la justicia y el combate a la corrupción, también ha expresado su respeto a la autonomía de los poderes de los estados; sin embargo, existe un clamor popular contra la deficiente y corrupta procuración de justicia en los estados del país, donde jueces y magistrados se han convertido en una mafia nepotista que reparte los cargos del Poder Judicial a hijos, primos, amantes, amigos, dejando fuera a personal con carrera judicial, hay más militares, funcionarios y hasta gobernadores sancionados que jueces y magistrados por ineficacia y corrupción.
+Pasa lo mismo con las fiscalías donde para resolver los casos de alto impacto inventan pruebas y declaraciones, un ejemplo es en Guerrero, donde un padre y su hijo fueron secuestrados por judiciales y luego presentados como culpables de homicidio de un empresario.
+Este tipo de inmoralidades del Poder Judicial se repiten a lo largo del país.
+Mi pregunta es: ¿cómo hará usted para que la justicia y el combate a la corrupción de la Cuarta Transformación alcance también a la corrompida procuración de justicia en el país, respetando la autonomía de los poderes de los estados?
+¿Ha pensado que también hace falta una purificación del Poder Judicial en el país para que haya justicia confiable y sobre todo expedita?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Yo creo que se va a ir avanzando cada vez más en la impartición de justicia.
+En efecto, había un mal ejemplo de parte del Poder Ejecutivo, se castigaba a los adversarios, se fabricaban delitos y se garantizaba impunidad a los cercanos. Se castigaba a los que tenían agarraderas, influencias, a los que no tenían con qué comprar su inocencia.
+Todo eso va a cambiar y ayuda mucho el ejemplo que se dé desde el Ejecutivo, sino hay impunidad, si el Ejecutivo no protege a nadie esto va a hacer la diferencia, porque antes había consigna de parte del Ejecutivo, intervenía el Ejecutivo en el Poder Judicial para que se actuara a favor o en contra de las personas.
+También antes el procurador era un empleado del presidente, ahora el fiscal general, que antes era el procurador, es independiente.
+Yo no hablo con el fiscal, lo saludé la última vez hace una semana en un acto, pero desde que lo nombraron nunca me he reunido con él, ni he hablado por teléfono con él. Yo creo que ya lleva como dos meses.
+Y no me he reunido con él ni he hablado por teléfono con él, con el fiscal, porque es independiente, es autónomo.
+Lo que estamos nosotros plateando es que todos los asuntos que tienen que ver con la Fiscalía se deben de atender y vamos a estar presentando cuántos asuntos se han enviado a la Fiscalía y qué ha habido de respuesta.
+En cuanto al Poder Judicial lo mismo, no hay autorización de nadie para ir a pedir favores a jueces, a magistrados, a ministros. Es un poder independiente, es un poder autónomo.
+Eso no existía, antes había hasta teléfono directo del presidente de la República al presidente de la Corte, un teléfono rojo.
+Y a lo largo de la historia, sobre todo en el porfiriato y después de la Revolución también, el que mandaba en el Poder Judicial era el presidente. El Ejecutivo era el poder de los poderes.
+Eso se terminó, se acabó, es de los cambios muy importantes.
+Y yo celebro que ahora, en la renovación de la Suprema Corte, estén llegando ministros nuevos. El presidente de la Suprema Corte es un hombre honesto, recto.
+Entonces, tengo confianza de que se va a limpiar el Poder Judicial, pero lo tienen que hacer ellos, lo tienen que hacer los propios integrantes del Poder Judicial. No lo puede hacer el Ejecutivo, sería una interferencia, sería violatorio de la Constitución, porque es un poder autónomo.
+Yo espero que se limpie el Poder Judicial, que los jueces actúen con apego a la ley, que no sean corruptos, jueces, magistrados, que los ministros también sean gente íntegra, mujeres y hombres que actúen con integridad. Es un proceso.
+Y luego están los poderes de los estados que son gobiernos soberanos, también autónomos, sería muy bueno que los presidentes de los Tribunales Superiores de Justicia de los estados no fuesen empleados de los gobernadores.
+Porque resulta, con todo respeto, que la mayoría de los presidentes de los poderes judiciales en los estados, el Tribunal Superior de Justicia del estado depende del gobernador, casi en todos, es una mala costumbre. Entonces no hay independencia.
+Cuando fui jefe de Gobierno fueron a verme los magistrados del Tribunal Superior de Justicia del Distrito Federal en ese entonces, para decirme, porque iban a elegir al presidente, que cuál era mi opinión. Y les recomendé que de manera libre los magistrados eligieran al presidente.
+Estaban sorprendidos, pero así se hizo, de manera democrática los mismos magistrados en el Distrito Federal eligieron al presidente. Eso no se acostumbraba, y todavía no se ha cambiado esa práctica en la mayoría de los estados.
+Ojalá y se le dé libertad, autonomía, o que el Poder Judicial en los estados se rebele. La libertad no se implora, se conquista.
+¿Cómo van a estar los del Poder Judicial en un estado o los del Poder Legislativo en un estado, porque también sucede con los congresos locales, subordinados a los titulares del Poder Ejecutivo en los estados?
+Es un proceso de cambio.
+Y regresamos a lo de ayer, imagínense que ahora los trabajadores van a poder elegir a sus dirigentes. Voto libre, secreto.
+Me han informado que se aprobó en el Senado también una modificación al artículo 123 para que la democracia sindical aplique a los trabajadores al servicio del estado, ojalá y se apruebe, porque también los maestros van a tener que elegir a sus dirigentes sindicales con voto libre, directo, secreto. Y la verdad va a ser muy interesante observar una elección de todos los maestros de México para ver quiénes van a ser sus dirigentes, en elección abierta, libre, con voto secreto.
+Y sería extraordinario, eso sería un paso más, que estas elecciones las organizara el instituto electoral. Se podría llevar a cabo.
+Entonces todos, sin compra de voto, sin amenazas, voto libre.
+Imagínense en el sindicato petrolero, me lo plantean, me lo están demandando, pero yo no puedo intervenir.
+Ahora, ya con la nueva ley, los dirigentes de secciones del sindicato petrolero tienen que ser electos por los trabajadores. Voto secreto.
+¿Saben cómo votaban?
+Tenían que mostrar su identificación y ahí los apuntaban. Y claro que había represalias.
+Se ponía cerca de la mesa donde estaban votando un representante del sindicato para estar apuntando. Ya eso se termina.
+Y vamos a cuidar que se respete lo que se está aprobando en la ley, que no haya simulación.
+Muy bien.
+La compañera.
+PREGUNTA: Guadalupe Lizárraga, Los Ángeles Press.
+Señor presidente, ¿cómo hace valer su palabra aquí en las conferencias de prensa para que se transforme en una auténtica gestión pública, esto porque como se hace para que sus instrucciones se den seguimiento por su gobierno?
+Lo digo porque en el caso del titular del Instituto de Mexicanos en el Exterior, Roberto Valdovinos, ha estado prohibiendo la entrada a migrantes a los foros consultivos en Estados Unidos.
+Uno de estos foros fue en Nueva York recientemente y a la persona a la que se prohibió entrar a este foro es un migrante con más de 20 años, Francisco Ramírez, albañil de oficio y un activista de derechos humanos, entre otras cuatro personas más.
+A él se prohíbe la entrada por ser crítico, por haber sido crítico en su campaña de gobierno, en su campaña para la presidencia en Nueva York, en una de sus visitas, además de ese caso, pues fue maltratado verbalmente, físicamente.
+Otro de los puntos es la libertad de expresión, la censura que aquí mismo en la conferencia de prensa yo he sufrido, porque su conferencia de prensa fue cortada en mi denuncia sobre la falsedad del caso Wallace, por revelar las agresiones de parte de Isabel Miranda, y en esta parte Notimex cortó esa parte del video.
+Y, además, también hay denuncias en el Senado, hay un punto de acuerdo por las violaciones a los derechos laborales de corresponsales en el extranjero, también por esta agencia del Estado.
+Esa es mi pregunta.
+Muchas gracias.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Ya se escuchó la denuncia y el secretario de Relaciones Exteriores tiene que atenderlo.
+No hay ninguna indicación para limitar a nadie en su derecho de manifestación, a nadie. Puede ser que alguien se tome estas atribuciones y, además, también no se puede de la noche a la mañana eliminar por completo el autoritarismo. Llevamos unos meses.
+Siempre digo que todavía no termina de irse el viejo régimen con sus prácticas y no termina todavía de nacer lo nuevo. Es un proceso de transición, lleva tiempo, porque es un asunto incluso de mentalidad, de cambio de mentalidad.
+Entonces, poco a poco tienen que ir entendiendo que nosotros somos servidores públicos, siervos de la nación y que tenemos que escuchar a todos y respetar a todos.
+Entonces, el hecho de que tú estés expresándote, como lo estás haciendo, con libertad y que nos estén escuchando, y que sepa el señor que estás señalando, que no dejó pasar o participar a un migrante, ya este hecho es algo positivo, porque antes no se escuchaba a nadie, se silenciaba todo y además que Marcelo Ebrard tome cartas en el asunto.
+Acerca de si hubo censura en Notimex, no creo. En el caso de Notimex también ya dio un cambio, quien está a cargo de Notimex es una periodista profesional, íntegra, incapaz de censurar a nadie.
+Y aquí nos están viendo miles de personas, nos están viendo y nos están escuchando. Entonces, no hay censura, hay transparencia completa.
+Una más. A ver.
+PREGUNTA: Presidente, buenos días. Y bienvenidos a los niños.
+En el caso de Venezuela, presidente, sobre este intento de golpe de estado que está denunciando el gobierno de Nicolás Maduro y este llamamiento a salir a las calles a los militares y a los ciudadanos que hace Juan Guaidó.
+¿Cuál es el posicionamiento que tiene su gobierno, presidente?, ¿cuál es el llamado que hace a lo que está sucediendo en estos momentos en calles de Venezuela?
+Gracias.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR:  El mismo de siempre, apego a nuestra Constitución, no intervención y autodeterminación de los pueblos, y solución pacífica en los conflictos. No intervenir en estos casos. Es muy clara nuestra postura.
+Deseamos que haya diálogo, que se respeten los derechos humanos, que no se apueste a la violencia en todos los países del mundo. Pero no intervenimos, porque el respeto al derecho ajeno es la paz.
+Muchas gracias.
+Tenemos que irnos, porque vamos a desayunar con las niñas y con los niños.
+Les informo, voy a estar también, voy a estar en la reunión del Infonavit. Voy a estar el día de hoy como parte de mi agenda.
+Y vamos ahora a desayunar, ya es la hora de desayunar con las niñas y con los niños.
+Muchas gracias. Vámonos, vámonos.
++++++
+
+
+
+
+
+
+
+Conferencia de prensa matutinaConferencia de prensa matutina
+
+
+
+Sala de prensaSala de prensa
+
+
+
+DocumentosDocumentos
+
+
+
+GabineteGabinete
+
+
+
+Semáforo de riesgo epidémico
+
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 100%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+Enlaces de interés
+
+Aprende en casa II
+Atlas Nacional de Riesgos – Cenapred
+Becas Benito Juárez
+Becas para estudiantes
+Ciudadanos Alertadores
+Gobierno de México
+INAPAM
+Instituto de Salud para el Bienestar
+Jóvenes Construyendo el Futuro
+Liconsa
+Pensión Adultos Mayores
+Planeando juntos
+Proequidad
+Programa Nacional de Reconstrucción
+Proyecto Refinería Dos Bocas
+Responsabilidad Compartida – Infonavit
+Sembrando Vida
+SSA Nuevo coronavirus COVID-19
+Trabajadoras del hogar – programa de afiliación al IMSS
+Universidad de la Salud – CDMX
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close
+
+
+
+
+
+
+
+
+
+
+
+Contacto Andrés Manuel López Obrador
+Presidente de México
+t. 5093 4900
+t. 01800 080 1127
+Puerta 8 Palacio Nacional, Plaza de la Constitución S/N, Colonia Centro, Ciudad de México, C.P. 06066
+Aviso de privacidad
+
+
+
+
+
+
+
+
+
+
+
+
+
+					Copyright © 2021				
+
+
+
+					Developed by ThemeMakers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"es","ajaxurl":"https:\/\/presidente.gob.mx\/wp-admin\/admin-ajax.php","nonce":"51b38c8652","display_exif":"0","display_geo":"1","background_color":"white","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"0","login_url":"https:\/\/presidente.gob.mx\/administrador\/?redirect_to=https%3A%2F%2Fpresidente.gob.mx%2Fversion-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-73%2F","local_comments_commenting_as":"<fieldset><label for=\"email\">Email<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>"};
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"es","ajaxurl":"https:\/\/presidente.gob.mx\/wp-admin\/admin-ajax.php","nonce":"51b38c8652","display_exif":"0","display_geo":"1","display_comments":"0","fullsize_display":"0","background_color":"white","comment":"","post_comment":"Post Comment","loading_comments":"","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"0","login_url":"https:\/\/presidente.gob.mx\/administrador\/?redirect_to=https%3A%2F%2Fpresidente.gob.mx%2Fversion-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-73%2F"};
+/* ]]> */
+
+
+
+
+
+

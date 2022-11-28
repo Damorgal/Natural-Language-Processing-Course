@@ -1,0 +1,486 @@
+
+
+
+  
+
+
+
+
+
+
+
+09.01.19 Versión estenográfica de la XXX Reunión con Embajadores y Cónsules – Presidente de México
+
+			var tmm_lang_no_events = "No events at this period!";
+			
+			var lang_january =  "January";
+			var lang_february = "February";
+			var lang_march =    "March";
+			var lang_april =    "April";
+			var lang_may =      "May";
+			var lang_june =     "June";
+			var lang_july =     "July";
+			var lang_august =   "August";
+			var lang_september = "September";
+			var lang_october =  "October";
+			var lang_november = "November";
+			var lang_december = "December";
+
+			var lang_sunday =   "Sunday";
+			var lang_monday =   "Monday";
+			var lang_tuesday =  "Tuesday";
+			var lang_wednesday = "Wednesday";
+			var lang_thursday = "Thursday";
+			var lang_friday =   "Friday";
+			var lang_saturday = "Saturday";
+
+			var lang_sun = "Sun";
+			var lang_mon = "Mon";
+			var lang_tue = "Tue";
+			var lang_wed = "Wed";
+			var lang_thu = "Thu";
+			var lang_fri = "Fri";
+			var lang_sat = "Sat";
+
+			var lang_today = "today";
+			var lang_month = "month";
+			var lang_week = "week";
+			var lang_day = "day";
+			var lang_time = "Time";
+			var lang_place = "Place";
+			var error_fetching_events = "There was an error while fetching events!";
+
+			var events_time_format = "0";
+			var events_date_format = 0;
+		
+#wpadminbar { display: none; }
+
+						var is_single_page = true;//for breadcumbs definitions it theme.js
+						var site_url = "https://presidente.gob.mx";
+			var capcha_image_url = "https://presidente.gob.mx/wp-content/themes/diplomat/helper/capcha/image.php/";
+			var template_directory = "https://presidente.gob.mx/wp-content/themes/diplomat/";
+			var ajaxurl = "https://presidente.gob.mx/wp-admin/admin-ajax.php";
+			var ajax_nonce = "f72e8039a7";
+			var lang_enter_correctly = "Please enter correct";
+			var lang_sended_succsessfully = "Your message has been sent successfully!";
+			var lang_server_failed = "Server failed. Send later";
+			var lang_any = "Any";
+			var lang_home = "Home";
+			var lang_attach_more_else = "You cant add more else attachments!";
+			var lang_loading = "Loading ...";
+			var lang_mail_sending = "Mail sending ...";
+			var charcount = "3";
+			var widget_advanced_search = "1";
+			var menu_advanced_search = "1";
+			var fixed_menu = "1";
+			var appearing_speed = "50";
+		
+
+
+
+
+
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/presidente.gob.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=0f8a22554fdb4f1563c296282135734f"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		
+
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var LS_Meta = {"v":"6.11.5","fixGSAP":"1"};
+/* ]]> */
+
+
+
+
+
+
+/* Run FooBox FREE (v2.7.16) */
+var FOOBOX = window.FOOBOX = {
+	ready: true,
+	disableOthers: false,
+	o: {wordpress: { enabled: true }, countMessage:'image %index of %total', excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }},
+	selectors: [
+		".gallery", ".wp-block-gallery", ".wp-caption", ".wp-block-image", "a:has(img[class*=wp-image-])", ".foobox"
+	],
+	pre: function( $ ){
+		// Custom JavaScript (Pre)
+		
+	},
+	post: function( $ ){
+		// Custom JavaScript (Post)
+		
+		// Custom Captions Code
+		
+	},
+	custom: function( $ ){
+		// Custom Extra JS
+		
+	}
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body.custom-background { background-color: #ffffff; }
+
+
+
+
+
+
+
+    var analyticsFileTypes = [''];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+
+
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-144351937-1', 'auto');
+ 
+	ga('send', 'pageview');
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144481486-1');
+
+!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="epsuwqqxg47ssya55ywq-f-7eeaa4e5c-clientnsv4-s.akamaihd.net",i={"ak.v":"30","ak.cp":"959687","ak.ai":parseInt("615102",10),"ak.ol":"0","ak.cr":11,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"1ea18e74","ak.r":36140,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"35.229.75.0","ak.cport":46996,"ak.gh":"23.55.63.37","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1612574253","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==90NtIg3Cv6KNd9/UEB+g8PAEFUiJEK3+evJevun9lca+m0S9sFRylfdkpwM7j4KUhglP0lro3RdbFVcnVOjcUv85ULsB95S7P1onp7Km3t2hkGhfnVitpwlPJvrblXAClkorFKwdqsCxkE50iczZqxVZf3DTn2f8cbpd3c/Zs+lrBraE7GGJnRRMGV72oA4Mjk3s0TmjQ+J7ROqm3Iv3h5NR1hH6WO0IWe8c9PhJLY/dE1mckKdOOF11V0WwQKRiAamTTFcGZ/M7EJzVDG4IvK8BVZaHTRKcQDvIzT6vEVMVkSDLn8w1YC6819PRxpfCnmqtKpiDhC7i7qmA9qdu2kYjn1/3QYWtaX+ZTAe25Yi8OrqfnUrdVrvMQrOmyv0py/3OntYR9oJ7PJ52PQ+VWKWCRAAPoU8n+u8+txBQogU=","ak.pv":"11","ak.dpoabenc":""};if(""!==t)i["ak.ruds"]=t;var _={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))i["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:n,init:function(){if(!_.i){var a=BOOMR.subscribe;a("before_beacon",_.av,null,null),a("onbeacon",_.rv,null,null),_.i=!0}return this},is_complete:function(){return!0}}}}()}(window);
+
+
+(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Inicio
+Sala de Prensa
+
+Boletines
+Transcripciones
+Documentos
+Fotogalería
+Videos
+
+
+Coronavirus COVID-19
+Gabinete
+Oficina de la Presidencia
+Biografía
+Contacto
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+09.01.19 Versión estenográfica de la XXX Reunión con Embajadores y Cónsules
+
+Home Versión Estenográfica 09.01.19 Versión estenográfica de la XXX Reunión con Embajadores y Cónsules 					
+
+
+
+
+
+
+
+
+
+09.01.19 Versión estenográfica de la XXX Reunión con Embajadores y Cónsules
+
+
+VE-061
+Versión estenográfica
+Palacio Nacional, 9 de enero de 2019
+XXX Reunión con Embajadores y Cónsules (REC)
+MODERADOR: Damas y caballeros, escuchemos el mensaje del presidente de los Estados Unidos Mexicanos, licenciado Andrés Manuel López Obrador.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Amigas, amigos.
+Me da mucho gusto compartir con ustedes este momento, participar en este foro, en el marco del encuentro anual de embajadores, de cónsules, que nos representan en los distintos países del mundo.
+Me da, la verdad, mucho gusto que nos acompañen en este acto personalidades de la diplomacia, del sector público, del sector empresarial, dirigentes sociales; el que estén aquí legisladores.
+Voy a mencionar algunos, no podría hacerlo con todos, por cuestiones de tiempo, pero pienso que nos vamos a sentir representados con las menciones que voy a hacer.
+
+Está aquí, por ejemplo, el diputado Porfirio Muñoz Ledo, el diputado Mario Delgado, el senador Héctor Vasconcelos, la senadora Beatriz Paredes, la senadora Josefina Vázquez Mota, el senador Martí Batres; el licenciado Miguel Alemán, el licenciado Juan Pablo Castañón, presidente del Consejo Coordinador Empresarial; Alejandro Ramírez, presidente del Consejo de Negocios; el empresario Valentín Diez Morodo.
+Ya escuchamos al doctor Juan Ramón de la Fuente, nuestro representante en la ONU; Martha Bárcena, nuestra representante embajadora de México en Estados Unidos, y me da mucho gusto presentar al embajador Bernardo Sepúlveda.
+Como aquí se ha expresado, estamos iniciando un proceso de transformación en nuestro país, que denominamos la Cuarta Transformación de la vida pública de México, tomando como antecedente la transformación que significó la Independencia, la Reforma y el movimiento revolucionario de 1910.
+Y esta Cuarta Transformación tiene el propósito central de erradicar, de acabar con la corrupción en nuestro país.
+Pensamos, y esto es tema de discusión, de análisis, de debate respetuoso, que ese es el principal problema del país, que por la corrupción se han producido los grandes y graves problemas de la nación en nuestro tiempo.
+Por la corrupción se padece de pobreza, de desigualdad, y también por la corrupción se produjo la inseguridad y la violencia que estamos padeciendo. 
+Por eso pensamos que requerimos limpiar de corrupción el país, empezando por limpiar de corrupción el gobierno. Que limpiemos la corrupción de arriba para abajo, como se limpian las escaleras. 
+Y que esto no sólo nos va a permitir liberar fondos para el desarrollo, muchos recursos que se van por el caño de la corrupción, sino nos va a dar fortaleza política y moral.
+La corrupción hay que combatirla por razones de carácter económico, pero también porque se necesita moralizar la vida pública, que la autoridad tenga fortaleza por la honestidad, que pongamos por delante la honestidad como forma de vida y como forma de gobierno.
+Vamos, por eso, a impulsar mucho el desarrollo sin necesidad aumentar impuestos o crear impuestos nuevos; sin endeudar al país o aumentar el déficit; sin incrementos en los precios de los insumos básicos; de manera particular, que no haya aumentos más allá de la inflación en los energéticos, en las gasolinas, en el diésel, en el gas, en la luz. 
+Ese es el propósito que, sin aumentar impuestos, sin endeudar al país, podamos financiar el desarrollo con austeridad y no permitiendo la corrupción. 
+Vamos adelante con ese propósito, vamos a impulsar mucho proyectos productivos en lo que tiene que ver con la política migratoria.
+La estrategia de fondo es construir cortinas de desarrollo de sur a norte, es decir, impulsar proyectos productivos para crear empleos de sur a norte, y estamos incluyendo también a países hermanos de Centroamérica.
+El ideal, el sueño que queremos convertir en realidad es que el mexicano pueda trabajar y ser feliz donde nació, donde están sus familiares, donde están sus costumbres, donde están sus culturales y que la migración sea optativa, no obligatoria.
+Y esto, pensamos, lo vamos a lograr con el impulso a las actividades productivas y con el crecimiento económico para la generación de empleos.
+Estamos claros que no vamos a poder financiar el desarrollo sólo con inversión pública, necesitamos de la inversión privada; y no sólo de la inversión privada nacional, requerimos también de una mayor inversión privada del extranjero, necesitamos capitales foráneos que vengan a invertir a nuestro país para que ya no tengamos tasas de crecimiento de sólo el dos por ciento anual, como ha venido sucediendo en los últimos 30 años, en tres décadas, que podamos crecer cuando menos al doble, al cuatro por ciento anual.
+Si esto lo logramos, vamos a crear empleos suficientes y va a haber bienestar y va a haber paz y va a haber tranquilidad en el país.
+Tenemos por eso que apoyarnos mucho en ustedes, nuestros representantes, embajadores, cónsules, en el extranjero; que ustedes puedan transmitir en el mundo que se está llevando a cabo una transformación en México.
+Creo que va a ser de mucha utilidad, van a ser elementos, insumos importantes el que puedan ustedes decir en poco tiempo que hay crecimiento económico en el país, que no se permite la corrupción, que hemos logrado reducir la incidencia delictiva. 
+Todo esto les va a servir para la realización de sus labores del trabajo diplomático.
+Es muy importante el que tengamos desarrollo en el país, que haya bienestar en el país. 
+Es muy importante por eso la política interna, es lo que le da sustento a la política exterior.
+Si resolvemos nuestros problemas y se fortalece México, vamos a tener respetabilidad afuera, en el extranjero, como lo merecemos por formar parte de un gran pueblo, de una gran nación.
+Yo quiero pedirles que nos ayuden mucho en la información que se va a necesitar transmitir en otros países acerca de estos cambios, que nos ayuden mucho también en la promoción económica, porque hemos decidido que ya no se tengan oficinas de las dependencias federales en el extranjero, que toda la actividad de representación de México en el extranjero la realicen las embajadas y los consulados; es de sentido común y también por cuestiones de austeridad.
+Lo mejor es que sean las embajadas y los consulados los encargados de la promoción económica, la promoción turística, lo digo de manera respetuosa. No hay aquí, en la Ciudad de México y en el país un pro Francia, un pro Alemania; son las embajadas de esos países los que hacen el trabajo de promoción. Por eso no vamos a tener ya Proméxicos en 60 ciudades del mundo.
+Y lo mismo en lo que corresponde a la promoción turística, vamos a utilizar esos fondos para financiar el Tren Maya y para que haya desarrollo, y esa es la mejor promoción que se puede hacer.
+Y con el apoyo de las embajadas, de los consulados, vamos a promover el turismo, que no se dificulta mucho, porque México es de los países con más fortaleza cultural, con más fortaleza en su patrimonio artístico, cultural; es de los países más bellos del mundo. Entonces, no cuesta mucho trabajo la promoción turística.
+Necesitamos, también, apoyar mucho a nuestros paisanos en el extranjero, de manera especial apoyar a los mexicanos que viven y trabajan en Estados Unidos. Los 50 consulados que tenemos en Estados Unidos tienen que convertirse en una especie, lo subrayo para que no por el formalismo se nos vaya a cuestionar, en una especia de procuradurías para la defensa de los migrantes.
+Tenemos que apoyar y proteger a nuestros paisanos en el extranjero; tenemos que insistir mucho en la cooperación para el desarrollo. 
+Tenemos que convencer, persuadir que lo mejor para enfrentar el fenómeno migratorio es el desarrollo, es la creación de empleos, no el uso de la fuerza, no el uso de medidas coercitivas.
+Y, en cuanto a política exterior, ceñirnos a los principios establecidos en el artículo 89 de nuestra Constitución. Tenemos que ser respetuosos de esos principios.
+Leo textualmente: ‘La autodeterminación de los pueblos, la no intervención, la solución pacífica de las controversias, la proscripción de la amenaza o el uso de la fuerza en las relaciones internacionales, la igualdad jurídica de los Estados, la cooperación internacional para el desarrollo, el respeto, la protección y promoción de los derechos humanos, y la lucha por la paz y la seguridad internacionales’.
+Relaciones de amistad y de respeto con todos los pueblos y todos los gobiernos del mundo.
+Los que están a favor o aceptan las hegemonías piensan o manifiestan que los principios constitucionales de política exterior son anticuados. No, nosotros consideramos que son principios vigentes, eficaces y justos.
+Negarlos sería como renunciar a la convicción juarista de que el pueblo y el gobierno respeten los derechos de todos: ‘Entre los individuos, como entre las naciones, el respeto al derecho ajeno es la paz’, frase célebre del discurso del presidente cuando regresó después de estar cuatro años ausente, de ir a un peregrinar defendiendo la República, a refugiarse al norte, luego del triunfo de la República contra el conservadurismo y la intervención extranjera.
+Además, insisto, son principios que debemos respetar, porque están en nuestra Constitución.
+Amigas y amigos del Servicio Exterior Mexicano, embajadores, cónsules, mujeres y hombres que colaboran en la cancillería, ya sea dentro o fuera de México; amigas y amigos todos, de manera especial, a embajadores, a cónsules:
+Confío en su patriotismo, en su desempeño, en su compromiso con las mejores causas de México. 
+Estoy seguro que sabrán estar a la altura de los desafíos que el país enfrentará en los próximos años.
+Y les pido que por favor trasmitan a todas y todos sus colaboradores, en especial a quienes hacen los consulados sobre ruedas, a aquellos que han pasado días sin dormir para evacuar a mexicanos en situaciones de emergencia; a los que visitan las cárceles, los hospitales, los centros de detención; a los diplomáticos, cónsules, que, me consta, cuidan con afecto a los niños migrantes; a los que a diario tienen la tarea triste, amarga, de repatriar los restos de los mexicanos que han muerto lejos de la patria, díganles a todos, a todos ellos que el presidente de México les está profundamente agradecido por su decisión, dedicación y esfuerzo.
+El presidente de México sabe que contamos con los diplomáticos de carrera, del Servicio Exterior, que son un ejemplo a nivel mundial; que el presidente de México les pide que sigan siendo un ejemplo para los mexicanos y para los ciudadanos de los países en los que están trabajando.
+Amigas y amigos:
+Reitero mi agradecimiento a cada uno de ustedes.
+Hago un paréntesis para hacerles la confesión de que me siento muy respaldado por Marcelo Ebrard, secretario de Relaciones Exteriores.
+Y a todas y a todos les deseo un feliz 2019, extensivo a sus familias y a sus seres queridos.
+Muchas gracias.
+
+
+
+
+
+
+
+Conferencia de prensa matutinaConferencia de prensa matutina
+
+
+
+Sala de prensaSala de prensa
+
+
+
+DocumentosDocumentos
+
+
+
+GabineteGabinete
+
+
+
+Semáforo de riesgo epidémico
+
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 100%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+Enlaces de interés
+
+Aprende en casa II
+Atlas Nacional de Riesgos – Cenapred
+Becas Benito Juárez
+Becas para estudiantes
+Ciudadanos Alertadores
+Gobierno de México
+INAPAM
+Instituto de Salud para el Bienestar
+Jóvenes Construyendo el Futuro
+Liconsa
+Pensión Adultos Mayores
+Planeando juntos
+Proequidad
+Programa Nacional de Reconstrucción
+Proyecto Refinería Dos Bocas
+Responsabilidad Compartida – Infonavit
+Sembrando Vida
+SSA Nuevo coronavirus COVID-19
+Trabajadoras del hogar – programa de afiliación al IMSS
+Universidad de la Salud – CDMX
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close
+
+
+
+
+
+
+
+
+
+
+
+Contacto Andrés Manuel López Obrador
+Presidente de México
+t. 5093 4900
+t. 01800 080 1127
+Puerta 8 Palacio Nacional, Plaza de la Constitución S/N, Colonia Centro, Ciudad de México, C.P. 06066
+Aviso de privacidad
+
+
+
+
+
+
+
+
+
+
+
+
+
+					Copyright © 2021				
+
+
+
+					Developed by ThemeMakers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"es","ajaxurl":"https:\/\/presidente.gob.mx\/wp-admin\/admin-ajax.php","nonce":"51b38c8652","display_exif":"0","display_geo":"1","background_color":"white","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"0","login_url":"https:\/\/presidente.gob.mx\/administrador\/?redirect_to=https%3A%2F%2Fpresidente.gob.mx%2Fversion-estenografica-de-la-xxx-reunion-con-embajadores-y-consules%2F","local_comments_commenting_as":"<fieldset><label for=\"email\">Email<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>"};
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"es","ajaxurl":"https:\/\/presidente.gob.mx\/wp-admin\/admin-ajax.php","nonce":"51b38c8652","display_exif":"0","display_geo":"1","display_comments":"0","fullsize_display":"0","background_color":"white","comment":"","post_comment":"Post Comment","loading_comments":"","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"0","login_url":"https:\/\/presidente.gob.mx\/administrador\/?redirect_to=https%3A%2F%2Fpresidente.gob.mx%2Fversion-estenografica-de-la-xxx-reunion-con-embajadores-y-consules%2F"};
+/* ]]> */
+
+
+
+
+
+

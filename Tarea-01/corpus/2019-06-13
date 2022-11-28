@@ -1,0 +1,532 @@
+
+
+
+  
+
+
+
+
+
+
+
+13.06.19 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador – Presidente de México
+
+			var tmm_lang_no_events = "No events at this period!";
+			
+			var lang_january =  "January";
+			var lang_february = "February";
+			var lang_march =    "March";
+			var lang_april =    "April";
+			var lang_may =      "May";
+			var lang_june =     "June";
+			var lang_july =     "July";
+			var lang_august =   "August";
+			var lang_september = "September";
+			var lang_october =  "October";
+			var lang_november = "November";
+			var lang_december = "December";
+
+			var lang_sunday =   "Sunday";
+			var lang_monday =   "Monday";
+			var lang_tuesday =  "Tuesday";
+			var lang_wednesday = "Wednesday";
+			var lang_thursday = "Thursday";
+			var lang_friday =   "Friday";
+			var lang_saturday = "Saturday";
+
+			var lang_sun = "Sun";
+			var lang_mon = "Mon";
+			var lang_tue = "Tue";
+			var lang_wed = "Wed";
+			var lang_thu = "Thu";
+			var lang_fri = "Fri";
+			var lang_sat = "Sat";
+
+			var lang_today = "today";
+			var lang_month = "month";
+			var lang_week = "week";
+			var lang_day = "day";
+			var lang_time = "Time";
+			var lang_place = "Place";
+			var error_fetching_events = "There was an error while fetching events!";
+
+			var events_time_format = "0";
+			var events_date_format = 0;
+		
+#wpadminbar { display: none; }
+
+						var is_single_page = true;//for breadcumbs definitions it theme.js
+						var site_url = "https://presidente.gob.mx";
+			var capcha_image_url = "https://presidente.gob.mx/wp-content/themes/diplomat/helper/capcha/image.php/";
+			var template_directory = "https://presidente.gob.mx/wp-content/themes/diplomat/";
+			var ajaxurl = "https://presidente.gob.mx/wp-admin/admin-ajax.php";
+			var ajax_nonce = "f72e8039a7";
+			var lang_enter_correctly = "Please enter correct";
+			var lang_sended_succsessfully = "Your message has been sent successfully!";
+			var lang_server_failed = "Server failed. Send later";
+			var lang_any = "Any";
+			var lang_home = "Home";
+			var lang_attach_more_else = "You cant add more else attachments!";
+			var lang_loading = "Loading ...";
+			var lang_mail_sending = "Mail sending ...";
+			var charcount = "3";
+			var widget_advanced_search = "1";
+			var menu_advanced_search = "1";
+			var fixed_menu = "1";
+			var appearing_speed = "50";
+		
+
+
+
+
+
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/presidente.gob.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=0f8a22554fdb4f1563c296282135734f"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		
+
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var LS_Meta = {"v":"6.11.5","fixGSAP":"1"};
+/* ]]> */
+
+
+
+
+
+
+/* Run FooBox FREE (v2.7.16) */
+var FOOBOX = window.FOOBOX = {
+	ready: true,
+	disableOthers: false,
+	o: {wordpress: { enabled: true }, countMessage:'image %index of %total', excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }},
+	selectors: [
+		".gallery", ".wp-block-gallery", ".wp-caption", ".wp-block-image", "a:has(img[class*=wp-image-])", ".foobox"
+	],
+	pre: function( $ ){
+		// Custom JavaScript (Pre)
+		
+	},
+	post: function( $ ){
+		// Custom JavaScript (Post)
+		
+		// Custom Captions Code
+		
+	},
+	custom: function( $ ){
+		// Custom Extra JS
+		
+	}
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body.custom-background { background-color: #ffffff; }
+
+
+
+
+
+
+
+    var analyticsFileTypes = [''];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+
+
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-144351937-1', 'auto');
+ 
+	ga('send', 'pageview');
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144481486-1');
+
+!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="epsuwqqxhdwwqya55ska-f-b39d0f6d2-clientnsv4-s.akamaihd.net",i={"ak.v":"30","ak.cp":"959687","ak.ai":parseInt("615102",10),"ak.ol":"0","ak.cr":11,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"33318be7","ak.r":40937,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"35.229.75.0","ak.cport":57904,"ak.gh":"23.56.236.104","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1612573844","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==PkAMqUavrJNnjdJjAZ1St8E1t9PbM0S/RZNwzAfK1Rxln28fiXbH7LYrZYE3LmhWvHANCWCZVI80YN7/ney2oZRmebW6A4Y6GJni0qrfMpvt0lCKdWKo8mAwYoGQVMBPH36bmXMFrdbHqrwz/PEWG4LsZRFwq8Yza7sacFeLZ739wtNa3E3MUtVBonEjZ+q9b8869Mh/OdLikYi3kGsng8rLadpGV0cDnCv9N6etI8dKUcurPFr1Tug2Kqu091mFmrCCRjunAxoyEqjTiFw3BITnnmmLz/N5aQ7JQwvINjadlW4SLnmyiVSjs2oR9+SOyreN8+aKpi4iOnXHblDmI023iC4mYb8xESEc7jXEup+RheAY/hFbnDaT1xfysx12UntjkmkajIrAIbOMNx0wyqHUMx9FX/zVnR/+U4DbHOc=","ak.pv":"11","ak.dpoabenc":""};if(""!==t)i["ak.ruds"]=t;var _={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))i["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:n,init:function(){if(!_.i){var a=BOOMR.subscribe;a("before_beacon",_.av,null,null),a("onbeacon",_.rv,null,null),_.i=!0}return this},is_complete:function(){return!0}}}}()}(window);
+
+
+(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Inicio
+Sala de Prensa
+
+Boletines
+Transcripciones
+Documentos
+Fotogalería
+Videos
+
+
+Coronavirus COVID-19
+Gabinete
+Oficina de la Presidencia
+Biografía
+Contacto
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+13.06.19 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador
+
+Home Versión Estenográfica 13.06.19 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador 					
+
+
+
+
+
+
+
+
+
+13.06.19 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador
+
+
+2019, Año del Caudillo del Sur, Emiliano Zapata
+MODERADOR: Buenos días, sean bienvenidos a la conmemoración de los 80 años de la llegada del exilio republicano español a México.
+Acompañan en el presídium al licenciado Andrés Manuel López Obrador, presidente de los Estados Unidos Mexicanos, licenciado Marcelo Ebrard Casaubon, secretario de Relaciones Exteriores.
+Señora Irene Lozano, secretaria de Estado de la España Global.
+Embajador Juan López-Dóriga Pérez, embajador de España en México.
+Licenciado Lázaro Cárdenas, coordinador de asesores de la Presidencia de la República.
+Señor Gerardo Fernando Bravo, presidente del Patronato del Ateneo Español de México.
+Señora Cristina Alatorre, subsecretaria de Justicia para la Memoria Histórica.
+Señor Fernando Rodríguez Miaja, decano representante de los exiliados españoles en México.
+Doctor Enrique Márquez, director ejecutivo de Diplomacia Cultural.
+Licenciado Ernesto Casanova, presidente del Ateneo Español de México.
+A continuación, tiene la palabra el licenciado Marcelo Ebrard Casaubon, secretario de Relaciones Exteriores.
+
+
+MARCELO EBRARD CASAUBON, SECRETARIO DE RELACIONES EXTERIORES: Con su permiso, señor presidente.
+Distinguidas y distinguidos invitados, señoras, señores de los medios de comunicación.
+De manera muy breve expresarles la más cordial bienvenida a esta, que es su casa, en este día tan especial para México y España y especialmente para la diplomacia mexicana que se nutre siempre de ese gran momento que fue la política exterior que siguió el presidente Lázaro Cárdenas; y en especial, respecto a la República española.
+Les digo muy cordial bienvenida a su casa porque en particular para el que hace uso de la voz la historia de la República española era y es como la historia de México también.
+Yo estudié en el Colegio de México, la Casa de España en México, y llevábamos Historia de México 1,2,3 y 4, y la historia de la República española como si fuera historia nacional. Así de cercanos.
+Y para mí es un orgullo y un privilegio estar aquí, en presencia de Fernando Rodríguez Miaja, quien es un gran personaje que encarna los mejores valores de la República española y sus causas libertarias, de manera que ahora, en la Secretaría de Relaciones Exteriores -habiendo estudiado relaciones internacionales y aprendido de la República española y aquella experiencia del exilio recibido en México de solidaridad, generosidad, encuentro con el pueblo español y en especial con las causas libertarias de España- pues es un motivo de orgullo, de emoción, de entusiasmo, pero también recuerda los compromisos esenciales que configuran el perfil de la diplomacia mexicana con las mejores causas de la humanidad: la generosidad, la solidaridad, el compromiso con los que están perseguidos, nuestra causa que debe ser siempre, siempre brújula de defensa de las libertades y de los derechos de las personas.
+Como decía yo, esa es una inspiración y por eso esta conmemoración tiene mucho que ver con el futuro de nuestra diplomacia y de la presencia de México en el mundo y de nosotros mismos, de nuestra identidad; porque la experiencia del exilio español pasó a formar parte de la identidad de todos los que somos progresistas en México, que por fortuna somos la inmensa mayoría, como ustedes saben, ahora encabezado el gobierno de México por Andrés Manuel López Obrador, que es un símbolo en nuestro país.
+Muchas gracias.
+Bienvenidas, bienvenidos.
+Y, de nuevo, esta es su casa. Gracias.
+MODERADOR: Ahora escuchemos al licenciado Ernesto Casanova, presidente del Ateneo Español de México.
+ERNESTO CASANOVA CALOTO, PRESIDENTE DEL ATENEO ESPAÑOL DE MÉXICO: Buenos días.
+Señor presidente, licenciado Marcelo Ebrard, estimado Lázaro Cárdenas Batel, distinguidas autoridades españolas, señoras y señores, amigos todos:
+Como presidente del Ateneo Español de México y a nombre del exilio español y de sus descendientes, agradezco al presidente Andrés Manuel López Obrador que nos reciba hoy en Palacio Nacional para conmemorar los 80 años del comienzo del exilio republicano en México.
+La República española, derrotada de una cruenta guerra, compartió con México su vocación por la libertad y la tolerancia, y por el respeto a los derechos humanos, democráticos y ciudadanos.
+Recordemos que, en 1939, bajo la presidencia de Lázaro Cárdenas, México abrió sus puertas para recibir a más de 20 mil hombres, mujeres y niños obligados a buscar asilo en este país.
+Durante tres años éstos habían luchado por defender una república legal y democráticamente constituida, destruida en una guerra fratricida por las derechas fascistas dentro y fuera de España, anticipando así el inicio de la Segunda Guerra Mundial.
+Era natural que un gobierno popular y progresista como el mexicano se volcara solidariamente a recibir en nuestro país a quienes huían de una cruel dictadura y con quienes compartía sólidos valores republicanos y democráticos.
+En palabras del presidente Cárdenas, cito: ‘Recibir a los exiliados es un cumplimiento de deberes universales de humanidad y de hospitalidad que contribuyan a preservar sus vidas’. Termino cita.
+Los republicanos que llegaron a México traían consigo una amplia experiencia laboral y profesional, eran hombres y mujeres que en España habían formado cuadros altamente capacitados en la industria, las telecomunicaciones, los transportes, así como las áreas profesionales, científicas, educativas y artísticas, junto con obreros y campesinos.
+El propio presidente Cárdenas afirmaba, vuelvo a citar, que “con este exilio México recibe decididamente a quienes vienen a contribuir con su capacidad y esfuerzo al desarrollo y progreso de la nación”.
+A partir de entonces, México fue la nación solidaria y hospitalaria por excelencia, en la que miles de republicanos españoles encontraron no sólo techo y trabajo, sino que en ella pudieron recuperar la esperanza, la vitalidad, la paz, destruidas por la guerra y la dictadura.
+Durante estos 80 años los exiliados y sus descendientes han guardado un agradecimiento hondo hacia el México que los acogió y les permitió echar nuevas raíces, y que año tras año y generación tras generación este país supo integrarlos a una nueva patria, acogedora y generosa.
+Lo que en un comienzo fue un acto de extraordinaria voluntad y dignidad política del gobierno mexicano, hoy, gracias a la memoria colectiva, se convierte en una sentida conmemoración histórica, que a la vez recuerda la cruel destrucción de una esperanzadora República española, y reconoce la deuda impagable que los exiliados españoles y sus descendientes tienen con esta su patria mexicana.
+Muchas gracias a todos.
+Muchas gracias, señor presidente, por mantener viva la solidaridad y la memoria histórica.
+Gracias.
+MODERADOR: Tiene la palabra la señora Irene Lozano, secretaria de Estado de la España Global.
+IRENE LOZANO DOMINGO, SECRETARIA DE ESTADO DE LA ESPAÑA GLOBAL: Buenos días.
+Señor presidente, señor canciller, querido embajador, subsecretaria, otras autoridades presentes, señor presidente del Ateneo Español y, muy especialmente, don Fernando Rodríguez Miaja; señoras y señores, amigos y amigas de la prensa.
+Me siento muy honrada por tener la oportunidad de participar en esta conferencia matinal, particularmente importante porque aborda en esta fecha el recuerdo de los exiliados republicanos españoles de 1939.
+Muchas gracias, señor presidente, por permitirme que represente aquí a mi gobierno y que compartamos este momento que representa una trascendencia especial para los dos países y para los dos pueblos.
+Le traigo de España, señor presidente, un mensaje de amistad, de gratitud y de reconocimiento.
+Hace 80 años, México dio al mundo un ejemplo de solidaridad, de coherencia y de valentía, en un momento que era dramático para las libertades no sólo en España, sino en toda Europa y para la democracia en el mundo.
+El presidente Lázaro Cárdenas no titubeó, no dudó y proclamó su voluntad de acoger a todos quienes huían en España del dolor, de la cárcel, de la prisión, de la persecución; les ofreció una nueva patria y con ello una nueva esperanza, una nueva vida, un nuevo futuro a quienes pensaban que lo habían perdido todo.
+Entre 1937 y 1942, primero los niños de Morelia, después los embarcados a bordo del Sinaia, el Ipanema, el Mexique. Así, hasta 25 mil españoles llegaron hasta aquí y dieron fe de la profundidad de los vínculos existentes a ambos lados del Atlántico.
+Además, supieron integrarse y dar lo mejor de sí a la sociedad mexicana, muchos de ellos altamente cualificados, también gente honrada, ilusionada, perteneciente al mundo de la ciencia, de la cultura, del mundo académico.
+80 años después, me emociona comprobar el extraordinario legado de aquellos españoles que acabarían convertidos en orgullosos mexicanos, sin por ello nunca renunciar a sus orígenes. Y aquí tenemos algunos ejemplos muy ilustres de ellos.
+Nuestros países comparten una historia rica y singular en la que predominan las luces sobre las sombras, lo que nos une sobre lo que nos separa, el afecto sobre el rencor.
+Hemos vivido juntos siglos durante los cuales cambiamos el mundo haciéndolo global por primera vez y contribuyendo de forma extraordinaria desde estas tierras a la civilización y al progreso.
+Después, tras la Independencia, hemos sabido mantener esa relación fraterna cuyo ejemplo más excelso es la acogida de los republicanos españoles.
+Hoy somos aliados y socios y, además, ambos países, custodios de esa formidable herramienta de diálogo y entendimiento global, que es la lengua española y nuestra cultura común.
+Ni hoy ni nunca México se ha entendido sin España ni España se ha entendido sin México.
+Con la vista puesta en el futuro, este año España ha conmemorado los 40 años de nuestra Constitución democrática de 1978, nuestro más importante marco de convivencia y progreso.
+Reflexionando sobre la vigencia y la importancia de nuestra Carta Magna, recordamos a esos miles de exiliados que estuvieron durante décadas desperdigados por el mundo y que sin olvidarse nunca de España contribuyeron a hacer posible, gracias a su generoso apoyo desde el exterior, la democracia por la que habían luchado 40 años antes, las libertades por las que habían luchado y por las que habían tenido que abandonar nuestro país; una democracia contenida en esa Constitución del 78 que, sin la menor duda, habían abrazado antes de haber abandonado España, 80 años antes.
+A pesar de todo el sufrimiento, querido Fernando, tú y todos los exiliados ganasteis con 40 años de retraso, pero ganasteis, porque conseguisteis devolver la luz a España, la luz de la libertad y de la convivencia democrática. Ese ejemplo de dignidad lo recordaremos siempre.
+Señoras y señores.
+Queridos amigos y amigas:
+Cuando conmemoremos dentro de unas horas en Veracruz la llegada del Sinaia, estaremos rememorando uno de los episodios más luminosos y ejemplares de la historia de México y, al mismo tiempo, uno de los más intensos reflejos de la amistad existente entre nuestros dos países, la amistad que tenemos y que siempre mantendremos por encima de las épocas de los gobiernos y de todo lo temporal.
+Termino con Luis Cernuda, que al referirse a su llegada a esta gran nación tras abandonar España dijo. ‘El sentimiento de ser un extraño, que durante mucho tiempo me había perseguido, en México cayó al fin dormido’.
+Recordemos hoy lo ocurrido en junio de 1939 y valoremos, como merece, aquel extraordinario encuentro de Veracruz. Es un deber de memoria histórica y de justicia hacia los que llegaron y hacia quienes los acogieron, y es una deuda de gratitud que España siempre tendrá con quienes protagonizaron ese acontecimiento y hoy nos acompañan y con sus descendientes.
+Muchísimas gracias.
+MODERADOR: Enseguida el licenciado Andrés Manuel López Obrador, presidente de los Estados Unidos Mexicanos hace entrega de un reconocimiento al señor Fernando Rodríguez Miaja, decano representante de los exiliados españoles en México.
+En este reconocimiento se inscribe: ‘Con motivo de la conmemoración de los 80 años de la llegada del exilio republicano español a tierras mexicanas, el presidente de México, el licenciado Andrés Manuel López Obrador, imprime en este documento el refrendo de su afecto y su reconocimiento a los miles de españoles que hicieron de México su patria, tras ser dolosamente expulsados de la suya.
+Ahora, escuchemos el mensaje del licenciado Andrés Manuel López Obrador, presidente de los Estados Unidos Mexicanos.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Amigas, amigos, familiares de los refugiados españoles que encontraron exilio, apoyo, solidaridad en nuestro país desde hace 80 años debido a la Guerra Civil en España:
+Es un momento importante, es un día memorable, porque nos llena de orgullo, tanto a la comunidad española como a los mexicanos el que se haya actuado, como se hizo en ese entonces, para proteger a quienes necesitaban refugio, necesitaban apoyo, comprensión, una nueva patria.
+Todo esto tiene que ver mucho con lo que significó el gobierno del general Lázaro Cárdenas y en particular por el profundo amor que le tenía al pueblo, no sólo al pueblo de México, sino a todos los seres humanos. Es sin duda el presidente más humanista que ha habido en la historia de nuestro país.
+El general Cárdenas llevó a cabo una política social ejemplar, es el que consuma, lleva a la práctica los anhelos de la Revolución mexicana. Se había levantado el pueblo de México en armas para demandar justicia, el derecho de los campesinos a la tierra, el derecho de los obreros a mejores condiciones laborales, pero eran demandas no cumplidas.
+Pasó el tiempo y es hasta que llega el general Cárdenas que se cumplen esas demandas; él entrega la tierra a los campesinos, en aquel entonces, 18 millones de hectáreas a un millón de familias campesinas y se pone de lado a los trabajadores; es muy importante también que con él se recuperan bienes que durante el porfiriato se habían entregado a extranjeros.
+Con él recuperamos el petróleo para beneficio de los mexicanos. Y por si fuese poco, aplica una política exterior extraordinaria, porque al mismo tiempo que se da refugio a los españoles, se le da también protección, se le da el derecho de asilo a Trotsky en circunstancias muy complejas, muy difíciles, cuando no se le quería recibir en ninguna parte por la política de ese entonces en la Unión Soviética, en Rusia, lo que se conoce como el estalinismo; y el general le da refugio, le da apoyo a Trotsky.
+Y lo más importante es abrir las puertas, como aquí se dijo, a más de 20 mil españoles que participaron -y no hay que olvidarlo- en la defensa de la República de un movimiento popular, democrático, avasallado por la fuerza, por el fascismo que ya asomaba su rostro siniestro y que se ensaya en la Guerra Civil Española.
+Todos sabemos de esta lucha, hay mucha historia, mucha literatura. Creo que un libro esencial para entender este proceso, porque fue al mismo tiempo una crónica, se hizo casi al mismo tiempo que se llevaban a cabo los enfrentamientos, es el libro de Hemingway, Por quién doblan las campanas, es un libro que debe de ser de lectura obligada para todos los luchadores sociales en el mundo, y desde luego para los investigadores, y para los pacifistas, porque esos horrores no deben pasar nunca en ninguna parte del mundo.
+Nosotros nos sentimos muy orgullosos de esta gesta, de esta forma de actuar del general Cárdenas. Y siempre se habla, es como un lugar común, el que llegaron más de 20 mil españoles, niños, familias y que fue mucho el aporte al desarrollo de México, porque del exilio llegan gentes, personas con mucha calidad profesional, académica, que contribuyen al desarrollo del país, desde ingenieros hasta filósofos para unirse a México, formar parte de nuestra patria, tener esa doble nacionalidad que todos tenemos por el predominio de la fraternidad universal.
+Somos de un país, pero también somos ciudadanos del mundo.
+Nos da mucho gusto eso y cualquier acto de justicia, de aplicación del derecho de asilo, nos lleva a pensar en esta decisión del general Cárdenas.
+Ya quedó establecido este hecho histórico como parte de nuestra política exterior. Hasta en gobiernos que ha habido de corte conservador y retrógradas se tiene que respetar este derecho. Es algo que ya quedó sembrado en la política exterior de México, el derecho de asilo que tenemos que garantizarlo, es un derecho sagrado para todos los mexicanos.
+Y siempre, siempre en estos tiempos estamos atendiendo el asunto de la migración.
+Siempre vamos nosotros a tratar con respeto y vamos a dar protección a los migrantes, porque los migrantes buscan mejores condiciones de vida, mejores condiciones de trabajo, en muchos casos son exiliados por necesidad, por hambre o para salvar sus vidas, por eso merecen todo nuestro respeto.
+Vamos, en esta situación que estamos ahora atravesando, a ser muy respetuosos -lo he dicho y lo repito- del gobierno de Estados Unidos, del presidente Donald Trump, más que nada del pueblo estadounidense, pero al mismo tiempo vamos a respetar los derechos humanos de los migrantes.
+¿Cómo se le va a hacer para mantener este equilibrio?
+Pues eso tiene que ver con el noble oficio de la política, que a veces se le desprecia, Entonces, sí es posible, sí es posible, evitar la confrontación; para eso se inventó la política, para evitar la confrontación, para evitar la guerra, entre otras cosas.
+Nos da muchísimo gusto, mucho gusto estar aquí, con ustedes, como lo ha dicho la representante del gobierno español. Tenemos lazos que nos unen desde hace mucho tiempo; podemos tener diferencias transitorias. pero es más lo que nos entrelaza, es mucho más lo que une a México con España.
+Vamos a seguir manteniendo una muy buena relación con el gobierno y por encima de todo, porque hay que separar y distinguir con todo respeto. Nos importa más mantener una buena relación con el pueblo de España.
+¡Que viva España!
+¡Que viva el exilio!
+¡Que vivan los refugiados españoles!
+¡Que viva México!
+MODERADOR: De esta manera damos por concluido este acto. Agradecemos su presencia a los integrantes del presídium, quienes se retiran para continuar con los actos conmemorativos que tendrán lugar en la ciudad de Veracruz.
+Agradecemos al resto de los invitados permaneces en sus lugares para continuar con la conferencia de prensa.
+Muy buenos días.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Miren, yo los voy a acompañar a nuestros visitantes por este día tan especial y les propongo que mañana le demos continuidad a la conferencia.
+Les adelanto que hoy tengo una reunión, o sea, para que podamos hablar, incluso después de eso, para que yo pueda atender a tan importantes visitantes.
+Hoy tengo una reunión con el Consejo Coordinador Empresarial y se va a suscribir un documento para trabajar de manera conjunta sector privado y sector público. Al mediodía.
+Y mañana vamos a presentar completo el plan de migración. Vienen, nos acompañan los gobernadores de Tabasco, de Campeche, de Chiapas, de Veracruz y de Oaxaca.
+Entonces, ya hay bastante información.
+Un abrazo.
++++++
+
+
+
+
+
+
+
+Conferencia de prensa matutinaConferencia de prensa matutina
+
+
+
+Sala de prensaSala de prensa
+
+
+
+DocumentosDocumentos
+
+
+
+GabineteGabinete
+
+
+
+Semáforo de riesgo epidémico
+
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 100%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+Enlaces de interés
+
+Aprende en casa II
+Atlas Nacional de Riesgos – Cenapred
+Becas Benito Juárez
+Becas para estudiantes
+Ciudadanos Alertadores
+Gobierno de México
+INAPAM
+Instituto de Salud para el Bienestar
+Jóvenes Construyendo el Futuro
+Liconsa
+Pensión Adultos Mayores
+Planeando juntos
+Proequidad
+Programa Nacional de Reconstrucción
+Proyecto Refinería Dos Bocas
+Responsabilidad Compartida – Infonavit
+Sembrando Vida
+SSA Nuevo coronavirus COVID-19
+Trabajadoras del hogar – programa de afiliación al IMSS
+Universidad de la Salud – CDMX
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close
+
+
+
+
+
+
+
+
+
+
+
+Contacto Andrés Manuel López Obrador
+Presidente de México
+t. 5093 4900
+t. 01800 080 1127
+Puerta 8 Palacio Nacional, Plaza de la Constitución S/N, Colonia Centro, Ciudad de México, C.P. 06066
+Aviso de privacidad
+
+
+
+
+
+
+
+
+
+
+
+
+
+					Copyright © 2021				
+
+
+
+					Developed by ThemeMakers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"es","ajaxurl":"https:\/\/presidente.gob.mx\/wp-admin\/admin-ajax.php","nonce":"51b38c8652","display_exif":"0","display_geo":"1","background_color":"white","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"0","login_url":"https:\/\/presidente.gob.mx\/administrador\/?redirect_to=https%3A%2F%2Fpresidente.gob.mx%2F13-06-19-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador%2F","local_comments_commenting_as":"<fieldset><label for=\"email\">Email<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>"};
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"es","ajaxurl":"https:\/\/presidente.gob.mx\/wp-admin\/admin-ajax.php","nonce":"51b38c8652","display_exif":"0","display_geo":"1","display_comments":"0","fullsize_display":"0","background_color":"white","comment":"","post_comment":"Post Comment","loading_comments":"","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"0","login_url":"https:\/\/presidente.gob.mx\/administrador\/?redirect_to=https%3A%2F%2Fpresidente.gob.mx%2F13-06-19-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador%2F"};
+/* ]]> */
+
+
+
+
+
+

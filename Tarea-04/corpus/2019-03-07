@@ -1,0 +1,653 @@
+
+
+
+  
+
+
+
+
+
+
+
+07.03.19 Versión estenográfica de la conferencia de prensa del presidente Andrés Manuel López Obrador – Presidente de México
+
+			var tmm_lang_no_events = "No events at this period!";
+			
+			var lang_january =  "January";
+			var lang_february = "February";
+			var lang_march =    "March";
+			var lang_april =    "April";
+			var lang_may =      "May";
+			var lang_june =     "June";
+			var lang_july =     "July";
+			var lang_august =   "August";
+			var lang_september = "September";
+			var lang_october =  "October";
+			var lang_november = "November";
+			var lang_december = "December";
+
+			var lang_sunday =   "Sunday";
+			var lang_monday =   "Monday";
+			var lang_tuesday =  "Tuesday";
+			var lang_wednesday = "Wednesday";
+			var lang_thursday = "Thursday";
+			var lang_friday =   "Friday";
+			var lang_saturday = "Saturday";
+
+			var lang_sun = "Sun";
+			var lang_mon = "Mon";
+			var lang_tue = "Tue";
+			var lang_wed = "Wed";
+			var lang_thu = "Thu";
+			var lang_fri = "Fri";
+			var lang_sat = "Sat";
+
+			var lang_today = "today";
+			var lang_month = "month";
+			var lang_week = "week";
+			var lang_day = "day";
+			var lang_time = "Time";
+			var lang_place = "Place";
+			var error_fetching_events = "There was an error while fetching events!";
+
+			var events_time_format = "0";
+			var events_date_format = 0;
+		
+#wpadminbar { display: none; }
+
+						var is_single_page = true;//for breadcumbs definitions it theme.js
+						var site_url = "https://presidente.gob.mx";
+			var capcha_image_url = "https://presidente.gob.mx/wp-content/themes/diplomat/helper/capcha/image.php/";
+			var template_directory = "https://presidente.gob.mx/wp-content/themes/diplomat/";
+			var ajaxurl = "https://presidente.gob.mx/wp-admin/admin-ajax.php";
+			var ajax_nonce = "f72e8039a7";
+			var lang_enter_correctly = "Please enter correct";
+			var lang_sended_succsessfully = "Your message has been sent successfully!";
+			var lang_server_failed = "Server failed. Send later";
+			var lang_any = "Any";
+			var lang_home = "Home";
+			var lang_attach_more_else = "You cant add more else attachments!";
+			var lang_loading = "Loading ...";
+			var lang_mail_sending = "Mail sending ...";
+			var charcount = "3";
+			var widget_advanced_search = "1";
+			var menu_advanced_search = "1";
+			var fixed_menu = "1";
+			var appearing_speed = "50";
+		
+
+
+
+
+
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/presidente.gob.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=0f8a22554fdb4f1563c296282135734f"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		
+
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var LS_Meta = {"v":"6.11.5","fixGSAP":"1"};
+/* ]]> */
+
+
+
+
+
+
+/* Run FooBox FREE (v2.7.16) */
+var FOOBOX = window.FOOBOX = {
+	ready: true,
+	disableOthers: false,
+	o: {wordpress: { enabled: true }, countMessage:'image %index of %total', excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }},
+	selectors: [
+		".gallery", ".wp-block-gallery", ".wp-caption", ".wp-block-image", "a:has(img[class*=wp-image-])", ".foobox"
+	],
+	pre: function( $ ){
+		// Custom JavaScript (Pre)
+		
+	},
+	post: function( $ ){
+		// Custom JavaScript (Post)
+		
+		// Custom Captions Code
+		
+	},
+	custom: function( $ ){
+		// Custom Extra JS
+		
+	}
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body.custom-background { background-color: #ffffff; }
+
+
+
+
+
+
+
+    var analyticsFileTypes = [''];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+
+
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-144351937-1', 'auto');
+ 
+	ga('send', 'pageview');
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144481486-1');
+
+!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="epsuwqqxg47vcya55wxa-f-c7f2577e4-clientnsv4-s.akamaihd.net",i={"ak.v":"30","ak.cp":"959687","ak.ai":parseInt("615102",10),"ak.ol":"0","ak.cr":11,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"12926627","ak.r":36140,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"35.229.75.0","ak.cport":51150,"ak.gh":"23.55.63.77","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1612574126","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==yz592VpEAy2xlAN9/VdusZYC0LF6nz4mGQ+cKTCOJdsh8OgTSfSx1epu7HplY9mPBf19ifbn7TrlO737VBPOCNJ81a8hg1tfiJJObdeOBLVKaON3svBdWflUKE1tq3BgHbTkp7s52bY+jzp8Bm/uEn/ZKTTkcqoA1fDu0sjPiExklLF4goAVppdXiAv0yAipkweMyuGRO7LKVTEWNKm2q8PK4Y5boB/Xr9Afy6Uvx8z2+TcPK+5HYugxs/3KsSoBhjTlC/IRdK3a1eJO00K8wHRU8FbdbH9hgBneiK1CRzQ/VqWBbw/C3m72LfaiOA4aEqG6/kM9A3G47lHczlmx0kkefQKIGBq4W0QlTypreIqaI1xnZh0aadVjIsfER3EfB86+ifZbUhaKxYUPvudXJ9cBZJGIa/0Iwpti7GrY/9Q=","ak.pv":"11","ak.dpoabenc":""};if(""!==t)i["ak.ruds"]=t;var _={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))i["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:n,init:function(){if(!_.i){var a=BOOMR.subscribe;a("before_beacon",_.av,null,null),a("onbeacon",_.rv,null,null),_.i=!0}return this},is_complete:function(){return!0}}}}()}(window);
+
+
+(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Inicio
+Sala de Prensa
+
+Boletines
+Transcripciones
+Documentos
+Fotogalería
+Videos
+
+
+Coronavirus COVID-19
+Gabinete
+Oficina de la Presidencia
+Biografía
+Contacto
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+07.03.19 Versión estenográfica de la conferencia de prensa del presidente Andrés Manuel López Obrador
+
+Home Versión Estenográfica 07.03.19 Versión estenográfica de la conferencia de prensa del presidente Andrés Manuel López Obrador 					
+
+
+
+
+
+
+
+
+
+07.03.19 Versión estenográfica de la conferencia de prensa del presidente Andrés Manuel López Obrador
+
+
+2019, Año del Caudillo del Sur, Emiliano Zapata
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Buenos días. Ánimo.
+Vamos a entrar en materia, a la ronda.
+Quedamos pendientes.
+
+
+PREGUNTA:  Buenos días, señor presidente. Alejandro ‘el Púas’, reportando para el sitio de humor y sátira El Deforma.
+Mi pregunta va dirigida principalmente a sus primeros 100 días de gobierno, quisiera que nos diera un adelanto de cómo le ha ido en estos primeros 100 días, pero en términos beisboleros.
+¿Cómo nos ha ido, en términos beisboleros, si nos han metido jonrón, si con puro hit la hemos librado o si es que acaso el gobierno tiene pura moña y, aunque su bateador principal pega arriba de 300, cómo le está yendo?
+En términos beisboleros, si podría hacernos el favor.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Bueno, pues ya inició la temporada y estamos arriba, más juegos ganados que perdidos, tenemos el primer lugar en porcentaje de bateo, estamos arriba de 300, con buen resultado en pícheres abridores y en cerradores.
+Tenemos dos que están tirando arriba de 100 millas, rectas cortadas.
+INTERLOCUTOR: ¿Nos podría dar nombres para saber qué jugadores son buenos?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Son muy buenos los dos y son mujeres, porque ahora ya para el béisbol y todos los deportes están participando muchas mujeres y eso es muy bueno.
+Entonces, el equipo va muy bien, tenemos nueve elementos y tenemos buena banca, buen picheo de relevo, buen manager. Vamos bien.
+Vamos a ganar la temporada. Vamos a estar en las finales y de siete juegos vamos a resolver en cuatro, es decir, vamos a ganar sin problema, vamos a cepillarlos a los del otro equipo, a los del equipo conservador, a los fifís.
+Bueno, ahí terminó la reseña.
+INTERLOCUTOR: Muchas gracias.
+PREGUNTA: Buenos días, presidente. Diana Benítez, de 24 Horas.
+Preguntarle, ya la reforma para la Guardia Nacional fue aprobada por la mayoría de los congresos, ¿cuál es el camino que sigue y qué consideraría usted que se debe considerar en las leyes secundarias para el perfil del titular, qué características debería reunir?
+Y, por otro lado, preguntarle, me parece que fue el lunes o martes cuando el nieto de Emiliano Zapata presentó una impugnación por la consulta de Morelos, preguntarle si el gobierno federal ya fue notificado de esto y, en todo caso también, cómo siguen los otros amparos, me parecen que eran seis ante tribunales administrativos.
+Gracias.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Acerca de este recurso no tenemos todavía información, es un trámite que se va a seguir.
+Ya expresé que vamos a desahogar todos los procesos legales, no podemos violar un amparo, tenemos que esperar a que el Poder Judicial resuelva en definitiva sobre este asunto.
+Vamos a ser respetuosos de la legalidad.
+Ya se hizo una consulta, el resultado fue favorable a que opere la planta, pero existen estos procesos legales y los tenemos que desahogar.
+Lo otro que me preguntaste.
+INTERLOCUTOR: La Guardia. ¿Cuál es el camino que sigue?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Ah, bueno, ya se podría publicar la reforma, porque ya se cumple con el requisito, ya fue aprobada por las dos cámaras federales, por el Congreso de la Unión y por la mitad más una de las legislaturas locales.
+Como es una reforma constitucional esa es la exigencia que no sólo se apruebe en Cámara de Senadores, de Diputados, sino también, en este caso, 17 legislaturas locales. 
+Ya se aprobó la reforma para la creación de la Guardia Nacional, pero hemos decidido esperar a que se apruebe en la mayoría de las legislaturas locales, si es posible en todas, porque se requiere legalidad y legitimidad suficiente, aunque nos lleve unos días más. 
+No se pierde tiempo, porque seguimos atendiendo todo el asunto relacionado con la seguridad pública y ya se están elaborando también las leyes complementarias, la Ley de Uso de Fuerza y la Ley Orgánica, la que tiene que ver con el funcionamiento de la Guardia Nacional.
+Ustedes dos.
+PREGUNTA: Dan Harris y el equipo de ABC News. Voy a traducir sus preguntas.
+(Pregunta en inglés)
+(Traducción al español): La pregunta es, presidente: Hemos seguido de cerca el caso de Lucy Díaz, una de las mujeres más prominentes en cuanto a búsqueda de desaparecidos, el Colectivo Solecito. 
+Mirando a su caso es claro que hay evidencias muy claras y Lucy dice que la policía simplemente se niega a dar seguimiento.
+La pregunta es: Si alguien como Lucy, con ese nivel de educación y recursos no puede obtener justicia en este país, ¿cómo alguien podría obtenerla?
+La segunda pregunta es: ¿Usted se compromete en este momento y ahora para usar su nuevo poder para ayudar a Lucy a sacar adelante su caso?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Sí, está tomando nota Jesús Ramírez, que es el coordinador de Comunicación Social del gobierno de la República, para establecer comunicación con la Secretaría de Gobernación, que ahora tiene como función principal la protección de los derechos humanos.
+Anteriormente la Secretaría de Gobernación era la encargada del orden en el país, la política interior, y durante mucho tiempo fue la encargada de coordinar la persecución, llevar a cabo actos autoritarios del Estado mexicano.
+ahora, como parte de la transformación que se está llevando a cabo en el país, esa secretaría se ha convertido en la secretaría de la protección y de la defensa de los derechos humanos.
+Entonces, desde este momento, como ustedes lo están pidiendo, se va a buscar la comunicación, les va a atender de manera personal el subsecretario de Gobernación, Alejandro Encinas, para hablar con la señora que pide protección, que pide apoyo.
+Y decirles que en este país las cosas han cambiado mucho y se protege a todas las personas, ya el Estado mexicano no es el violador de los derechos humanos por excelencia. Ya esto cambió.
+No hay persecución, no hay espionaje, no hay tortura, no se violan derechos humanos en México.
+A ver, Sara.
+Es que estoy variando, porque luego regañan de que no somos equitativos.
+PREGUNTA: Buenos días, presidente. Preguntarle dos cosas.
+En el tema de las calificadoras, Morena presenta una iniciativa para que se eliminen. ¿Usted estaría pensando en reducir el número de calificadoras que trabajen con su gobierno?
+Y, por otro lado, preguntarle, en este proyecto del desarrollo inmobiliario en Santa Fe que estaba a cargo de la Sedena, ¿sigue en pie?, porque salió por ahí información que ya no se va a vender y no se va a hacer en este predio.
+Gracias.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Nosotros estamos abiertos a escrutinio internacional, en lo político, en lo económico.
+México es un país libre y no tenemos nada que esconder, y estamos a favor de la transparencia, de que la vida pública sea cada vez más pública.
+Esto de las calificadoras es su trabajo, lo respetamos, no vamos nosotros a limitar su función, estamos seguros que va bien el gobierno, que va bien la economía, que vamos a crecer y que vamos a darles un ejemplo de cómo combatiendo a la corrupción, que muchos han soslayado, tolerado o no incluido en sus variables, como acabando con la corrupción se puede tener una economía fuerte, sin déficit, sin deuda, sin inflación, sin devaluación. A las pruebas me remito.
+Entonces, es importante el desafío, pero siempre vamos a ser respetuosos de la opinión de las calificadoras.
+Creo que sería recomendable, respetuosamente, fraternamente, que en sus evaluaciones incluyan el nivel de corrupción de los gobiernos del mundo, porque esa es una variable que lo distorsiona todo.
+Ya lo he dicho, puede ser el mejor modelo económico, bien definido y si impera la corrupción en un país al final de cuentas la economía no crece y se cae en crisis financieras.
+Ese es el caso de México, de cómo dominaba la corrupción y por eso estamos nosotros pagando los platos rotos, pero va a ser transitorio, temporal. Vamos muy bien.
+INTERLOCUTORA: ¿Qué sería lo transitorio, presidente?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: El ruido.
+INTERLOCUTORA: ¿Estas advertencias de que no va a crecer la economía?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Sí, pero les vamos a demostrar lo contrario, porque ahora está rindiendo más la inversión pública, lo que se hacía con mil millones ahora se hace con 300 millones, es decir, se ahorra más y se tienen mejores resultados.
+Y lo mismo, hay confianza en inversionistas. Ayer recibí a un inversionista internacional y tienen confianza en México, sobre todo porque ya hay una auténtico Estado de Derecho, porque son reglas claras, no hay influyentismo, no se protege a empresas vinculadas al régimen, a políticos.
+Todo eso les da mucha confianza. De modo que vamos muy bien.
+Lo otro que preguntaste.
+INTERLOCUTORA: Lo del proyecto inmobiliario en Santa Fe que estaba a cargo de la Sedena.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Va a ser un parque.
+INTERLOCUTORA: ¿Ya se ha avanzado?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Un parque, un espacio, la cuarta Sección del Bosque de Chapultepec.
+Y va a quedar a cargo de la Ciudad de México, del gobierno de la Ciudad de México y sólo se van a construir muy pocas viviendas, unidades habitacionales para la Secretaría de la Defensa.
+INTERLOCUTORA: ¿No va a ser para venta, como era el proyecto?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Ya no se va a vender, no va a haber un desarrollo inmobiliario, se va a privilegiar el medio ambiente, es decir, el cuidado, la conservación del medio ambiente.
+Va a ser un espacio amplio para el disfrute de los que viven en la zona, sobre todo en Santa Fe, en ese pueblo histórico de Santa Fe y se van a conservar las instalaciones históricas de la fábrica de armas, que data de mediados del siglo XIX, desde el gobierno del presidente Juárez.
+Va a ser un centro histórico que se va a conservar y toda el área, todo el terreno, cerca de 100 hectáreas, van a pasar a formar parte de la Cuarta Sección del Bosque de Chapultepec.
+INTERLOCUTORA: Las viviendas eran sólo, cómo cuántas para el Ejército…
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Básicamente para tener una instalación para la Guardia Nacional.
+INTERLOCUTORA: Gracias.
+PREGUNTA: Gracias, presidente, buenos días, Alejandro Lelo de Larrea, Grupo Cantón.
+Presidente, en estos, prácticamente, ya 100 días de su gobierno, hemos visto, en sus giras la gente le regala muchas cosas, desde una pequeña imagen religiosa hasta...
+¿Qué está haciendo con todos esos regalos, los está guardando, los está clasificando?, ¿cuál es el plan con todos estos regalos que recibe?
+Y también preguntarle de dos áreas neurálgicas de su gobierno, Comunicación Social y Ayudantía.
+¿Cuál sería el balance de estas dos áreas, prácticamente a 100 días de gobierno?
+Gracias, presidente.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Bueno, estoy guardando lo que me entregan, por lo general es lo que me entrega el pueblo, la gente, muchos recuerdos, estampitas, rosarios, mucha artesanía hecha por la gente y pinturas hechas por ellos, buenos cuadros, muy buenos pintores, esculturas, pelotas de béisbol firmadas, tengo de algunos buenos beisbolistas, billetes y muchas cosas más.
+Entonces, las estoy guardando, me entregan libros, primeras ediciones de libros históricos; los estoy cuidando, los estoy manteniendo, documentos históricos, billetes antiguos. Pues sí, los estoy guardando todos.
+INTERLOCUTOR: ¿Y qué va a hacer, tiene pensado hacer…?
+PRSIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Pues, vamos a inventariarlos y ya cuando salgamos los vamos a dejar aquí, en Palacio, para que quede ese patrimonio.
+¿Lo otro que preguntaste?
+INTERLOCUTOR:  Lo otro, le pregunté del balance de las áreas.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Ah, muy bien.
+Miren, en comunicación estamos logrando el propósito que se comunique lo que se está haciendo y nos sale sin costo, porque no tenemos contratos con empresas.
+Anteriormente se contrataban empresas, hasta de Twitter, de Facebook hay contratos, a muchas empresas.
+Nosotros ya no tenemos esos contratos, nuestra cuenta es, cómo se le llama, orgánica, o sea no pagamos publicidad en cuenta de Facebook, de Twitter y es importante el alcance que se tiene.
+Todo esto se debe a un buen trabajo de la Coordinación de Comunicación.
+Tenemos el informe sobre eso, no lo doy a conocer porque involucra a medios y a periodistas y no quiero que se les juzgue por eso, porque es una manera también de dar un servicio y cobrar.
+Sencillamente ya nosotros no compramos esos servicios para la transmisión de nuestros eventos o para dar respuesta a señalamientos o cuestionamientos al gobierno.
+Ahora, aprovechando la pregunta, les puedo decir que ya tenemos un nuevo sistema para que estas conferencias, estos diálogos circulares, se puedan escuchar por la radio, ya desde ayer.
+No venía yo preparado, pero ya se puede escuchar todo lo que estamos diciendo por radio.
+INTERLOCUTOR: ¿En dónde?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Ya después se les da la información sobre eso.
+En el caso de la Ayudantía. Muy bien.
+Desde el principio se acordó que me iban a apoyar, íbamos a tener una Ayudantía de 20 profesionales, no especializados en seguridad, sino profesionales, porque son ingenieros, son médicos, son abogados, la mitad mujeres, la mitad hombres.
+Está muy bien, han aguantado el ritmo, no se han enfermado, están fuertes, frescos, ayudando mucho quienes están a mi alrededor apoyándome.
+Y todo el equipo en 100 días está muy bien, ya se está consolidando el gabinete, hay muy buena comunicación entre todos, hay armonía.
+No sólo se ve lo que se está haciendo en una secretaría, sino se tiene la visión de conjunto de todo lo que significa el lograr la Cuarta Transformación de la vida pública.
+PREGUNTA: Buenos días, presidente.
+Yo quisiera preguntarle sobre los abucheos. El PRI ha dicho que quieren hacer un frente para pedir que se detengan los abucheos contra los gobernadores e incluso ya este fin de semana se tiene información de que Enrique Alfaro está buscando cómo hacer un mecanismo de protección que lo proteja de los abucheos.
+Preguntarle: ¿Cuál es su opinión de esto, si ya habló con los gobernadores sobre esto y si ya le han dado alguna información sobre quiénes están haciendo los abucheos, si, en efecto, es gente de Morena o son externos?
+¿Quiénes están haciendo este tipo de actos irrespetuosos contra las autoridades en los estados?
+Y, por otro lado, también preguntarle, ¿qué información le han dado en las juntas de seguridad sobre el caso de ‘el Marro’ que recién ya se descubrió su casa y han sitiado varios lugares en Guanajuato?
+Gracias
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Mire, hay mucha comunicación con los gobernadores, es buena la relación, se dan estos incidentes, pero no es un asunto mayor.
+Ya, como se ha tratado tanto, yo creo que se va a ir resolviendo, la gente, aunque esté inconforme, aunque quiera protestar y además es su derecho, porque es legítimo, es la libertad, pero estoy seguro que para no seguir alentando las confrontaciones todo mundo va a portarse bien.
+Estoy seguro que en los actos no van a haber estas expresiones, estas manifestaciones, aunque la gente quiera protestar, se sienta agraviada, no atendida en algunos casos, estoy seguro que van a actuar con respeto a las autoridades.
+Ese es mi pronóstico, además ya estamos terminando de recorrer todos los estados, todas las entidades, como a ustedes les consta.
+Ya nada más nos falta Aguascalientes, Guanajuato, Jalisco y Puebla, el domingo terminamos Puebla.
+PREGUNTA: ¿Y Querétaro?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: No, ya fuimos a Querétaro, cuando se conmemoró un aniversario de la Constitución. Ya hemos estado en todos lados.
+Y hay estados que hemos visitado más de una vez en estos 100 días, y vamos a seguir recorriendo el país, vamos a seguir con la misma dinámica, de lunes a viernes aquí, en la mañana, porque ya se está haciendo costumbre, ya se está haciendo un hábito de informar por las mañanas, de lunes a viernes, pero además tenemos que seguir con las reuniones de seguridad de seis a siete de la mañana.
+Que en esos casos sí vamos a ir haciendo reuniones regionales de seguridad, vamos a hacer la reunión en un estado de seis a siete y la conferencia en ese mismo estado de siete a ocho.
+Me lo han pedido también periodistas de los estados, de las regiones, que quieren que este encuentro se dé también con la prensa de los estados. Y lo vamos a hacer.
+Pero siempre los sábados y los domingos vamos a usarlos para recorrer el país, las regiones de México.
+Un gobierno itinerante para atender las demandas de todos los pueblos.
+PREGUNTA: ¿Pero entonces ya le dijeron quiénes están haciendo estos abucheos, ya tienen información de eso?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: No, no, no. Ya yo les expliqué.
+En algunos casos, muy pocos, es por la confrontación política partidista, en la mayoría de los casos es que hay asuntos pendientes no atendidos o quienes quieren ser escuchados, quienes se sienten injustamente tratados, aprovechan que es un acto en donde va a estar el gobierno federal, los gobiernos estatales, los gobiernos municipales, los medios de información, pues es la forma de expresarse, de llevar sus mantas, sus pancartas, de manifestarse. Es un derecho.
+Entonces, cuando es algo orquestado, manipulado, cuando es un acarreo para ese propósito politiquero, pues entonces se ve muy mal. Pero eso no va a tener futuro, no tiene futuro.
+INTERLOCUTORA: Y sobre lo otro, sobre ‘el Marro’.
+¿Qué información le han dado en el gabinete en las reuniones de seguridad?, ¿le han dado información sobre ‘el Marro’?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Sí, es una acción que se está llevando a cabo en Guanajuato y en otras partes para darle protección a la gente.
+Sí hay información, afortunadamente todo ha resultado bien, no ha habido pérdida de vidas humanas en la acción judicial que se está aplicando, porque se le hizo la solicitud formal a la Fiscalía General, se pidió a jueces que dieran autorización de cateos.
+Esto lo solicitó el gobierno del estado, pidió el gobierno del estado el apoyo, el respaldo del gobierno federal y se les está ayudando para que haya paz, haya tranquilidad, que no sólo no se roben el combustible, sino que no haya secuestros, que se le de protección a los ciudadanos.
+INTERLOCUTORA: Gracias.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Gracias, señor presidente. José Hernández, de Es Cuanto.
+Para preguntarle cómo va esta denuncia de la planta de fertilizantes, donde sabemos que la historia ha estado plagada de muchas irregularidades, se encuentran coludidos exdirectores de Pemex, como Rogelio Montemayor, Emilio Lozoya.
+Y si pudiéramos saber qué tipo de contratos existen, qué empresas se beneficiaron, porque siempre estuvo reservada toda esta información.
+Gracias.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Sí.
+Miren, este es un caso que ha ameritado el que se haga una investigación por parte nuestra y se presente una denuncia formal a la Fiscalía General, porque se trata de operaciones de mucho dinero, que se llevaron a cabo en la pasada administración, se compraron plantas de fertilizantes.
+Hay el caso de una planta que estaba en desuso, abandonada y cuando se firmaron los acuerdos de, cómo se llamaba eso que utilizaron para…
+INTERLOCUTORA: Pacto por México.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: No, el plan este…
+INTERLOCUTORA: La reforma.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Cuando todos los partidos firmaron.
+INTERLOCUTORA: Pacto por México.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Pacto por México, que fue pacto contra México, en realidad, que firmaron todos ahí.
+Ahí se incluyó, aprovecharon, que se iba a comprar una planta de fertilizante para producir los fertilizantes y apoyar a los productores, esto como demanda de las supuestas organizaciones campesinas independientes para jalarlos al Pacto por México. Ya ven que se sumaron todos.
+Entonces, resultó que ya tenían armado un negocio, la compra de esa planta.
+Primero, esa planta la habían privatizado cuando se privatizó Fertilizantes Mexicanos, Fertimex, en la época de Salinas y, de esas cosas paradójicas que tienen que ver con la corrupción, de repente esa misma planta se estatiza, primero se privatiza y luego se estatiza, porque estaba de por medio un negocio.
+Se compra la planta que estaba abandonada, tenía mucho tiempo y tenía un valor aproximado, aunque habría que ver los avalúos, pero según mi cálculo, que no es para tomarse en cuenta con rigor porque es una aproximación, valía cuando mucho 50 millones de dólares y la compraron en 500 millones de dólares, o sea que se rayaron, valía mil millones y la compraron en 10 mil millones de pesos, valía mil millones de pesos y la compraron en 10 mil millones de pesos.
+Pero todavía, por si fuese poco, autorizaron otra cantidad igual para rehabilitarla y todavía no se produce fertilizante.
+Entonces nosotros no podemos recibir esto sin que se haga una investigación, porque si nos quedamos callados, si no actuamos, estaríamos siendo encubridores.
+Entonces, estamos pidiendo que la autoridad competente investigue sobre esta operación.
+Pero además tenemos que decidir, y ahí me tienen que ayudar todos.
+¿Qué vamos a hacer con la planta?
+Porque hay quienes me dicen, que saben de esto, que, aunque se le siga metiendo dinero eso no va a funcionar, que sería seguirle metiendo dinero bueno al malo y otros que me dicen que no, que hay que terminarla porque podemos utilizarla para producir los fertilizantes porque se está comprando el fertilizante que consumimos. Esa es otra medalla de oro para los neoliberales. Aplausos.
+Antes de que empezaran a aplicar este modelo llamado neoliberal o neoporfirista éramos autosuficientes en fertilizantes y ahora tenemos que comprar el fertilizante, acabaron con todo.
+Entonces por eso, insisto, la condena no debe ser sólo a los que impulsaron esta política, sino a este modelo de economía de élite, a ésta política de pillaje, esta política rapaz y que todavía hay quienes la están defendiendo.
+Por eso es la crisis de México, por este tipo de cosas, por eso se equivocan quienes piensan que no va a salir adelante nuestro gobierno.
+Imagínense, si evitamos estas trácalas, estas transas, cuánto nos ahorramos, porque, además, todo lo que se utilizó para la compra de estas plantas es crédito, es deuda, de veras que se pasaron en todo.
+Entonces, vamos a presentar las denuncias, que la autoridad competente investigue, resuelva y nosotros hacer un análisis con profesionales para ver si continuamos con la rehabilitación de las plantas, si se va a crear una nueva empresa para producir los fertilizantes o se vende lo que se tiene. Ver qué vamos a resolver.
+Así como esto hay otros negocios, no sé si se enteraron que fui a Mazatlán, en una gira, no sé si fueron ustedes también a un centro turístico, Isla Espíritu. Bueno, otra transa.
+Compraron en Mazatlán, en Sinaloa, en los límites de Sinaloa con Nayarit, un rancho de un exgobernador -creo que finado, que merece todo nuestro respeto por eso- lo compraron en el gobierno de Calderón, en 120 millones de dólares, Fonatur, era el de Fonatur, el que luego fue secretario de Gobernación, un abogado.
+INTERLOCUTOR: Gómez-Mont.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Sí.
+Ahí está el terreno, 120 millones de dólares y resulta que está prácticamente abandonado; se le invirtió todavía más dinero público y estamos viendo qué hacemos, porque no tiene mucha viabilidad para el desarrollo turístico, pero no les importaba eso, lo que les importó fue la compra del terreno, porque si fuese para fomentar el turismo hubiesen desarrollado de Mazatlán al aeropuerto y hacer el nuevo Mazatlán, que es lo que estamos pensando podría hacerse si logramos rescatar recursos de ese terreno abandonado que compraron.
+Y así muchas otras operaciones, obras tiradas por todos lados, sólo por el negocio, sólo por sacar provecho para funcionarios.
+Entonces, esa es la respuesta a tu pregunta.
+PREGUNTA: Buenos días, presidente. Marco Antonio Aguilar, de Eje Central.
+Ayer una diputada del PRI de Tabasco, Soraya Pérez Munguía dio a conocer que solicitó información acerca del proyecto de la refinería en Dos Bocas, en Tabasco.
+Y la respuesta de Pemex fue que la información calificaba como reservada, lo que va contra la política de total transparencia que usted ha mencionado.
+Mi pregunta es si esta política aplicará sólo a unas cuantas obras o se aplicará a todas y si nos darán a conocer cuáles son las licencias, las constancias de medio ambiente y todo lo relacionado con este proyecto, y si, además, cuenta con estudios de viabilidad y rentabilidad de esta misma obra, si también nos las dará a conocer y cuándo podría ser.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Para que se aclare.
+No hay nada reservado en este gobierno, nada se reserva, sólo aquello que tenga que ver con juicios penales, en donde se impida que demos a conocer información, para el debido proceso, que no se puedan a conocer nombres, entonces sí. Pero no hay reserva de nada y transparencia completa.
+Y la información que estás solicitando se te va a entregar sin problema, si Pemex, en efecto, emitió esta recomendación de mantener reservado todo lo que tiene que ver con la refinería de Dos Bocas se va a rectificar, es decir, se abre todo, si fuese cierto, que no lo dudo, pero aprovecho para que se sepa que no va a haber reserva en información.
+PREGUNTA: Gracias, presidente. Buenos días. Daniel Blancas, de Crónica.
+Ayer tuvimos la oportunidad de platicar con la fundadora de este refugio para mujeres que ponía como modelo la secretaria de Gobernación.
+Nos platicaba que el origen de este refugio fue muy cercano a una policía de proximidad, a una policía con sentido social para, digamos, ir vigilando o estar atento de lo que ocurría con las mujeres en la zona de Escobedo.
+La pregunta concreta es, presidente: ¿Usted ha contemplado que en la Guardia Nacional haya un grupo especializado en, digamos, en este tipo de cuestiones con las mujeres?, ¿lo ha contemplado dada esta experiencia o al menos recibir capacitación especial sobre este asunto del maltrato de las mujeres?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Es una mujer con experiencia la que fue presidenta municipal en Escobedo, Nuevo León, y nos está ayudando con su experiencia, porque ellos fueron de los que iniciaron, ellas iniciaron con lo de los refugios para mujeres maltratadas, y ya está ayudándonos en Gobernación.
+Habría que ver si esa experiencia se aplica para Guardia Nacional, estamos llevando a cabo una revisión general.
+Bueno, te contesto, que si la experiencia de la que fue presidenta municipal de Escobedo nos ayuda en lo que queremos se va a aplicar y vamos a ver si es con la Guardia Nacional o como lo está haciendo ya Gobernación, con el Instituto de la Mujeres y con el apoyo del DIF, buscando la mejor forma que funcionen bien.
+INTERLOCUTOR: Aunque aquí se utilizó un poco, bueno, se utilizó a la policía para estar con este sentido social de vigilar qué pasaba en las casas, hacer recorridos, tener presencia con las mujeres y de ahí canalizarlas a los refugios.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Sí, pero hay criterios de otro tipo, a veces los refugios tienen que estar ubicados en colonias, en sitios no conocidos, porque hay agresiones a las mujeres, parece increíble, pero van y las buscan a los refugios para seguirlas agrediendo.
+Entonces, son criterios, tiene que haber sigilo, tiene que haber cuidado en estos casos.
+Todo esto se está analizando y se va a buscar lo mejor, lo que más convenga.
+INTERLOCUTOR: Y tengo otra pregunta, presidente.
+Hemos estado platicando con productores, principalmente de leche y de carne, creo que es una pregunta importante para la ciudadanía.
+Nos platican los productores de leche, por ejemplo, hay pequeños productores que están vendiendo por necesidad su producto hasta en 5.20 el litro, no el gobierno, porque usted ya ha hablado de los precios de garantía, sino me estoy refiriendo a las comercializadoras, a estos grandes intermediarios, hay productores que están vendiendo la leche en 5.20, hay productores de carne que están vendiendo su producto en 45 pesos.
+La leche los consumidores la obtenemos en 19, 20, 21 pesos; la carne de 45 que la venden los productores, la gente la está comprando en 170, 180 pesos.
+¿Qué terreno de acción, qué campo de acción tiene el gobierno? ¿Puede hacer algo el gobierno contra estos intermediarios que compran, digamos, a muy bajos precios la leche y la carne y después, por el intermediarismo, se vende a los consumidores en precios exorbitantes, presidente?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Sí, y estamos trabajando en eso.
+Miren, el propósito es que logremos la autosuficiencia alimentaria, porque en el caso de la leche estamos comprando el 60 por ciento de lo que consumimos en el país, se compra leche en polvo. No somos autosuficientes, como en otras cosas.
+Entonces, vamos a apoyar al productor nacional, ya empezamos con los precios de garantía, nada más que es un proceso.
+El precio de garantía de la leche es de ocho pesos 20 centavos el litro, es lo que se le está pagando al productor. Pero nos faltan centros de acopio; Liconsa no tiene suficientes centros de acopio y por eso hay intermediarismo, se le llama de otra manera, pero no quiero usar ese nombre, esa expresión.
+Yo espero que vayan creciendo los centros de acopio y que con este precio seamos autosuficientes, se impulse la producción de leche y se mejore el productor.
+Y lo mismo en el caso de la carne, en el caso de la carne igual, tenemos que buscar que haya frigoríficos, que se le dé valor agregado a la carne, que no se venda el ganado en pie, que los mismos productores con sus organizaciones puedan llevar a cabo la comercialización de la carne para que se beneficien.
+Y que también, tanto la leche como la carne, le lleguen a buen precio a los productores. Estamos avanzando en eso.
+En el caso de la leche queremos desarrollar nuevas cuencas lecheras, pero hacerlo donde hay agua, porque ya hay cuencas lecheras que no pueden seguir ampliándose, porque se produce la leche con alfalfa, que consume mucha agua, en lugares donde ya no hay agua para el consumo de la gente.
+Entonces, queremos reconvertir esas áreas productivas para reducir el consumo de agua en la producción de alfalfa y producir leche donde tenemos agua. Es parte de lo que se está haciendo.
+Otro de los errores, esto es un error menor en comparación con la corrupción, que fue el distintivo del modelo neoliberal, o sea, el distintivo fue la corrupción, pero otro error menor, en comparación con la corrupción, desde luego, fue el de la falta de planeación.
+En su concepción, absurda, no hacía falta que interviniera el Estado para planear, que bastaba con el mercado, incluso se planteaba diluir al Estado y eso no es posible en ninguna parte.
+En China, que tienen crecimiento económico desde hace décadas del ocho, del 10, del 12 por ciento anual, pues el Estado se hace cargo de la planeación y de la promoción del desarrollo, en Estados Unidos lo mismo.
+Y aquí estos dogmáticos, muy ineficientes, que aprendían unas fórmulas en algunas escuelas, pensaban que no hacía falta la planeación y es fundamental, porque el Estado cuenta con instrumentos para lograr un desarrollo sustentable, un desarrollo equilibrado, parejo en todo el territorio, equitativo, justo. Esa es una función del Estado.
+Entonces, a tu pregunta sobre la producción de la leche, sobre los precios, sí, estamos en eso.
+El sábado en la mañana vamos a estar en los Altos de Jalisco, precisamente con productores de leche, para tratar estos temas.
+INTERLOCUTOR: Porque también se trata de que todas las políticas, todas estas estrategias, tengan incidencia en el bolsillo de la gente.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Sí.
+Ese es otro elemento, ese es otro error, otra falla, otra omisión de los tecnócratas, no les importaba la economía popular, la microeconomía.
+¿Qué les importaba?
+Las variables macroeconómicas, la estabilidad en variables macroeconómicas.
+Y es fundamental la economía de la gente, la economía del pequeño productor, la economía del pequeño empresario, la economía del ciudadano, la economía popular.
+Entonces, nosotros tenemos todo un apartado que tiene que ver con el fortalecimiento de la economía para el bienestar, economía con dimensión social, microeconomía.
+Por eso también estoy seguro que va a haber crecimiento económico, porque esto no se abordaba.
+¿Cuándo un banco le entregaba crédito a un pequeño productor?
+Si ustedes tienen alguna información al respecto me gustaría que me la transmitieran, porque a lo mejor yo estoy fuera de realidad, puede ser que yo esté mal, que los bancos sí le daban crédito al pequeño comercio o sí les dan crédito a las pequeñas empresas, a los pequeños negocios.
+A ver, investiguemos.
+Entonces, claro que ahora es un cambio porque los pequeños van a recibir créditos baratos y vamos a reactivar la economía desde abajo, que esto es muy importante.
+Entonces, por eso tenemos confianza que va a salir el país airoso, vamos a poder sacar adelante a México.
+Hasta ahí lo vamos a dejar hoy, porque hay otras actividades.
+Y mañana, mañana tú empiezas.
+Muchas gracias.
++++++
+
+
+
+
+
+
+
+Conferencia de prensa matutinaConferencia de prensa matutina
+
+
+
+Sala de prensaSala de prensa
+
+
+
+DocumentosDocumentos
+
+
+
+GabineteGabinete
+
+
+
+Semáforo de riesgo epidémico
+
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 100%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+Enlaces de interés
+
+Aprende en casa II
+Atlas Nacional de Riesgos – Cenapred
+Becas Benito Juárez
+Becas para estudiantes
+Ciudadanos Alertadores
+Gobierno de México
+INAPAM
+Instituto de Salud para el Bienestar
+Jóvenes Construyendo el Futuro
+Liconsa
+Pensión Adultos Mayores
+Planeando juntos
+Proequidad
+Programa Nacional de Reconstrucción
+Proyecto Refinería Dos Bocas
+Responsabilidad Compartida – Infonavit
+Sembrando Vida
+SSA Nuevo coronavirus COVID-19
+Trabajadoras del hogar – programa de afiliación al IMSS
+Universidad de la Salud – CDMX
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close
+
+
+
+
+
+
+
+
+
+
+
+Contacto Andrés Manuel López Obrador
+Presidente de México
+t. 5093 4900
+t. 01800 080 1127
+Puerta 8 Palacio Nacional, Plaza de la Constitución S/N, Colonia Centro, Ciudad de México, C.P. 06066
+Aviso de privacidad
+
+
+
+
+
+
+
+
+
+
+
+
+
+					Copyright © 2021				
+
+
+
+					Developed by ThemeMakers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"es","ajaxurl":"https:\/\/presidente.gob.mx\/wp-admin\/admin-ajax.php","nonce":"51b38c8652","display_exif":"0","display_geo":"1","background_color":"white","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"0","login_url":"https:\/\/presidente.gob.mx\/administrador\/?redirect_to=https%3A%2F%2Fpresidente.gob.mx%2Fversion-estenografica-de-la-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-9%2F","local_comments_commenting_as":"<fieldset><label for=\"email\">Email<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>"};
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"es","ajaxurl":"https:\/\/presidente.gob.mx\/wp-admin\/admin-ajax.php","nonce":"51b38c8652","display_exif":"0","display_geo":"1","display_comments":"0","fullsize_display":"0","background_color":"white","comment":"","post_comment":"Post Comment","loading_comments":"","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"0","login_url":"https:\/\/presidente.gob.mx\/administrador\/?redirect_to=https%3A%2F%2Fpresidente.gob.mx%2Fversion-estenografica-de-la-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-9%2F"};
+/* ]]> */
+
+
+
+
+
+

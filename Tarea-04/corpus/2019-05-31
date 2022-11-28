@@ -1,0 +1,601 @@
+
+
+
+  
+
+
+
+
+
+
+
+31.05.19 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador – Presidente de México
+
+			var tmm_lang_no_events = "No events at this period!";
+			
+			var lang_january =  "January";
+			var lang_february = "February";
+			var lang_march =    "March";
+			var lang_april =    "April";
+			var lang_may =      "May";
+			var lang_june =     "June";
+			var lang_july =     "July";
+			var lang_august =   "August";
+			var lang_september = "September";
+			var lang_october =  "October";
+			var lang_november = "November";
+			var lang_december = "December";
+
+			var lang_sunday =   "Sunday";
+			var lang_monday =   "Monday";
+			var lang_tuesday =  "Tuesday";
+			var lang_wednesday = "Wednesday";
+			var lang_thursday = "Thursday";
+			var lang_friday =   "Friday";
+			var lang_saturday = "Saturday";
+
+			var lang_sun = "Sun";
+			var lang_mon = "Mon";
+			var lang_tue = "Tue";
+			var lang_wed = "Wed";
+			var lang_thu = "Thu";
+			var lang_fri = "Fri";
+			var lang_sat = "Sat";
+
+			var lang_today = "today";
+			var lang_month = "month";
+			var lang_week = "week";
+			var lang_day = "day";
+			var lang_time = "Time";
+			var lang_place = "Place";
+			var error_fetching_events = "There was an error while fetching events!";
+
+			var events_time_format = "0";
+			var events_date_format = 0;
+		
+#wpadminbar { display: none; }
+
+						var is_single_page = true;//for breadcumbs definitions it theme.js
+						var site_url = "https://presidente.gob.mx";
+			var capcha_image_url = "https://presidente.gob.mx/wp-content/themes/diplomat/helper/capcha/image.php/";
+			var template_directory = "https://presidente.gob.mx/wp-content/themes/diplomat/";
+			var ajaxurl = "https://presidente.gob.mx/wp-admin/admin-ajax.php";
+			var ajax_nonce = "f72e8039a7";
+			var lang_enter_correctly = "Please enter correct";
+			var lang_sended_succsessfully = "Your message has been sent successfully!";
+			var lang_server_failed = "Server failed. Send later";
+			var lang_any = "Any";
+			var lang_home = "Home";
+			var lang_attach_more_else = "You cant add more else attachments!";
+			var lang_loading = "Loading ...";
+			var lang_mail_sending = "Mail sending ...";
+			var charcount = "3";
+			var widget_advanced_search = "1";
+			var menu_advanced_search = "1";
+			var fixed_menu = "1";
+			var appearing_speed = "50";
+		
+
+
+
+
+
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/presidente.gob.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=0f8a22554fdb4f1563c296282135734f"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		
+
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var LS_Meta = {"v":"6.11.5","fixGSAP":"1"};
+/* ]]> */
+
+
+
+
+
+
+/* Run FooBox FREE (v2.7.16) */
+var FOOBOX = window.FOOBOX = {
+	ready: true,
+	disableOthers: false,
+	o: {wordpress: { enabled: true }, countMessage:'image %index of %total', excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }},
+	selectors: [
+		".gallery", ".wp-block-gallery", ".wp-caption", ".wp-block-image", "a:has(img[class*=wp-image-])", ".foobox"
+	],
+	pre: function( $ ){
+		// Custom JavaScript (Pre)
+		
+	},
+	post: function( $ ){
+		// Custom JavaScript (Post)
+		
+		// Custom Captions Code
+		
+	},
+	custom: function( $ ){
+		// Custom Extra JS
+		
+	}
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body.custom-background { background-color: #ffffff; }
+
+
+
+
+
+
+
+    var analyticsFileTypes = [''];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+
+
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-144351937-1', 'auto');
+ 
+	ga('send', 'pageview');
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144481486-1');
+
+!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="epsuwqqxg47ssya55s5q-f-4ef90f770-clientnsv4-s.akamaihd.net",i={"ak.v":"30","ak.cp":"959687","ak.ai":parseInt("615102",10),"ak.ol":"0","ak.cr":11,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"1e93b66c","ak.r":36140,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"35.229.75.0","ak.cport":45616,"ak.gh":"23.55.63.37","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1612573883","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==6IRreo/i3BJG3zF5k80YD8VGCwK1Mps3ncqWFjmxATnQgjAkWjd6zz6LGCnbBR2c9mg9Gh3KTk4lN56MucSUKJNAXCY8Y31Zk7bDGHWaquGeZNvYoKvWuntCmeQYumeQPI2JrHSrS5L1wJ1xCicTiVtvvm5uH/hmzRuQeA43XvXo67layymkFElvfjfbVoG0RP56LjXs+Dqs9O8mNRuMvyKQT4RR09BR7KItVGp8SDcLCa4MogA94d1jn/q61kDbX3lB2XsKjIgIMyupWtrM1O9+C9ckhoqTObFBIeIeLNIOIvQm/t9s8le/ZbLXAzPE1dj67XdS9fZn5yvhTwaKON+qSXCt091jnZCD0Yis0GaJMAJeH3rco5GQrmqtW51MltZAaKGIiWqo6QuThhrvbtSZnUF9U+VDVFftlOf+W9E=","ak.pv":"11","ak.dpoabenc":""};if(""!==t)i["ak.ruds"]=t;var _={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))i["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:n,init:function(){if(!_.i){var a=BOOMR.subscribe;a("before_beacon",_.av,null,null),a("onbeacon",_.rv,null,null),_.i=!0}return this},is_complete:function(){return!0}}}}()}(window);
+
+
+(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Inicio
+Sala de Prensa
+
+Boletines
+Transcripciones
+Documentos
+Fotogalería
+Videos
+
+
+Coronavirus COVID-19
+Gabinete
+Oficina de la Presidencia
+Biografía
+Contacto
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+31.05.19 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador
+
+Home Versión Estenográfica 31.05.19 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador 					
+
+
+
+
+
+
+
+
+
+31.05.19 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador
+
+
+2019, Año del Caudillo del Sur, Emiliano Zapata
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Pues el día de hoy, por el pronunciamiento del presidente Donald Trump, quiero informar a los ciudadanos mexicanos, al pueblo de México sobre nuestra postura que ya quedó expresada en una carta que dimos a conocer por la noche de ayer.
+Quiero insistir en que no vamos nosotros a caer en ninguna provocación, que vamos a actuar con prudencia, con respeto a las autoridades de Estados Unidos, con respeto al presidente Donald Trump.
+Nosotros pensamos que todos los conflictos en las relaciones bilaterales deben de enfrentarse, resolverse con el diálogo, con la comunicación.
+
+No conduce a nada bueno el uso de las medidas coercitivas. Tenemos que actuar con prudencia. Existen relaciones de amistad con el pueblo de Estados Unidos y también relaciones económicas, comerciales, culturales.
+Tenemos más de tres mil kilómetros de frontera, viven, trabajan en Estados Unidos 24 millones de mexicanos; por eso estamos obligados a actuar con mucha prudencia y vamos a insistir mucho en el diálogo.
+Por eso, he dado instrucciones al secretario de Relaciones Exteriores para que se traslade a Washington, que se asiente, de quede, permanezca en la embajada de México en Estados Unidos y que busque con funcionarios del gobierno de Estados Unidos, como lo expresamos en la carta de ayer, comunicación, que haya intercambio de puntos de vista y que se llegue a un acuerdo sobre esta medida de aumentar impuestos a los productos mexicanos, a las mercancías de México que se exportan a Estados Unidos.
+No vamos a contestar de manera desesperada, vamos a esperar un tiempo, la evolución de esta situación. Como lo digo en la carta, no consideramos que deba de aplicarse la ‘Ley del talión’, no es diente por diente, ojo por ojo, porque nos quedaríamos chimuelos o tuertos todos.
+Tenemos que buscar el diálogo, la política, entre otras cosas, también lo digo en la carta; se creó, surgió, se inventó para evitar la confrontación y para evitar la guerra.
+Entonces vamos a hacer política, mucha diplomacia y vamos a actuar con responsabilidad.
+Le digo a todos los mexicanos que tengan confianza, que vamos a superar esta actitud del gobierno de Estados Unidos. Van ellos a rectificar porque el pueblo de México no merece un trato como el que se quiere aplicar.
+Nosotros siempre hemos atendido, escuchado, los planteamientos de Estados Unidos; se está haciendo un trabajo para ayudar en el incremento del flujo migratorio, que debe también de señalarse que se trata de un asunto de otros países.
+No queremos culparlos, son circunstancias que se presentan en países en donde la gente no tiene opciones, no tiene alternativas y son seres humanos.
+Yo quiero decir que hemos acompañado para que regresen a sus países a muchos. Sí estamos cumpliendo con nuestra responsabilidad en política migratoria. Todo esto se va a informar en Washington.
+Queremos también que se entienda que es un asunto económico social, son muchos los que de manera desesperada están abandonando sus pueblos por falta de oportunidades de trabajo y por la violencia
+Y nosotros tenemos que ayudar para que no ingresen de manera ilegal a Estados Unidos, pero también lo tenemos que hacer respetando los derechos humanos. Nada de autoritarismo, son seres humanos. En este número de personas que salen de sus países a buscarse la vida vienen niños, miles de niños, niños solos; y los estamos protegiendo y estamos actuando con responsabilidad.
+No vamos nosotros a cometer ninguna violación a los derechos humanos. Por encima de lo material está la fraternidad. Le pido a los mexicanos que esperemos. Vamos a estar informando constantemente, vamos a salir bien.
+En las últimas horas he recibido llamadas de apoyo de mexicanos de todos los sectores. Hay una solidaridad del pueblo de México hacia nuestro gobierno, un respaldo del pueblo de México a nuestro gobierno.
+Entonces, vamos a esperar el informe de Marcelo Ebrard y vamos a comunicarles a ustedes permanentemente.
+Con este propósito, aunque vamos a estar temprano mañana en Veracruz, vamos a tener allá, a la misma hora, rueda de prensa, esta comunicación; y lo mismo vamos a procurar hacer el domingo, aunque no temprano, pero sí vamos a estar en Tabasco y allá vamos a informar sobre este tema. Vamos a estar informando constantemente sobre esta situación.
+Entonces, esto es lo que quería comentarles. Vamos a esperar.
+Yo creo que se va a analizar más esta postura en el gobierno de Estados Unidos. Creo que el presidente Trump va a comprender que no es de esa manera en que se pueden resolver las cosas. Yo creo que va a haber una rectificación, si no de inmediato, la tiene que haber, porque estas medidas no convienen a los mexicanos, pero tampoco a los estadounidenses.
+Esa es mi apreciación.
+Y los gobernantes tenemos que hacerles caso a los ciudadanos, tenemos que escuchar la voz de los ciudadanos, la opinión de los ciudadanos. Yo creo que la opinión de los ciudadanos en México y en Estados Unidos va a estar a favor del libre comercio y no de medidas que impidan el libre comercio. No a favor de impuestos o de aranceles o de cerrar nuestras economías. La gente va a estar a favor de que haya libre comercio.
+También esto no detiene el proceso que ya se inició para ratificar el tratado. Nosotros vamos a continuar, desde luego, es un asunto que corresponde al Senado de la República, pero la opinión del Ejecutivo es que continúe el proceso de ratificación del tratad, que nosotros cumplamos con los compromisos que se hicieron y que terminemos pronto de aprobar el Tratado Comercial de México con Estados Unidos y Canadá.
+Eso es lo que quería comentarles en términos generales.
+PREGUNTA: Bueno días, jefe del Estado mexicano. Carlos Pozos, reportero de Petróleo y Energía.
+Nos queda claro la postura de nuestro país a través de esta carta presidente; pero en estos tiempos modernos las cosas cambian minuto a minuto.
+¿Qué tenemos ahorita que amanece? ¿Es el inicio de un reacomodo geopolítico en donde nuestro país puede quitar aranceles a China y a Rusia? ¿Podemos esperar una invasión, o necesitamos de un pacto global migratorio?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Sí, vamos a esperarnos.
+Nosotros sí ya fijamos como postura no aceptar nada que implique confrontación; el responder de manera enérgica y meternos a un proceso de confrontación, eso no, no lo vamos a hacer.
+Vamos a buscar convencer, persuadir, que estas medidas que se tratan de imponer no resuelven el problema.
+INTERLOCUTOR: En tiempos electorales.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Se dan en circunstancias especiales y también hay que entender qué está pasando en Estados Unidos, pero no meternos nosotros a eso, o sea, prudencia, aunque se tenga el corazón caliente, la cabeza fría.
+INTERLOCUTOR: Mi segunda pregunta, presidente. La cereza en el pastel. El domingo pasado el creador de la frase: ‘La dictadura perfecta’ y Premio Nobel de Literatura 2010, Mario Vargas Llosa, cuestionó la llegada de usted, que si lograría imponer la democracia o hacer prevalecer el populismo que arruinaría a nuestro país.
+¿Le merece alguna opinión?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: No, está en su derecho de manifestarse.
+Él tiene ese punto de vista y yo lo respeto, desde luego no coincido con él.
+PREGUNTA: Gracias, señor presidente. Jésica Zermeño, de Univisión. Dos preguntas.
+¿Ya le ha respondido alguien de Estados Unidos esta carta, ya sea el presidente Donald Trump o alguno de sus colaboradores?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Todavía no, no hay ninguna respuesta. Por eso no podemos decir más que lo expresado en la carta.
+INTERLOCUTORA: La segunda pregunta es: Después del anuncio de la Casa Blanca y del presidente Donald Trump, ¿usted ha decidido tomar alguna medida en las fronteras, por ejemplo, más vigilancia o destinar más agentes del Instituto Nacional de Migración a tareas de vigilancia? ¿Algo va a cambiar en México después de este anuncio?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Es que ya hemos venido haciendo un trabajo importante, como no se había hecho antes en esta materia.
+Pero queremos que se le informe al presidente Donald Trump con datos. Hay algo que es evidente, ha crecido el flujo migratorio por las crisis en varios países de Centroamérica.  Les puedo decir que la mitad de los migrantes son de la hermana República de Honduras, la mitad, y que ante este crecimiento hemos actuado y se ha acompañado de regreso a sus pueblos a migrantes como no se había hecho en otros tiempos, respetando sus derechos humanos.
+Les hablaba yo de la situación de niños solos, algo que no se había visto en otros tiempos o no en el número de niñas, niños migrantes. Entonces, estamos haciendo lo que nos corresponde sin violar derechos humanos.
+INTERLOCUTORA: Pero, entonces, ¿de ayer a hoy no se tomará ninguna medida extraordinaria ante el anuncio?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Es que ya tenemos un plan que ha venido aplicándose en la frontera sur.
+INTERLOCUTORA: ¿Continuará normal?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Va a continuar y que está dando resultados. Tenemos datos para demostrarlo.
+INTERLOCUTORA: Compártanos algunos datos, señor presidente.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Estoy esperando que se informe de manera oficial al gobierno de Estados Unidos, que lo haga el secretario de Relaciones Exteriores, que presente las pruebas. Y una vez que entregue las pruebas al gobierno estadounidense, que se den a conocer cuál ha sido nuestra actuación en lo que tiene que ver con el paso de migrantes por nuestro territorio y lo que se ha hecho para acompañar de regreso a muchos migrantes, darles opciones de trabajo y protegerlos.
+Todo lo que hemos hecho en esta materia se va a informar. Lo que sí les puedo adelantar es que no nos hemos quedado con los brazos cruzados, es decir, que no hemos desatendido este asunto penoso, porque esto no debería de suceder si existiera justicia en el mundo, si no existiera tanta pobreza, tanta desigualdad.
+Entonces, se está atendiendo lo que tiene que ver con los flujos migratorios, pero también seguimos insistiendo en atender el problema de fondo.
+Hace muy poco, incluso, la Cepal ya presentó el proyecto para el desarrollo y la creación de empleos en Centroamérica. Es un plan completo y hemos venido trabajando con el gobierno de Estados Unidos para que esa sea la vía de atención, que eso sea lo que se privilegie, el atender las causas, no medidas coercitivas; y se ha estado trabajando en eso, incluso se aceptó originalmente esta propuesta, se comprometieron recursos de alrededor de cinco mil millones de dólares y no se ha podido aplicar esa inversión.
+Esto es lo que queremos, que se vea sin confrontación, sin ofensas, con buenos modales, con respeto al gobierno de Estados Unidos, con respeto al presidente Donald Trump.
+PREGUNTA: Señor presidente.
+En la eventualidad que el 10 de junio y el 22 de octubre el presidente Trump aplique esos aranceles. 10 de junio, una fecha y octubre la segunda.
+¿Cómo responderá usted? ¿Y qué resultados arroja sus encuentros con Jared Kushner?
+Usted se reunió aquí, en la Ciudad de México con él. ¿Aplica la diplomacia personal? El yerno del presidente Trump y usted en esos diálogos para evitar lo que usted dijo, cuando visitó Estados Unidos como candidato a la presidencia en Nueva York y se reunió con las organizaciones de clubes de México en Estados Unidos…entonces ¿qué es lo que sigue, señor presidente?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Esperar, porque son 10 días y vamos a presentar un informe, que esa es la misión que tiene encomendada el secretario de Relaciones y vamos a esperar también la respuesta del gobierno estadounidense.
+Y también vamos a ir nosotros analizando opciones, alternativas. Tenemos tiempo para eso.
+Hay condiciones también favorables. Yo pienso que en una situación de esta naturaleza vamos a contar con el apoyo de los mexicanos, lo sentí, lo percibí desde anoche y todavía hoy en la mañana de mucha gente, mucha gente de todos los sectores expresando su apoyo a la postura asumida inicialmente por nosotros.
+Vamos a estarles informando, va a haber unidad nacional, no tengo la menor duda, va a solidarizarse todo el pueblo de México, tanto en nuestro país como los mexicanos que viven y trabajan en Estados Unidos.
+INTERLOCUTOR: Y la segunda pregunta, señor presidente.
+Sin darle la razón a su homólogo Donald Trump, ¿por qué él llama ‘frontera porosa’ a Tabasco? Entidad de la cual es usted oriundo, o Campeche, Quintana Roo, o Chiapas.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Yo no voy a contestar eso.
+PREGUNTA: Buenos días. Rocío Méndez, de Noticias MVS.
+Para comenzar, hay un acuerdo comercial trilateral que tiene una serie de respaldos ante la Organización Mundial de Comercio.
+¿Se acudirá a esto, se acudirá a otros instrumentos internacionales para verificar la posición de México?
+Gracias.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Hay varias posibilidades hacia adelante, pero no queremos adelantar nada.
+Desde luego, lo que sí queremos dejar de manifiesto es que se llama al pueblo de México a estar atentos y unidos, todos los mexicanos unidos, que enfrentemos juntos esta situación. Ese es el llamamiento que hago a todos los mexicanos, tanto, repito, a quienes estamos en el país como a los mexicanos que viven, trabajan, en Estados Unidos, a cerrar filas. Primero los mexicanos.
+Y a no caer en ninguna provocación, actuar con prudencia y con respeto a las autoridades estadounidenses.
+A partir de las gestiones que se hagan, que tienen como propósito informar al gobierno de Estados Unidos de lo que se está haciendo en materia migratoria -y es la encomienda que tiene Marcelo Ebrard- a partir de información que se va a presentar y de la respuesta a esta solicitud de diálogo, de comunicación con el gobierno de Estados Unidos, a partir de ahí veríamos otras opciones, otras alternativas, existen mecanismos legales, no los desconocemos; pero no queremos hablar de eso por lo pronto, o sea, lo que queremos es convencer, persuadir que nos conviene el libre comercio.
+PREGUNTA: Buenos días, señor presidente. Alberto Rodríguez, de SDP Noticias.
+El que fue el jefe de la negociación del T-MEC de México con la delegación mexicana, Kenneth Smith, advierte que en efecto es sencillamente ilegal imponer este arancel.
+¿No sería más fácil simplemente cortar de tajo todo el diálogo, todo acercamiento con Estados Unidos y decir: ‘Desde este momento es ilegal que usted nos imponga este arancel?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Es que no es sólo un asunto legal, es que queremos tener una buena relación con el gobierno de Estados Unidos y no queremos a la primera, como una primera decisión o actuación, proceder legalmente.
+Queremos que haya diálogo, que haya entendimiento y que se llegue a acuerdo, sin necesidad del proceso legal. No se trata de renunciar a eso, sino se trata de buscar una salida conveniente para los dos países, para los dos gobiernos.
+INTERLOCUTOR: Y una segunda pregunta. ¿Qué habló usted con Marcelo Ebrard en las últimas horas? ¿Cuál es el ánimo de la delegación que viaja a Washington? ¿Cuál es el estado en el que ellos van a llegar? ¿Con qué armas llegan?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Con mucho respaldo de los mexicanos, mucho respaldo de los mexicanos, pero mucho, mucho, como nunca el pueblo de México está respaldando a su gobierno.
+No tenemos también por qué manifestarlo de otra forma, pero si la gente está apoyando como nunca se había visto a partir de que se dio a conocer la carta.
+Hay un sentimiento de unidad, de apoyo, de ir juntos, de no confrontarnos por ahora, de hacer una tregua en las diferencias que tenemos y que vamos a seguir teniendo, pero se puede resumir en la frase ‘La patria es primero’.
+PREGUNTA: ¿También va la secretaria de Economía, presidente?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: ¿Mande?
+INTERLOCUTORA: ¿Ira la secretaria de Economía también con el canciller?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Se están poniendo de acuerdo, pero sí, es una misión. Van varios servidores públicos, todos los que tienen que ver con este asunto se van a trasladar a Washington y la misión la encabeza, repito, Marcelo Ebrard.
+PREGUNTA: Noemí Gutiérrez, de Efekto TV.
+Preguntarle cuánto tiempo va a estar Marcelo Ebrard en Washington, si ya tiene alguna reunión ya pactada, si ya lo van a recibir allá en la Casa Blanca a Marcelo Ebrard.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Todavía.
+INTERLOCUTORA: ¿Cuánto tiempo va a estar allá? Y, sobre todo, dice que ya hay muestras de unidad.
+Si nos puede especificar exactamente qué sectores se han expresado, quién le ha llamado para expresarle su respaldo y sobre todo si hay presidentes de otros países que ya también le han manifestado su respaldo.
+Y en otro tema, también si me puede responder. El domingo ya empieza de la construcción de la nueva refinería en Dos Bocas; hasta el momento la Secretaría de Medio Ambiente no ha mostrado la manifestación de impacto ambiental.
+Usted había dicho que ya se tenía la autorización, pero exactamente si nos pueden mostrar ese documento. ¿A qué se refiere esta autorización?
+Y también si me contesta lo de Estados Unidos.
+Gracias.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Sí, mire. Las muestras de apoyo las empezamos a recibir desde anoche en las redes, lo pueden ustedes constatar; y hoy temprano hasta los que se vienen a protestar aquí frente al Palacio expresaron su apoyo cuando entré.
+PREGUNTA: Pero ¿sí nos puede dar los nombres?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Ellos son trabajadores electricistas. Y en la mañana la secretaria de Gobernación me mostró un mensaje de Carlos Slim expresando su apoyo, el de él y el de su familia, por poner un ejemplo. Pero es general, es todo el pueblo. Yo conozco la idiosincrasia de nuestro pueblo.
+PREGUNTA: ¿De sus adversarios políticos, presidente?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Estoy seguro que también.
+INTERLOCUTORA: ¿Ya se lo han manifestado?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: No, pero estoy seguro de que va a haber un amplio apoyo, un amplio respaldo y que, repito, vamos a unirnos los mexicanos más de lo que ya estamos juntos.
+INTERLOCUTORA: ¿Y de otros países ha habido respaldo?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: No, pero tampoco queremos que sea una causa internacional, lo que queremos es defender los intereses del pueblo de México y también, ¿por qué no?, defender el derecho a la vida, el derecho a vivir libres de miserias de los seres humanos, de los migrantes de otros países.
+El que se apliquen las leyes migratorias, pero que no haya violación de los derechos humanos, que no haya maltrato.
+La gente no sale de sus pueblos por gusto, sale por necesidad o porque no hay oportunidades de trabajo, o porque hay violencia. Muchos salen por eso. Entonces, es un asunto de fraternidad universal que, como lo digo en la carta, está por encima de otras consideraciones.
+Acerca de lo de la refinería. El domingo informamos la situación en que se encuentran los permisos para trabajar en esta refinería.
+INTERLOCUTORA: ¿Pero sí tiene la manifestación de impacto ambiental para iniciar el domingo ya los trabajos?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: El domingo informamos.
+Yo sé que hay mucho interés en que se tengan estas manifestaciones de impacto ambiental y vamos a dar respuesta a eso; como también hay mucho interés en que no se construyan estas obras por otro tipo de consideraciones que no vienen al caso, o sea, que no se haga el Tren Maya, que no se lleve a cabo el proyecto en el Istmo, que no se construya el aeropuerto en Santa Lucía, que no se haga la refinería, pero consideramos que son proyectos importantes.
+PREGUNTA: Buenos días, presidente.
+Le quiero hacer dos preguntas.
+Menciona usted que primero quiere que el canciller se reúna con el presidente Trump y le plantee un informe.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: No.
+INTERLOCUTOR: Bueno, que sea recibido por funcionarios estadounidenses.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: No, no, por el presidente Trump, con los funcionarios que decida el presidente Trump o que, por su función, por su trabajo, tengan que atender este asunto.
+INTERLOCUTOR: Claro.
+Y hay un plazo como de 10 días para que se cumpla este anuncio de los aranceles. El gobierno mexicano podría denunciar esta medida ante la Organización Mundial de Comercio ¿Usted tomaría en cuenta esta medida?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Sí, porque son procesos que tienen que ver con acuerdos, incluso en el mismo tratado vigente hay mecanismos para solicitar arbitrajes internacionales y existe también la vía de la Organización Mundial del Comercio.
+Pero no quiero ahora pensar en eso o eso quedaría pendiente, lo que vamos a esperar es que se informe y se puede llegar a un acuerdo pronto.
+INTERLOCUTOR: De no ser posible, estas medidas están ahí, se puede tomar en consideración.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Sí, es un mecanismo que existe en los tratados comerciales.
+INTERLOCUTOR: Gracias, presidente.
+Mi segunda pregunta. ¿Nos puede informar, por favor, qué avances tiene la investigación de la Función Pública sobre los contratos del superdelegado Carlos Lomelí?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Está por informar la Secretaría de la Función Pública, se le solicitó que hiciera una revisión sobre estos contratos.
+INTERLOCUTOR: Se lo planteó porque hoy se publica una investigación que detalla el emporio empresarial de Carlos Lomelí, que a través de 21 empresas en 13 años ha ganado contratos por siete mil millones de pesos en 17 estados, me parece; y resalta el dato que varios de sus familiares socios que están en estas empresas también ocupan cargos de elección popular, sobre todo en Jalisco; uno de ellos incluso fue candidato a la alcaldía de Zapopan.
+Esa información me imagino que usted la conocía
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Sí, existe una confrontación política porque él fue candidato a gobernador en Jalisco, y este tema Reforma lo trae desde hace algún tiempo. Antes creo que fue diputado federal de un partido que no era Morena y no había tanto cuestionamiento; pero cuando ya pasa a ser candidato de Morena y enfrenta el proceso, tiene que participar en el proceso de elección de Jalisco, pues ya se intensifica las acusaciones.
+Yo lo único que le puedo decir es que no actuamos con fobias ni con filias, es decir, es lo justo.
+Si él está implicado en actos de corrupción va a ser denunciado. Si no tiene delitos, si legalmente no tiene responsabilidad no podemos nosotros cometer injusticias. Si hay pruebas se castiga y salen del gobierno sea quien sea. Es cero corrupción, cero impunidad.
+INTERLOCUTOR: ¿No le parece que hay conflicto de interés en el hecho de que él, siendo funcionario ya público, en esta misma administración ya también ganó nuevos contratos con gobiernos estatales?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Pero no hay que adelantarnos, o sea, no se puede sentenciar desde el periodismo, hay que esperar. Para eso hay una autoridad y no hay intención de encubrir a nadie, de tapar a nadie.
+Le mando decir de manera respetuosa al Reforma que no nos confunda, no somos iguales a los otros gobernantes, somos distintos, que tengan confianza.
+PREGUNTA: Buenos días, presidente.
+Ayer se reunió con 10 gobernadores del PAN.
+¿Nos podría decir cuáles son las conclusiones de este acuerdo?, ¿y cuándo se reuniría con los gobernadores priistas y de Morena?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Estamos buscando fortalecer las relaciones con los gobiernos locales.
+Es muy buena la relación con los gobernadores de todos los partidos, por hablar de organizaciones políticas que impulsaron a estas autoridades.
+Lo cierto es que han actuado de manera muy responsable, se ha entendido que tenemos que unirnos para beneficio de los ciudadanos independientemente de las banderías partidistas.
+Y ayer fue un buen encuentro con los gobernadores surgidos del PAN. Y estuvimos conversando sobre varios temas, incluso de la posibilidad de lograr una alianza amplia para combatir la corrupción, para combatir la pobreza, para garantizar la paz, la tranquilidad y para impulsar el crecimiento económico. Esta alianza fue una propuesta, una iniciativa del gobernador de Querétaro, que es el presidente de la Conago, Francisco Domínguez. Y de eso se habló.
+Voy a hacer lo propio con los gobernadores surgidos del PRI. También llevo muy buena relación con ellos, han ayudado, se ha trabajado de manera coordinada; y yo creo que hoy vamos a definir de acuerdo a las agendas, cuándo será este encuentro.
+INTERLOCUTOR: Al salir, ellos dijeron que el gobierno, la federación, se comprometió a financiar en cada entidad un proyecto de infraestructura.
+¿Ya le entregaron los proyectos? ¿De qué se trata este tema?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Sí, es ponernos de acuerdo para obras, vamos a decir, estratégicas, importantes, trascendentes en beneficio de la población de cada estado, poder concertar, llegar a un acuerdo para impulsar la construcción, de cuando menos, una obra de gran impacto por el beneficio que genere en el estado.
+Van a traer sus propuestas la semana próxima, para ver qué tipo de obras y va a ser un presupuesto anual, multianual y definir sobre esto.
+INTERLOCUTOR: La última pregunta.
+¿Con este episodio de Estados Unidos hay posibilidad de que su gobierno modifique su política migratoria, este gobierno mexicano modifique la política migratoria?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: No, pero lo que queremos es informar que está aplicándose una muy buena política migratoria.
+Pero tenemos que informar, que convencer, a lo mejor no se tiene toda la información, por eso es importante la visita de Marcelo, el informar; porque yo no tengo duda de que se ha estado actuando en esta materia y que se ha hecho bien.
+No hay elementos, no hay razón, pero no estamos cerrados a escuchar los puntos de vista del gobierno estadounidense.
+Se ha estado actuando, les repito, muy bien, subrayo, sin violar derechos humanos y se está acompañando a sus países de origen a migrantes y se les está dando opciones de trabajo en México como nunca, y tenemos los datos para probarlo. Y no tengo, además, algo que me importa mucho, ningún problema de conciencia.
+Entonces, vamos a esperar el resultado de estos primeros encuentros en Estados Unidos.
+PREGUNTA: Gracias, presidente, buenos días. Alfonso Bárcenas, de Cadena RASA Radio 620.
+Sabemos que el gobierno mexicano está bien representado por el secretario Marcelo Ebrard, sabemos de su capacidad. Sin embargo, ¿tienen un plan B o si es necesario, presidente, usted está dispuesto a viajar, a reunirse con el presidente Donald Trump?, toda vez que se ha manejado que usted no iba a salir del país, sin embargo, el tema lo amerita para poder no descartar precisamente esta reunión con el presidente Donald Trump.
+Y si tiene un plan B sobre esta medida que puso precisamente el gobierno de Estados Unidos.
+Gracias.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Vamos a esperarnos, vamos a ver qué va a suceder.
+El día de hoy, mañana, y vamos a estar informando. Aquí vamos a estar conjuntamente analizando, reflexionando, sobre este asunto.
+Y muchas gracias porque vamos a gira. Les invito, vamos a Tlaxcala, vamos a estar en Apizaco, a las 11, 12 del día vamos a estar en Apizaco. Y por la tarde en Coatepec, Veracruz.
+Mañana día dedicado a la Marina, vamos a estar en el Puerto de Veracruz, que vamos a participar en una ofrenda a los marinos de México y del mundo. Vamos a embarcarnos, vamos a navegar y vamos a estar en el mar, y es el día de los marinos. Y por la tarde de mañana vamos a estar en Yanga, Veracruz.
+En Coatepec, Veracruz, vamos a dar a conocer los apoyos a los productores de café de todo el país. Y en Yanga vamos a dar a conocer el apoyo a todos productores de caña de México. Entonces, les invitamos. Bueno, eso es el sábado. En la mañana el puerto de Veracruz y por la tarde Yanga.
+Y el domingo están todas y todos invitados, porque vamos a Paraíso, al paraíso. Vamos a Dos Bocas, municipio de Paraíso, Tabasco, mi tierra, mi agua.
+Entonces, están invitados, porque vamos a iniciar la construcción de la refinería para darle valor agregado a la materia prima, para no estar vendiendo petróleo crudo, porque durante mucho tiempo no se han construido refinerías, desde hace más de 40 años que no se construye una nueva refinería; y vender petróleo crudo para comprar gasolinas del extranjero es como si vendiéramos naranja y compráramos jugo de naranja.
+Es algo parecido ahí en esa terminal marítima de Dos Bocas se concentran y se exportan más de un millón de barriles diarios de petróleo. Entonces, ya no queremos que ese petróleo se exporte.
+Queremos que ahí donde llega todo ese petróleo, que ya están las instalaciones, porque ese petróleo llega de los campos petroleros de Campeche, del mar de Campeche y de los campos de tierra de Tabasco, queremos que ese petróleo se procese y se produzcan las gasolinas, porque de esta manera vamos a ser autosuficientes en gasolinas, se da empleo y vamos a bajar cuando tengamos ya autosuficiencia en gasolinas, vamos a bajar los precios de los combustibles. Ese es el acuerdo, ese es el compromiso.
+Por lo pronto para que no se vaya a malinterpretar, no suben los precios de los combustibles en términos reales, estamos cuidando que no suban y mucho menos van a haber gasolinazos. Eso es un compromiso que hemos adquirido y se va a cumplir.
+Entonces, les invitamos desde hoy hasta el domingo; y mañana, como quedamos, sí vamos a tener temprano, en el puerto de Veracruz, la conferencia para informar sobre este asunto. A ver qué se avanzó, que nos puede decir Marcelo sobre sus gestiones en Washington.
+Muchas gracias.
++++++
+
+
+
+
+
+
+
+Conferencia de prensa matutinaConferencia de prensa matutina
+
+
+
+Sala de prensaSala de prensa
+
+
+
+DocumentosDocumentos
+
+
+
+GabineteGabinete
+
+
+
+Semáforo de riesgo epidémico
+
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 100%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+Enlaces de interés
+
+Aprende en casa II
+Atlas Nacional de Riesgos – Cenapred
+Becas Benito Juárez
+Becas para estudiantes
+Ciudadanos Alertadores
+Gobierno de México
+INAPAM
+Instituto de Salud para el Bienestar
+Jóvenes Construyendo el Futuro
+Liconsa
+Pensión Adultos Mayores
+Planeando juntos
+Proequidad
+Programa Nacional de Reconstrucción
+Proyecto Refinería Dos Bocas
+Responsabilidad Compartida – Infonavit
+Sembrando Vida
+SSA Nuevo coronavirus COVID-19
+Trabajadoras del hogar – programa de afiliación al IMSS
+Universidad de la Salud – CDMX
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close
+
+
+
+
+
+
+
+
+
+
+
+Contacto Andrés Manuel López Obrador
+Presidente de México
+t. 5093 4900
+t. 01800 080 1127
+Puerta 8 Palacio Nacional, Plaza de la Constitución S/N, Colonia Centro, Ciudad de México, C.P. 06066
+Aviso de privacidad
+
+
+
+
+
+
+
+
+
+
+
+
+
+					Copyright © 2021				
+
+
+
+					Developed by ThemeMakers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"es","ajaxurl":"https:\/\/presidente.gob.mx\/wp-admin\/admin-ajax.php","nonce":"51b38c8652","display_exif":"0","display_geo":"1","background_color":"white","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"0","login_url":"https:\/\/presidente.gob.mx\/administrador\/?redirect_to=https%3A%2F%2Fpresidente.gob.mx%2F31-05-19-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador%2F","local_comments_commenting_as":"<fieldset><label for=\"email\">Email<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>"};
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"es","ajaxurl":"https:\/\/presidente.gob.mx\/wp-admin\/admin-ajax.php","nonce":"51b38c8652","display_exif":"0","display_geo":"1","display_comments":"0","fullsize_display":"0","background_color":"white","comment":"","post_comment":"Post Comment","loading_comments":"","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"0","login_url":"https:\/\/presidente.gob.mx\/administrador\/?redirect_to=https%3A%2F%2Fpresidente.gob.mx%2F31-05-19-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador%2F"};
+/* ]]> */
+
+
+
+
+
+

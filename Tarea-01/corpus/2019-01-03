@@ -1,0 +1,504 @@
+
+
+
+  
+
+
+
+
+
+
+
+03.01.19 Versión estenográfica de la inauguración de las oficinas del IMSS en Morelia, Michoacán – Presidente de México
+
+			var tmm_lang_no_events = "No events at this period!";
+			
+			var lang_january =  "January";
+			var lang_february = "February";
+			var lang_march =    "March";
+			var lang_april =    "April";
+			var lang_may =      "May";
+			var lang_june =     "June";
+			var lang_july =     "July";
+			var lang_august =   "August";
+			var lang_september = "September";
+			var lang_october =  "October";
+			var lang_november = "November";
+			var lang_december = "December";
+
+			var lang_sunday =   "Sunday";
+			var lang_monday =   "Monday";
+			var lang_tuesday =  "Tuesday";
+			var lang_wednesday = "Wednesday";
+			var lang_thursday = "Thursday";
+			var lang_friday =   "Friday";
+			var lang_saturday = "Saturday";
+
+			var lang_sun = "Sun";
+			var lang_mon = "Mon";
+			var lang_tue = "Tue";
+			var lang_wed = "Wed";
+			var lang_thu = "Thu";
+			var lang_fri = "Fri";
+			var lang_sat = "Sat";
+
+			var lang_today = "today";
+			var lang_month = "month";
+			var lang_week = "week";
+			var lang_day = "day";
+			var lang_time = "Time";
+			var lang_place = "Place";
+			var error_fetching_events = "There was an error while fetching events!";
+
+			var events_time_format = "0";
+			var events_date_format = 0;
+		
+#wpadminbar { display: none; }
+
+						var is_single_page = true;//for breadcumbs definitions it theme.js
+						var site_url = "https://presidente.gob.mx";
+			var capcha_image_url = "https://presidente.gob.mx/wp-content/themes/diplomat/helper/capcha/image.php/";
+			var template_directory = "https://presidente.gob.mx/wp-content/themes/diplomat/";
+			var ajaxurl = "https://presidente.gob.mx/wp-admin/admin-ajax.php";
+			var ajax_nonce = "f72e8039a7";
+			var lang_enter_correctly = "Please enter correct";
+			var lang_sended_succsessfully = "Your message has been sent successfully!";
+			var lang_server_failed = "Server failed. Send later";
+			var lang_any = "Any";
+			var lang_home = "Home";
+			var lang_attach_more_else = "You cant add more else attachments!";
+			var lang_loading = "Loading ...";
+			var lang_mail_sending = "Mail sending ...";
+			var charcount = "3";
+			var widget_advanced_search = "1";
+			var menu_advanced_search = "1";
+			var fixed_menu = "1";
+			var appearing_speed = "50";
+		
+
+
+
+
+
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/presidente.gob.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=0f8a22554fdb4f1563c296282135734f"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		
+
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var LS_Meta = {"v":"6.11.5","fixGSAP":"1"};
+/* ]]> */
+
+
+
+
+
+
+/* Run FooBox FREE (v2.7.16) */
+var FOOBOX = window.FOOBOX = {
+	ready: true,
+	disableOthers: false,
+	o: {wordpress: { enabled: true }, countMessage:'image %index of %total', excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }},
+	selectors: [
+		".gallery", ".wp-block-gallery", ".wp-caption", ".wp-block-image", "a:has(img[class*=wp-image-])", ".foobox"
+	],
+	pre: function( $ ){
+		// Custom JavaScript (Pre)
+		
+	},
+	post: function( $ ){
+		// Custom JavaScript (Post)
+		
+		// Custom Captions Code
+		
+	},
+	custom: function( $ ){
+		// Custom Extra JS
+		
+	}
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body.custom-background { background-color: #ffffff; }
+
+
+
+
+
+
+
+    var analyticsFileTypes = [''];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+
+
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-144351937-1', 'auto');
+ 
+	ga('send', 'pageview');
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144481486-1');
+
+!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="epsuwqqxg47ssya55vdq-f-5b2673240-clientnsv4-s.akamaihd.net",i={"ak.v":"30","ak.cp":"959687","ak.ai":parseInt("615102",10),"ak.ol":"0","ak.cr":11,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"1e98bb5e","ak.r":36140,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"35.229.75.0","ak.cport":46114,"ak.gh":"23.55.63.37","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1612574023","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==CXKxsU93ho6qoF+n22uHxgEE+dcBRfh1RZJ0Up1sUwjoUspaso3Q5JBsdBGZp05kRJAQIVKWlYj/sQY6GseF1IBpR7PrDBAkhi53cqz67I7dfjeuw2ODUnVDrSbCrP/2uDRJTtwwLrgSF7ceHZiNvNp4Ttr8NnAe+HIAeS9DXFBtfcVA8LZ3yRtUG+0NTWH6adHhAbfY0Im3fi5V8YqB4a7M33oL/R36mYF19cUXKsfhw2z1o148xI7VXyn2DwWypJftHK8zt3bz7mLFrNQDjBI+qfV6orvCxuEBPTvHr3OKCcDmgXHTRqZV9jrzEwuYeSMv+HaFfd1XjHjrDP2zued4XaNHE17xgLUiYF5xvam1lflfrPk56RHfQ3bLuCldOEkwv0BPXT3vl+M3tRHS3Tet/zhmdXo71Te+RU4tk48=","ak.pv":"11","ak.dpoabenc":""};if(""!==t)i["ak.ruds"]=t;var _={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))i["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:n,init:function(){if(!_.i){var a=BOOMR.subscribe;a("before_beacon",_.av,null,null),a("onbeacon",_.rv,null,null),_.i=!0}return this},is_complete:function(){return!0}}}}()}(window);
+
+
+(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Inicio
+Sala de Prensa
+
+Boletines
+Transcripciones
+Documentos
+Fotogalería
+Videos
+
+
+Coronavirus COVID-19
+Gabinete
+Oficina de la Presidencia
+Biografía
+Contacto
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+03.01.19 Versión estenográfica de la inauguración de las oficinas del IMSS en Morelia, Michoacán
+
+Home Versión Estenográfica 03.01.19 Versión estenográfica de la inauguración de las oficinas del IMSS en Morelia, Michoacán 					
+
+
+
+
+
+
+
+
+
+03.01.19 Versión estenográfica de la inauguración de las oficinas del IMSS en Morelia, Michoacán
+
+
+VE-051-19
+Versión estenográfica
+Morelia, Michoacán, 03 de enero de 2019
+Inauguración de las oficinas del IMSS y presentación del Plan IMSS 2018-2024
+MODERADORA: Escuchemos el mensaje a cargo del licenciado Andrés Manuel López Obrador, presidente de los Estados Unidos Mexicanos.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Amigas, amigos de Michoacán me da mucho gusto estar de nuevo en Morelia, en la capital de este importante estado de la República.
+Siempre he dicho que no se podría escribir y explicar la historia de México sin la historia de Michoacán por lo que han aportado los michoacanos en las tres grandes transformaciones que han existido, que se han presentado, que hemos vivido los mexicanos.
+
+
+
+
+
+
+
+
+Es como aquí se recordó, la tierra de Morelos, un luchador social de primer orden, un sacerdote con dimensión social. Todavía es vigente lo que planteó hace más de 200 años en su célebre documento: los Sentimientos de la Nación.
+Fíjense cómo resumía Morelos lo que se necesitaba en ese entonces, que sigue siendo vigente y siguen siendo las grandes demandas de nuestro pueblo. Decía Morelos que se eleve el salario del peón, si se le pide a un economista que elabore un documento para que mejore el salario del trabajador, no lo resumiría de esa manera. En una frase, que se eleve el salario del peón.
+Si se le pide a un pedagogo que nos diga qué se necesita para mejorar la educación, no diría lo que expresó Morelos, decía: “Que se eduque al hijo del campesino y al hijo del barretero igual que al hijo del más rico hacendado”.
+Decía en cuanto a la justicia, que haya tribunales que protejan al débil de los abusos que comete el fuerte. Decía que se modere la indigencia y la opulencia.
+Es decir, lo que aquí planteó Germán, que haya igualdad para sentirnos bien todos.
+Eso era Morelos, Michoacán, y lo mismo Melchor Ocampo, principal asesor de Benito Juárez; y dos revolucionarios excepcionales, el general Francisco J. Múgica y el general Lázaro Cárdenas del Río.
+Estos dirigentes, héroes, padres de nuestra patria, nos enseñaron cómo buscar la justicia, la libertad; cómo defender nuestra soberanía; cómo hacer valer la democracia. Por eso es muy importante y siempre es grato estar aquí, en Michoacán.
+Y qué mejor escenario, qué mejor sitio, qué mejor lugar que Michoacán para dar a conocer, como lo hizo Germán, el Plan de Salud del Instituto Mexicano del Seguro Social, del IMSS. 
+Tenemos que garantizar el derecho a la salud y no sólo como lo ha descrito muy bien Germán, no sólo pensando en los derechohabientes, sino pensando en todo el pueblo. Hacer valer, que se cumpla lo que está en el artículo 4º de la Constitución, que es letra muerta: el derecho a la salud de todos los mexicanos. Ese es el objetivo, el propósito.
+Y es todo un desafío convertir en realidad ese principio constitucional, porque se abandonó el sistema de salud pública en los últimos tiempos, al grado que está peor el sistema de salud que el sistema educativo.
+Nada más que todo se enfocó, por cuestiones políticas, ideológicas, a cuestionar el sistema educativo nacional, porque la mal llamada reforma educativa aparecía en la agenda de las reformas estructurales que se impusieron desde el extranjero: reforma fiscal, reforma laboral, reforma energética, reforma educativa.
+Se le imprimió mucha carga ideológica al tema y se fueron en contra de los maestros y se olvidó que también era necesario reforzar el sistema de salud pública. Y ahora nos cuesta más, tenemos que ocuparnos más de rescatar el sistema de salud que del sistema educativo.
+Así se los comento, de manera sincera, hay prioridades. Hay muchos problemas, grandes problemas nacionales, si me dicen a ver, ¿cuáles son los retos, los desafíos?, ¿qué es lo que más te calienta la cabeza y qué es lo que más te ocupa? Les diría: “Seguridad y salud, salud y seguridad son los retos. Ese es el desafío que tenemos.
+En el caso de la salud tenemos que integrar todo el sistema de salud que está fraccionado. Hay una división evidente, por un lado, el Issste, por otro lado, el Seguro Social; por otro lado, los sistemas de salud de los estados y como un cascarón, la Secretaría de Salud federal que tiene, esto es increíble, bajo su responsabilidad 20 hospitales en todo el país y esos 20 hospitales, la mitad, un poco más, son los institutos de salud.
+¿Qué es lo que hace entonces la Secretaría de Salud del gobierno federal? Es una instancia normativa.
+Entonces, sí necesitamos la integración de todo el sistema de salud. Tenemos que mejorar la atención médica, empezando por el primer nivel de atención, todo lo que tiene que ver con la medicina preventiva. 
+Aquí las enfermeras, los médicos lo saben.
+Si tenemos un buen sistema de atención primario, si hay buenos centros de salud, unidades médicas en las comunidades, en las colonias, si ese sistema es eficiente, si hay médicos, si hay enfermeras, si hay auxiliares, trabajadores de la salud, si hay medicamentos, ahí atendemos el 70, 80 por ciento de las necesidades, para luego tener un segundo nivel de atención hospitalaria de calidad y luego hospitales de especialidades.
+Pero, ¿qué sucede? Que no tenemos un buen sistema de atención primaria. El primer nivel de salud está en el abandono, los centros de salud, las unidades médicas. Nos faltan trabajadores de la salud y no hay medicamentos, porque la corrupción llegó a tanto que se roban hasta el dinero de las medicinas.
+Los políticos se convirtieron en proveedores, venden medicinas. Por eso no hay abasto de medicamentos. 
+Eso era el pasado, ya se acabó esa corrupción. Nadie se va a robar el dinero de las medicinas, se va a acabar la corrupción. Me canso ganso.
+Yo estoy, por eso, muy contento con el apoyo de Germán porque nos identificamos plenamente, es una gente honesta. 
+Fíjense que en eso coincidimos, él tiene una formación política distinta a mi formación política, de partidos distintos, diferentes, opuestos y nuestra coincidencia está en la honestidad, por eso lo invité a participar.
+Por eso lo invité a participar como director del IMSS, porque esta es una gran institución que, a pesar de los pesares, se ha mantenido, ha resistido, como aquí se dijo, por ustedes los trabajadores, por los médicos y se va a fortalecer. 
+Es una institución que nos va a ayudar en el proceso de recuperación del sistema de salud pública del país.
+Ya lo hemos hablado con Germán, a mí me tocó cuando fui director del Instituto Nacional Indigenista, hace 40 años, trabajé en la zona indígena chontal, maya-chontal de Tabasco, ahí trabajé seis años y me tocó el inicio del Programa IMSS-Coplamar. Me tocó conseguir los terrenos para la construcción de las unidades médicas rurales y sé de la importancia que tiene ese programa.
+Entonces, hablando con Germán, vamos a utilizar, como punto de partida, como base, estas unidades médicas rurales para mejorar el servicio y con estas casi cinco mil unidades médicas rurales que hay en el país, aquí, en Michoacán, alrededor de 400, la mitad son centros de salud y la otra mitad, 400 centros de salud y 400 unidades médicas.
+Entonces, vamos a empezar a fortalecer las unidades médicas, porque ya es algo establecido, que se ha mantenido y funciona mejor. No quiere decir que tenga un funcionamiento excepcional, no, pero está mejor que el sistema de salud de la Secretaría de Salud y de los gobiernos estatales. Entonces, vamos a aprovechar la experiencia de esta institución. 
+Y lo mismo estamos haciendo para garantizar la paz y la tranquilidad. Me estoy apoyando en una institución como el Ejército, porque es igual. 
+Resulta, nada más abro un paréntesis para comentarles, que el gobierno federal, de acuerdo a la Constitución, el presidente sólo puede disponer de 20 mil elementos para garantizar la paz y la tranquilidad, 20 mil elementos.
+La Ciudad de México, la jefa de gobierno de la Ciudad de México dispone de 86 mil policías, y el presidente de la República de 20 mil elementos, porque la Constitución prohíbe que el Ejército y la Marina hagan funciones o realicen funciones de seguridad pública. Sólo, de acuerdo con la Constitución, pueden ocuparse de la seguridad nacional y de la seguridad interior.
+Se creó por eso la Policía Federal, porque con eso se iba a resolver el problema, pero pasan 20 años y no se consolida esa corporación y ahora necesitamos de una Guardia Nacional, y nos estamos apoyando en una institución importante también como la del Seguro Social, que es la Secretaría de la Defensa.
+Les expongo esto, cierro el paréntesis para que se entienda la importancia que tiene para nosotros la institución de ustedes, la institución de todos los mexicanos, el Instituto Mexicano del Seguro Social.
+Nos va a ayudar mucho, vamos a empezar poco a poco. Fíjense, está tan difícil el problema, es tan complejo que sería demagógico que lo vamos a resolver en este año, no podríamos.
+Tenemos que ir poco a poco, porque hay que tener centros de salud rehabilitados, porque hay algunos que se están cayendo; hay que construir nuevos centros de salud, hay que terminar centros de salud y hospitales inconclusos; hay que contratar personal médico, hay que basificar a trabajadores de la salud, hay alrededor de 80 mil trabajadores de la salud que están por honorarios, que son eventuales, pero desde hace 20, 30 años.
+Hay que resolver lo de la coordinación entre las instancias de salud, hay que consolidar las compras de medicamentos, hay que tomar la decisión de no permitir la corrupción en la compra de medicamentos. Y si se necesita, abrir las licitaciones a empresas internacionales, que se compren las medicinas donde se puedan adquirir mejores precios, que no falten los medicamentos.
+Tenemos también que desterrar la palabra cuadro básico, ya ni la voy a repetir ahora. 
+El enfermo, el paciente debe de tener todos los medicamentos, es una tristeza que se le recomienda una medicina y si no está en el cuadro básico, no tiene la gente, sobre todo medicamentos que cuestan mucho, los que tienen que ver con la atención a enfermos de cáncer, 120, 140 mil pesos un medicamento para un mes, de dónde lo saca una gente humilde, y no está en el cuadro básico.
+Y qué, ¿los vamos a mandar a sus casas? Que se vayan ya. No. Tenemos que garantizar el derecho a la salud, a todos los medicamentos. Todo esto lo tenemos que hacer poco a poco, por eso hablo de dos años.
+Vamos en seis meses a darle atención especial con el nuevo sistema de salud a ocho estados y cada seis meses se incorporan ocho más, para que en dos años tengamos ya un buen sistema de salud.
+Un sistema de salud como el que tienen en Canadá, como el que tienen en el Reino Unido, como el que tienen en Dinamarca, de lo mejor, ese es el compromiso. 
+Y estoy seguro que voy a contar con el apoyo de los trabajadores de la salud. Voy a contar con el apoyo de las enfermeras, de los enfermeros, de los médicos, de todos los trabajadores de la salud, del IMSS, del Issste y de la Secretaría de Salud.
+Y me siento también apoyado, respaldado porque Germán es una garantía, el Seguro, y el doctor Alcocer, lo mismo, Premio de Ciencias 2015, pero no sólo es eso, no sólo es que sea una eminencia el secretario de Salud, es que también es un hombre honesto y un hombre con convicciones, el secretario de Salud del gobierno que represento, que encabezo.
+Por eso estoy seguro que vamos a lograr el propósito de garantizar el derecho a la salud. 
+Y aquí en Morelia, también recordar que tenemos el compromiso de que el Instituto Mexicano del Seguro Social, el IMSS, va a tener como sede Morelia, Michoacán.
+En el plan de descentralización, el IMSS va a estar en Morelia y qué bien que Germán es michoacano, además, fue una de las cosas que hablamos, está en el contrato, no va a decir que se lo estoy diciendo ahora. 
+Cuando hablamos le dije, como a otros también les comenté, les dije: Te pido esto, nada más prepárate porque te vas a ir a vivir a Michoacán, y dijo Germán que sí. 
+Entonces, es un compromiso, aquí va a estar el Instituto Mexicano del Seguro Social, aquí, en Morelia, Michoacán.
+Lo vamos a hacer cuando tengamos las condiciones, no se puede también así de la noche a la mañana. Pero lo tenemos que hacer en nuestro sexenio, porque es un compromiso.
+Y si el doctor Olivares, también michoacano, el secretario general del Sindicato del IMSS, nos va a ayudar con ese propósito para que funcione el IMSS desde Morelia. 
+Yo le agradezco mucho a Silvano Aureoles, gobernador de Michoacán, por su apoyo, por su respaldo, por su voluntad de ayudar y trabajar de manera coordinada. 
+Tenemos que unirnos, la reconciliación es la palabra clave, ya pasaron las elecciones. Siempre lo digo, partido viene de una parte. Como su nombre lo indica, partido es una parte, gobierno es todo.
+Tenemos que unirnos para sacar adelante a nuestro país, para lograr la Cuarta Transformación de la vida pública de México.
+Por eso, en la diversidad, en la pluralidad, respetándonos todos, poniendo por delante el interés general, vamos a sacar a Michoacán del atraso, vamos a sacar del atraso a nuestro querido México.
+Muchas gracias de todo corazón por estar aquí, por tenernos confianza. 
+No vamos a fallarles y nos vamos a sentir todos muy orgullosos.
+Yo voy a estar viniendo a Michoacán, voy a estar permanentemente en estas tierras y nos vamos a seguir encontrando para ir evaluando y entre todos lograr la transformación que necesita México.
+Muchas gracias, amigas y amigos michoacanos.
+- - - 0- - -
+
+
+
+
+
+
+
+Conferencia de prensa matutinaConferencia de prensa matutina
+
+
+
+Sala de prensaSala de prensa
+
+
+
+DocumentosDocumentos
+
+
+
+GabineteGabinete
+
+
+
+Semáforo de riesgo epidémico
+
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 100%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+Enlaces de interés
+
+Aprende en casa II
+Atlas Nacional de Riesgos – Cenapred
+Becas Benito Juárez
+Becas para estudiantes
+Ciudadanos Alertadores
+Gobierno de México
+INAPAM
+Instituto de Salud para el Bienestar
+Jóvenes Construyendo el Futuro
+Liconsa
+Pensión Adultos Mayores
+Planeando juntos
+Proequidad
+Programa Nacional de Reconstrucción
+Proyecto Refinería Dos Bocas
+Responsabilidad Compartida – Infonavit
+Sembrando Vida
+SSA Nuevo coronavirus COVID-19
+Trabajadoras del hogar – programa de afiliación al IMSS
+Universidad de la Salud – CDMX
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close
+
+
+
+
+
+
+
+
+
+
+
+Contacto Andrés Manuel López Obrador
+Presidente de México
+t. 5093 4900
+t. 01800 080 1127
+Puerta 8 Palacio Nacional, Plaza de la Constitución S/N, Colonia Centro, Ciudad de México, C.P. 06066
+Aviso de privacidad
+
+
+
+
+
+
+
+
+
+
+
+
+
+					Copyright © 2021				
+
+
+
+					Developed by ThemeMakers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"es","ajaxurl":"https:\/\/presidente.gob.mx\/wp-admin\/admin-ajax.php","nonce":"51b38c8652","display_exif":"0","display_geo":"1","background_color":"white","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"0","login_url":"https:\/\/presidente.gob.mx\/administrador\/?redirect_to=https%3A%2F%2Fpresidente.gob.mx%2Fversion-estenografica-de-la-inauguracion-de-las-oficinas-del-imss-en-morelia-michoacan%2F","local_comments_commenting_as":"<fieldset><label for=\"email\">Email<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>"};
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"es","ajaxurl":"https:\/\/presidente.gob.mx\/wp-admin\/admin-ajax.php","nonce":"51b38c8652","display_exif":"0","display_geo":"1","display_comments":"0","fullsize_display":"0","background_color":"white","comment":"","post_comment":"Post Comment","loading_comments":"","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"0","login_url":"https:\/\/presidente.gob.mx\/administrador\/?redirect_to=https%3A%2F%2Fpresidente.gob.mx%2Fversion-estenografica-de-la-inauguracion-de-las-oficinas-del-imss-en-morelia-michoacan%2F"};
+/* ]]> */
+
+
+
+
+
+

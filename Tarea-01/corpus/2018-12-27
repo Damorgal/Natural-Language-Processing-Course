@@ -1,0 +1,627 @@
+
+
+
+  
+
+
+
+
+
+
+
+27.12.18 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador – Presidente de México
+
+			var tmm_lang_no_events = "No events at this period!";
+			
+			var lang_january =  "January";
+			var lang_february = "February";
+			var lang_march =    "March";
+			var lang_april =    "April";
+			var lang_may =      "May";
+			var lang_june =     "June";
+			var lang_july =     "July";
+			var lang_august =   "August";
+			var lang_september = "September";
+			var lang_october =  "October";
+			var lang_november = "November";
+			var lang_december = "December";
+
+			var lang_sunday =   "Sunday";
+			var lang_monday =   "Monday";
+			var lang_tuesday =  "Tuesday";
+			var lang_wednesday = "Wednesday";
+			var lang_thursday = "Thursday";
+			var lang_friday =   "Friday";
+			var lang_saturday = "Saturday";
+
+			var lang_sun = "Sun";
+			var lang_mon = "Mon";
+			var lang_tue = "Tue";
+			var lang_wed = "Wed";
+			var lang_thu = "Thu";
+			var lang_fri = "Fri";
+			var lang_sat = "Sat";
+
+			var lang_today = "today";
+			var lang_month = "month";
+			var lang_week = "week";
+			var lang_day = "day";
+			var lang_time = "Time";
+			var lang_place = "Place";
+			var error_fetching_events = "There was an error while fetching events!";
+
+			var events_time_format = "0";
+			var events_date_format = 0;
+		
+#wpadminbar { display: none; }
+
+						var is_single_page = true;//for breadcumbs definitions it theme.js
+						var site_url = "https://presidente.gob.mx";
+			var capcha_image_url = "https://presidente.gob.mx/wp-content/themes/diplomat/helper/capcha/image.php/";
+			var template_directory = "https://presidente.gob.mx/wp-content/themes/diplomat/";
+			var ajaxurl = "https://presidente.gob.mx/wp-admin/admin-ajax.php";
+			var ajax_nonce = "f72e8039a7";
+			var lang_enter_correctly = "Please enter correct";
+			var lang_sended_succsessfully = "Your message has been sent successfully!";
+			var lang_server_failed = "Server failed. Send later";
+			var lang_any = "Any";
+			var lang_home = "Home";
+			var lang_attach_more_else = "You cant add more else attachments!";
+			var lang_loading = "Loading ...";
+			var lang_mail_sending = "Mail sending ...";
+			var charcount = "3";
+			var widget_advanced_search = "1";
+			var menu_advanced_search = "1";
+			var fixed_menu = "1";
+			var appearing_speed = "50";
+		
+
+
+
+
+
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/presidente.gob.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=0f8a22554fdb4f1563c296282135734f"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		
+
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var LS_Meta = {"v":"6.11.5","fixGSAP":"1"};
+/* ]]> */
+
+
+
+
+
+
+/* Run FooBox FREE (v2.7.16) */
+var FOOBOX = window.FOOBOX = {
+	ready: true,
+	disableOthers: false,
+	o: {wordpress: { enabled: true }, countMessage:'image %index of %total', excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }},
+	selectors: [
+		".gallery", ".wp-block-gallery", ".wp-caption", ".wp-block-image", "a:has(img[class*=wp-image-])", ".foobox"
+	],
+	pre: function( $ ){
+		// Custom JavaScript (Pre)
+		
+	},
+	post: function( $ ){
+		// Custom JavaScript (Post)
+		
+		// Custom Captions Code
+		
+	},
+	custom: function( $ ){
+		// Custom Extra JS
+		
+	}
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body.custom-background { background-color: #ffffff; }
+
+
+
+
+
+
+
+    var analyticsFileTypes = [''];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+
+
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-144351937-1', 'auto');
+ 
+	ga('send', 'pageview');
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144481486-1');
+
+!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="epsuwqqxg47ssya55ukq-f-da414b8bf-clientnsv4-s.akamaihd.net",i={"ak.v":"30","ak.cp":"959687","ak.ai":parseInt("615102",10),"ak.ol":"0","ak.cr":11,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"1e970bf9","ak.r":36140,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"35.229.75.0","ak.cport":45920,"ak.gh":"23.55.63.37","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1612573973","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==quYGjw5g5m2l4RKncyEqktcrRT8mGBcHMxOzo/9byXpitSeMoxhtC8ak1dsmQzL3rh7Un9wly9WqDlP92LB3RViz1yr3KkbgsZ0ZlfhidwoSPF53UspVIa7V4cciKb1cYLUH6bGw66EFKMvDER/Muq45FZ/33D9a9rbfW4JGj1fwUYYjkKUP8gA9Ja8v1rzbKSWG7jUBWCr/dnt77BUgM7Rd6G7EflgGMUEtLdDLKV9pvBfg6QHlqZ2oUr8iSszI19GHYIKaOaecUUx7VHvkEiotJuVjr30dNOXCo1Ne0qRaS42zPAg5zOhvV3STqpoRJ0N5I7n73ciIvaNbiAOJGXRMcTQowXOeM3P57RaJYY1rYNcXK4beConwjXDCnzy9mDmNOnAFm/w28ghzoU064C4PuPCYrEYAx+zRo1TctS8=","ak.pv":"11","ak.dpoabenc":""};if(""!==t)i["ak.ruds"]=t;var _={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))i["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:n,init:function(){if(!_.i){var a=BOOMR.subscribe;a("before_beacon",_.av,null,null),a("onbeacon",_.rv,null,null),_.i=!0}return this},is_complete:function(){return!0}}}}()}(window);
+
+
+(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Inicio
+Sala de Prensa
+
+Boletines
+Transcripciones
+Documentos
+Fotogalería
+Videos
+
+
+Coronavirus COVID-19
+Gabinete
+Oficina de la Presidencia
+Biografía
+Contacto
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+27.12.18 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador
+
+Home Versión Estenográfica 27.12.18 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador 					
+
+
+
+
+
+
+
+
+
+27.12.18 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador
+
+
+VE-044.2018
+Versión estenográfica
+PALACIO NACIONAL, 27 de diciembre de 2018
+Conferencia de prensa a cargo del presidente de los Estados Unidos Mexicanos, Andrés Manuel López Obrador
+
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Buenos días. El día de hoy vamos a presentar este plan conjunto del gobierno de la República para combatir el robo de hidrocarburos en Pemex.
+Consideramos que se trata de un plan estratégico necesario, urgente, por lo que implica en cuanto a fuga de dinero público. Es un robo a bienes de la nación, a recursos públicos, a dinero de todos los mexicanos.
+Es un robo que el año pasado significó, en términos generales, una pérdida para Pemex del orden de 60 mil millones de pesos.
+El año pasado se robaron diariamente más de 600 pipas, lo mismo en lo que va de este año, una cantidad similar y siempre creciendo. 600 pipas diarias, ese es el dato, de 15 mil litros cada pipa, alrededor de 200 millones de pesos diarios. 
+Si pensamos en 600 pipas diarias, no estamos sólo hablando del llamado huachicol, la ordeña de ductos; estamos hablando de un plan que tiene vinculación al interior del gobierno y que se apoya en un sistema de distribución de combustibles, porque no es fácil distribuir, vender 600 pipas diarias de gasolina diarias.
+Por eso tomamos la decisión de iniciar este plan y ahora van ustedes a conocer los detalles, porque queremos que todo el pueblo de México esté informado.
+Antes ni siquiera se daba la información. Se hablaba del huachicol sin que se informara sobre la cantidad de combustible robado diariamente y los montos que este robo significa, cuánto se pierde.
+Para tener una idea, con lo que se han robado este año alcanzaría para financiar el 40 por ciento de una refinería o, para ponerlo en otros términos, tres años de robo de combustible es equivalente a una refinería nueva.
+Por eso vamos a combatir este robo afuera y adentro de las instalaciones de Pemex.
+El director de Pemex, Octavio Romero Oropeza, va a informarles, lo mismo que el general Luis Crescencio Sandoval, secretario de la Defensa y Alejandro Gertz Manero.
+Es un plan que se ha venido trabajando desde los primeros días del nuevo gobierno en forma conjunta; han intervenido y lo van a seguir haciendo 15 dependencias del gobierno federal para enfrentar este ilícito.
+De modo que le damos la palabra al ingeniero Octavio Romero Oropeza y luego al general Luis Crescencio Sandoval. Posteriormente, al licenciado Alejandro Gertz Manero, procurador de la República, y luego abrimos ya la ronda de preguntas y respuestas.
+OCTAVIO ROMERO OROPEZA: Muchas gracias, señor presidente.
+Para enmarcar un poquito el plan conjunto del gobierno de la República para combatir el robo de hidrocarburos en Pemex algunas estadísticas.
+En esta gráfica podemos observar el robo de combustibles a lo largo de tres años: 2016, 17 y 18. El promedio diario en el año 2016 fue de 26 mil barriles aproximadamente. En el 17, arriba de 43 mil barriles diarios. Y para este año ya ronda el orden de los 58 mil 200 barriles diarios.
+En dinero, esto significa, a precio de hoy de la gasolina, para el 2016, más de 30 mil millones de pesos; para el 2017, 50 mil 100 millones de pesos y para el 2018, 66 mil 300 millones de pesos. Perdón, ¿no tenemos las gráficas?
+Comparativo de la desviación de noviembre. En el caso del mes noviembre, en el comparativo de noviembre de estos tres años, les informo que en noviembre del año de 2016 el total de barriles que se perdieron, que se robaron, fue del orden de un millón 49 mil barriles. Para el mes de noviembre del 17 fue del orden de un millón 341 barriles, y para el 2018 noviembre ya subió a dos millones 448 mil barriles.
+El mismo comparativo de diciembre arroja que en diciembre del 16 el total de robo de hidrocarburos en el mes fue un millón 334 mil barriles. Para noviembre del 17 subió a un millón 510 mil en este comparativo, y ya para diciembre de este año andamos en un millón 634 mil barriles.
+Esta gráfica me gustaría que la encontráramos, la del comparativo. Esta gráfica es muy importante, porque a partir del día 20 de diciembre se inició este plan conjunto del gobierno de la República para el combate al robo de hidrocarburos y se intervino el sistema de monitoreo y control de los ductos en Pemex, una intervención.
+El día 20 hubo remoción de funcionarios, ceses que están puestos a disposición del órgano de control y de las autoridades, eso fue el día 20, y el resultado lo empezamos a ver a partir del día 21. 
+Si ustedes observan estos comparativos vemos que, para el primer bloque, estamos hablando del 21 de diciembre de 2016, de 2017 y de 2018. Se observa claramente cómo el 21 de diciembre de 2016, se robaron 78 mil barriles; en el 17, ese mismo día, 70 mil, y este año, ya después de la intervención, fue 43 mil.
+El día 22 de diciembre, repitiendo el mismo comparativo, observamos que, en diciembre de este año, el día que menos combustible se robaron de los últimos tres años en este día, lo mismo ocurre para el día 23 de diciembre, cuando en el 16 se perdieron 65 mil; en el 17, 46 mil, y en diciembre de este año sólo 28 mil.
+Siguió bajando el día 24 de diciembre, 42 mil, en el 16; 58 mil, en el 17 y 27 mil barriles el 24 de diciembre de este año.
+Y finalmente, el día de ayer también tenemos la estadística: El 25 de diciembre del 16, fueron 17 mil barriles; en el 17, fueron 20 mil barriles, y ahora, el 25 de diciembre, sólo 19 mil barriles, de manera que la intervención que se hizo al sistema de monitoreo y control aparentemente está dando resultados.
+En lo que va del mes de diciembre, el mes de combustible ha presentado una disminución de 17.4 por ciento en comparación con el mes de noviembre del mismo año.
+No sé si tenemos la gráfica de las pipas. Pero, en términos generales, estos son los datos, estas son las estadísticas que justifican el programa y los primeros resultados del Plan Conjunto del Gobierno de la República para Combatir el Robo de Hidrocarburos en Pemex.
+Si el presidente no tiene inconveniente, le cedo la palabra. Perdón, ahí está la gráfica de las pipas por día, pueden observar que ha habido días de mil 336 pipas, ven la fluctuación. Y digamos que el número menor es del día 25, el día de ayer, con 201 pipas únicamente; o sea, ha sido una disminución sustancial en cuanto al robo de combustibles en estos últimos cinco días.
+Si no hay inconveniente, le cedería la palabra al general secretario de la Defensa.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Pero antes. Si vuelven a poner la gráfica, la misma.
+Miren, mil 145 pipas por día, mil 145 pipas. Eso es huachicol, pero desde arriba. ¿Cómo se distribuyen más de mil pipas diariamente? Eso es lo que quiero puntualizar.
+Hay la hipótesis de que, de todo el robo, solo el 20 por ciento se da con la ordeña de ductos, que es una especie de pantalla, que la mayor parte tiene que ver con un plan que se opera con la complicidad de autoridades y con una red de distribución.
+Entonces son huachicoleros de abajo y huachicoleros de arriba. Ahora sí, general.
+GENERAL LUIS CRESENCIO SANDOVAL: Dentro de este plan conjunto del gobierno de la República, como ustedes pueden observar, ahí en la lámina están las 15 dependencias e instituciones del gobierno federal que participamos en este plan conjunto.
+Por lo que corresponde a la Secretaría de Marina y a la Secretaría de la Defensa Nacional, nos coordinamos con Pemex, la siguiente lámina, por favor, y se estableció un análisis especializado por Pemex de las instalaciones estratégicas que se tienen ya cubiertas.
+Actualmente tenemos 73 instalaciones en donde Sedena y Semar tienen una presencia desde el punto de vista de seguridad a la instalación, seguridad periférica a la instalación, no teniendo participación en otro tipo de actividad.
+Después de este análisis realizado por Pemex, se determinaron 58 instalaciones a las que se les debería de dar atención dentro de este plan conjunto.
+Estas son, como ven el cuadro inferior izquierdo, 6 refinerías, 39 terminales de almacenamiento y despacho, dentro de la que se encuentra una marítima; 12 estaciones de rebombeo y el centro de control México, que ya lo mencionó el director de Pemex, haciendo un total de 58 instalaciones y cubriendo lo que se contempla en 15 sistemas de distribución.
+Todas las instalaciones están a través de todo nuestro territorio, en ellas ya hay, como mencioné, gente que está dando seguridad a la instalación desde el punto de vista periférico, donde se van a incrementar personal para la atención al plan.
+Esta atención va a ser una acción de intervención del personal militar para verificar lo que es el monitoreo y comprobación de procedimientos de abastecimiento y reparto. Dentro del plan se identificaron algunos puntos que son a los que les vamos a dar toda la atención.
+Que es, primero, el acceso a las instalaciones, controlar perfectamente bien la entrada y salida de todos los vehículos, de todas las pipas, el cuarto de control de las respectivas instalaciones y los tanques verticales.
+Ya se desarrollaron una serie de misiones, funciones específicas para el personal militar y naval que estará en esas instalaciones donde va a saber qué es lo que tiene que observar, que es lo que tiene que verificar. 
+Previo ya se hará una capacitación, se está ya realizando una capacitación para que nuestro personal sepa qué es lo que tiene que hacer.
+Dentro de este plan, como ustedes pueden observar, los cuadritos en azul son las instalaciones que tiene la Secretaría de Marina, las de rojo, anaranjado es donde está el personal del Ejército, y las verdes es donde ya vamos a destinar, ya hay personal de Semar o de Sedena, pero es los puntos donde van a entrar ya la Policía Militar, que en su momento y una vez que salga del Congreso, se integrará lo que es la Guardia Nacional.
+Entonces, esas son todas las instalaciones. Sedena tendremos 30 terminales y abastecimiento y despacho y cuatro refinerías, las 12 estaciones de rebombeo, un centro de control. Y la Secretaría de Marina nueve terminales de abastecimiento y despacho, dos refinerías.
+Con esto buscamos el evitar, el participar dentro del plan conjunto para evitar el robo de combustible en estas áreas importantes que se han identificado como principales en la extracción de combustible.
+Muchas gracias.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Le damos la palabra a Alejandro Gertz.
+ALEJANDRO GERTZ MANERO: Debemos informarles lo siguiente. La nueva administración de Pemex entendió que el huachicol y el robo a todos los ductos no era un asunto exterior. Era un asunto que se manejaba desde adentro y desde afuera.
+Y entonces se empezó a trabajar de inmediato en Pemex Logística, que es el área que maneja el control de los ductos y estableció con toda precisión -esta administración y de una manera técnica- que, precisamente quienes manejaban el control de esos ductos desde Pemex eran los que estaban permitiendo que este robo se llevara a cabo.
+Es decir, eso es realmente el trabajo más importante que ha hecho la nueva administración de Pemex para poder evitar algo que parecía que únicamente era el hecho de que alguien se acercaba a un ducto y le extraía el combustible.
+No era así. Tenía que haber una complicidad desde adentro que permitiera que en el ducto siguiera fluyendo el combustible para podérselo robar.
+De esta manera establecieron técnica y profesionalmente que había un grupo de individuos que estaban a cargo de ese sistema y estableció con toda claridad las responsabilidades, tanto de carácter administrativo, como posiblemente penales al respecto.
+¿Qué hizo con esto? Darlo a conocer al Ministerio Público federal para que se inicie -y se han iniciado ya- los procedimientos penales correspondientes, pero no queda nada más en eso. 
+Están entrando también Función Pública, el SAT, Inteligencia Financiera. Es todo un grupo de defensa de los bienes de la nación y, en este caso, del petróleo, para que este sistema, primero, se descubra y se haga público; segundo, se sancione y luego se remedie.
+Entonces, la parte más importante es que todos los involucrados dentro del gobierno federal, que tienen estas funciones, ya las iniciaron y el Ministerio Público federal ha iniciado los procedimientos penales contra tres de estos individuos, que sus nombres no los podemos dar para no generar un problema al debido proceso.
+Muchas gracias, señor.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Este plan tiene como propósito evitar este robo, no tolerar que se sigan cometiendo estos robos, no permitir la corrupción.
+Y quiero hacer un llamado a todos los mexicanos para que nos apoyen y que entre todos logremos erradicar este robo que se hace a la nación, que se hace a todos.
+Porque esto significa el presupuesto de la UNAM, lo que se roban cada año. Significa el 60 por ciento de lo que se va a dirigir a las pensiones de los adultos mayores; significa 60 veces más lo que vamos a destinar el año próximo a la creación de 100 universidades públicas.
+Esto no lo podemos permitir. Tenemos que acabar con esta corrupción. 
+Y yo convoco a los trabajadores de Pemex para que nos apoyen, nos ayuden a que se logre el propósito de cero corrupción.
+No podemos los mexicanos, seguir pasando vergüenzas; ocupar el lugar 135 entre 176 países, el lugar 135 como país corrupto. El objetivo es acabar con la corrupción. 
+Un llamado a los concesionarios, dueños de gasolinerías o gasolineras, un llamado para que no vendan gasolinas robadas, de procedencia ilícita, a todos los gasolineros del país.
+Un llamado también a los compradores de gasolina robada, a contratistas, porque se hizo normal este robo. Donde hay una obra grande, ahí hay expendios de combustible robado.
+Un llamado a que no se compre combustible robado a la nación, al pueblo. Un llamado a los transportistas para que no transporten, no trasladen gasolina, diésel robado. Un llamado a todas las familias, a los jóvenes.
+El nuevo gobierno está abriendo posibilidades para que todos los jóvenes puedan tener trabajo, que nadie se dedique a actividades ilícitas; que nos ayuden en las familias orientando para que no se cometan ilícitos.
+Todos los jóvenes desempleados van a ser contratados, tres mil 600 pesos mensuales, para formarse, para capacitarse. No es mucho, pero es un ingreso lícito, que implica honestidad, que implica rectitud, que implica no correr riesgos.
+Porque también es importante que se sepa: Está por aprobarse una reforma a la Constitución, a las leyes, para que el robo de hidrocarburos sea delito grave, sin derecho a fianza, porque hasta ahora no es delito grave, y salen fácilmente bajo fianza. Ya no va a ser así. Y no va a importar la cantidad de lo robado.
+Entonces, no queremos que se apruebe esta reforma y que la gente no lo sepa. Queremos que se sepa que no va a haber tolerancia en el robo, que no va a haber corrupción para nadie, ni arriba, ni abajo; que vamos a limpiar de corrupción al gobierno, que ese es el propósito.
+También pedirles que nos ayuden a informar. Hay un teléfono que ojalá y se ponga en la pantalla, sí: 01800 2289660. Se protege a quienes hablen. Aprovechar nada más para no hacer mal uso del teléfono. Aquí se pueden hacer denuncias. Y que todos cuidemos para terminar con el robo de combustibles.
+Nosotros vamos a estarles informando de cómo va el plan. Cada determinado tiempo se van a presentar resultados, porque se tiene información diaria, no a partir de ahora. Yo les comentaba que, en delitos de homicidios, en delitos de secuestro, de robo de vehículo, teníamos dificultad para tener la información diaria. Ya se tiene, ya se va a empezar a presentar diariamente información, porque no hay un sistema para eso.
+En cambio, en el robo de combustible se tenía un sistema de información diaria, nada más que no se daba a conocer. 
+Por eso tomamos la decisión de dar a conocer toda la información y el plan de acción que, como ya lo expresé, es un plan conjunto de 15 dependencias del gobierno federal, y ya se echó a andar y al parecer hay buenos resultados. Pero no podemos cantar victoria todavía, porque apenas está iniciando el plan. 
+Desde luego, estamos seguros que vamos a poder resolver este grave problema.
+Ahí termino y empezamos.
+PREGUNTA: Buenos días, presidente. Shaila Rosagel, de Sin Embargo.
+Presidente, ¿hay sospechas de que el sindicato que dirige Romero Deschamps sea parte de este saqueo, esta red de saqueo a Pemex?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Hay información de que en algunas áreas no podía entrar Pemex, la autoridad, porque eran áreas reservadas o estaban conducidas, administradas por trabajadores sindicalizados. Pero eso ya se resolvió. 
+Nada más se les informó a los dirigentes sindicales que Pemex, y no sólo Pemex, el gobierno federal y las Fuerzas Armadas, iban a cuidar instalaciones estratégicas, como se está haciendo. Y ya en este plan no hay ninguna zona reservada, ni ninguna área en la que no se pueda intervenir.
+PREGUNTA: Qué tal, buenos días a todos. Isabel González, de Grupo Imagen.
+Presidente, si nos podría precisar qué áreas eran las restringidas, justamente, por los trabajadores sindicalizados y que ya han dejado de serlo; ¿por qué delitos fueron presentados ante la autoridad ministerial estos funcionarios?
+Si no mal entiendo fueron tres los que fueron puestos a disposición de la autoridad; si tienen derecho a fianza o no, su situación jurídica como tal y si tienen beneficios de ley.
+Y en qué estado queda esta hipótesis, teoría, que decían en sexenios del PAN, del PRI, que los cárteles de la droga se habían asociado justamente en el robo de hidrocarburos, por el éxito de los operativos militares en contra de los narcotraficantes ¿Es real, no es real?, ¿hay un sustento o no lo hay?
+Gracias por sus respuestas. 
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Dos hechos:
+Uno. Un área que se intervino fue la de monitoreo, porque se comprobó que se estaban violando las normas. 
+Hay un sistema para conocer la presión de los ductos. Y hubo un día en que no se procedió a cerrar válvulas, que era lo que se debió hacer. Y ese día hubo una gran pérdida de combustible en un tramo de ductos.
+Y otro hecho es que se detuvo a un transportista que entraba y salía a una refinería, hay elementos. Lo demás no podemos darlo a conocer, porque están abiertas las investigaciones.
+PREGUNTA: (inaudible).
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: En su momento, en su momento se va a hablar más sobre eso. Lo que nos importa es parar el robo.
+PREGUNTA: Buenos días.
+¿Es en la zona centro, sería en la zona centro del país, sería en la zona norte, donde se detecta más robo de combustibles? y ¿serían funcionarios de alto nivel o de bajo nivel de Petróleos Mexicanos? Gracias.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Es en la parte centro donde hay más robos, donde están los ductos, donde están las instalaciones, el almacenamiento.
+Es lo que puedo comentarles.
+PREGUNTA: Buenos días, Carlos Calzada, de Radio Educación.
+Me gustaría saber, ¿cómo involucra a los gobiernos estatales este plan? Porque precisamente en algunas entidades como Puebla, Veracruz, Guanajuato es donde se presenta con mayor incidencia este problema de robo de combustible ¿Cómo se va a involucrar a los gobiernos estatales en el plan conjunto para detener el robo de combustibles?
+Gracias.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Estoy haciendo un llamado a toda la población y esto incluye también a las autoridades municipales, estatales, para que todos participen, apoyen.
+No vamos a actuar sin tener pruebas, sin tener elementos. Por eso no vamos a acusar sin tener evidencias, pero sí pedimos el apoyo de todos.
+Creo que es muy importante el que estemos todos los ciudadanos dándole seguimiento a este asunto, porque estoy seguro que la mayoría de la gente no sabía que se robaban más de 600 pipas diarias. Incluso, al interior del gobierno se hablaba de miles de barriles diarios y las gráficas, pero la pregunta, a ver, ¿cuántos litros de gasolina tiene un barril un barril? Muy pocos lo saben.
+Entonces, por eso esto es más fácil de comprender, cuántas pipas. Y esto repito, aclara, que no se trata de la simple ordeña de los ductos, sino de un esquema de robo y de distribución de combustible de gran escala.
+PREGUNTA: Buenos días. Francisco Nieto, de El Heraldo de México.
+Preguntarle la meta de este programa, ¿en qué tiempo ya estaría resuelto este problema?
+Y la segunda pregunta, si esta información que nos está presentando la sabían los exdirectores de Pemex, y si es que lo sabían, ¿tendrían alguna responsabilidad penal estos exdirectores? Gracias.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Esto se sabía desde hace muchos años. Y lo que hacían era que se descontaba en el ingreso de Pemex. 
+Desde hace tres sexenios sabían del robo, pero en el 2000, 2003, se aceptaba oficialmente que se robaban 12 mil millones de pesos. Pero ahora estamos hablando de más de 60 mil millones de pesos; o sea, ha ido creciendo sin que se haga nada
+Que espero que se mantenga la tendencia de la gráfica, esa, de lo que hemos hecho hasta ahora, del tiempo que estamos en el gobierno ha habido una disminución de alrededor del 17 por ciento en el robo. Yo quiero que se mantenga esta tendencia.
+Esta es una gráfica que siempre vamos a estar viendo aquí, entre todos, porque tenemos que evitar que siga sucediendo este robo.
+PREGUNTA: Buenos días, presidente. Agustín Velasco, de Uno TV.
+¿Ya platicó con el líder del sindicato petrolero, Carlos Romero Deschamps? Si no ha platicado con él, ¿cuál es el mensaje que le daría?
+Y, segundo, esta cantidad tan grande de gasolina, de hidrocarburos, ¿para qué mercado era, para el mercado minorista o hay un gran mercado que consumía o que compraba todo este combustible robado? Gracias.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Ya lo mencioné. Muchas empresas, cuando trabajaban en una obra, compraban combustible robado, estoy llamándolos a que eso no se haga. En las grandes obras había depósitos en donde se vendía diésel y gasolina barata.
+Yo estoy seguro que ustedes, que son mirones profesionales, muy buenos investigadores, van a saber de los sitios, porque se hacía de manera abierta, descarada.
+Acerca de si he tenido comunicación con el dirigente sindical de manera directa, no. Pero sí la secretaria de Gobernación ha establecido comunicación con él y este tema se le trató, en el sentido de que no íbamos a tolerar a nadie, fuese de alto nivel en Pemex o trabajador sindicalizado el que participara en actos ilícitos.
+Como no se le va a tolerar a ningún servidor público actos de corrupción.
+PREGUNTA: Presidente, preguntarle, se hará retroactiva esta ley de delitos graves para castigar el robo de combustibles o cómo se va a castigar a estas personas que forman parte de las ligas mayores del robo y no solamente se castigue a los que se dedican a ordeñar los ductos, señor.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: De acuerdo a la Constitución, no se puede aplicar en forma retroactiva una ley. Eso lo establece nuestra Constitución.
+Va a ser a partir de que se apruebe la reforma, pero yo estoy seguro que los legisladores lo van a hacer pronto. Ya se ha avanzado, como es una reforma constitucional.
+A los congresos locales también les pido que nos ayuden para que se apruebe esta reforma constitucional. Eso es lo que tiene que ver.
+Y va a ser de aplicación para todos, no hay tolerancia. Cero corrupción, cero impunidad.
+Nos quedan 10 minutos.
+PREGUNTA: Gracias, muy buenos días, presidente.
+Aparte de este llamado que hace usted para la población, distribuidores, ¿cómo se va a castigar a las gasolineras que vendan combustible robado? Este hecho de las grandes obras, ¿qué sanciones tendrían?, ¿qué es lo que se va a plantear en esta reforma?
+Y, por otro lado, si me permite, de otro tema, preguntarle. Sus declaraciones de ayer de que fueron neofascistas quienes intentan achacarle alguna responsabilidad a su gobierno parece que no gustaron en la oposición, lo acusan de polarizar, ¿qué les diría a partir de esta consideración? Gracias.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Sería conveniente que la licenciada Olga Sánchez Cordero les explicara en qué consiste la reforma para combatir el robo de combustible, sería importante.
+Porque no sólo es combatir el robo de combustible, va a ser también delito grave la facturación falsa, ese es otro robo tolerado que se puso de moda y significa una gran evasión fiscal. Despachos encargados de repartir facturas como confeti. Eso también, delito grave; el fraude electoral, delito grave; la corrupción, delito grave.
+Esas son las reformas que se están proponiendo.
+Acerca de lo otro, yo entiendo que no les haya gustado lo que les dije a los que promueven el odio, a lo mejor no debí utilizar la palabra: mezquino, que es pobreza, miseria de espíritu, según el diccionario. A lo mejor debí decir que son tiempos también desgraciadamente de canallas. Pero, bueno, ese es un asunto de otro tipo.
+PREGUNTA: (inaudible) …y escuché que el Ejército y la Marina vigilarán las instalaciones, ¿qué otras medidas se pueden tomar para proteger a la población de alguna acción de violencia de estos grupos que van a afectar?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Ya estamos previendo todo y por eso el llamado a la gente; quienes defienden al gobierno son los ciudadanos. Éste es un gobierno surgido del pueblo que tiene el respaldo, que tiene el apoyo del pueblo.
+Por eso estamos informando, haciendo transparente todo lo que se está llevando a cabo. No ocultando absolutamente nada.
+PREGUNTA: (Inaudible) …bajo qué marco jurídico está ahorita Sedena y Marina tomando control de las instalaciones estratégicas de Pemex, entonces.
+Y usted mencionó que es muy arriba, que no es robo de huachicol abajo, ¿qué tan arriba es?, ¿y qué tanto tiene que ver también con los que han sido directivos de Pemex y con gobernadores también?
+Porque a final de cuentas usted ha dicho, por ejemplo, en el caso de corrupción, que algunos incluso secretarios de Estado eran chivos expiatorios, o se ha referido a algunas personas acusadas de corrupción como chivos expiatorios.
+¿Qué tan arriba llega esto?, ¿y si los transportistas, en todo caso, no acabarían siendo el equivalente a ‘las mulas’ en el narco?
+Entonces, ¿bajo qué marco jurídico está la Sedena y la Marina vigilando las instalaciones de Pemex ahora?, ¿y qué tan arriba han llegado las investigaciones?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Es que estamos enfrentando una crisis, es un país en crisis. Y estamos enfrentando la crisis de México atendiendo las causas, procurando que haya trabajo, que haya bienestar, que haya paz, tranquilidad.
+Pero también estamos enfrentando la crisis, poniendo orden en el caos. La política es también eso, entre otras cosas, poner orden en el caos. 
+Si se dan malos ejemplos arriba, como sucedía, se va creando un ambiente de complicidades, de componendas. Eso es una crisis, y eso es lo que estamos enfrentando. Ya no hay componendas, ya no hay malos ejemplos. 
+Siempre he dicho que la corrupción se da de arriba hacia abajo, y que hay que limpiarla así, como se barren las escaleras, de arriba para abajo. Entonces, estamos cambiando la conducta del gobierno. Eso es cambio, eso es la transformación. 
+Me preguntaste también. 
+PREGUNTA: (Inaudible).
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: El fundamento legal lo establece la Constitución, es un asunto de seguridad nacional y de seguridad interior, y en los dos casos puede intervenir el Ejército y la Marina, es constitucional.
+Nada más aclarando. En seguridad del Estado, seguridad nacional, seguridad interior, pueden participar, deben participar, las Fuerzas Armadas, lo que está ahora en cuestión, en debate, lo que queremos es que también intervenga en seguridad pública. 
+PREGUNTA: Muy buenos días. Soy Blanca Valadez, de Grupo Milenio.
+Preguntarle de manera específica, ¿cuántos efectivos van a resguardar las instalaciones de Pemex?, ¿cuántas personas van a estar activas?
+Saber si estos exsecretarios de Pemex sabían y participaban también; es decir, qué tanto estos exsecretarios, no solamente sabían, sino participaban y contribuyeron a que este dinero se fuera a las arcas, no sé si de ellos o también a las candidaturas, y esto contribuyó también a que se quebrara Pemex.
+Y sobre el caso Puebla, ¿qué tanto esta situación de robo de combustible, que se aumentó de manera acelerada, justo con el sexenio de las personas que fallecieron, pues también fue una línea de investigación o forma parte de la línea de investigación? 
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Yo no tengo evidencias de que los directores de Pemex participaban en el robo de combustible. Lo que sí sé es que tenían conocimiento, de eso no tengo duda. Sabían, pero no puedo sostener con pruebas que participaban.
+De que sabían, sabían, porque hay hasta estadísticas. Se contrataban sistemas precisamente para la vigilancia de ductos, para medir la presión de ductos. 
+Esto era casi de dominio público. No se conocía tan preciso qué monto era lo robado o a cuánto llegaba lo robado y qué significaba. 
+Porque si hablamos de 60 mil barriles diarios de gasolinas es como el 10 por ciento de la producción petrolera diaria, porque recuerden ustedes que para hacer un litro de gasolina se requieren un poco más de dos litros de petróleo crudo. Entonces, es un gran robo a la nación.
+Acerca de lo de Puebla, es otra cosa completamente distinta. 
+Yo reafirmo el compromiso de que se va a hacer una investigación. Ya aceptaron especialistas canadienses trabajar en la elaboración de un dictamen sobre lo sucedido en los lamentables casos de pérdidas de vidas por el desplome del helicóptero.
+PREGUNTA: (Inaudible).
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Alrededor de cuatro mil efectivos.
+PREGUNTA: Gracias, presidente. Erick Pinto, de Capital 21.
+Oiga, presidente, si bien usted está haciendo un llamado a los diversos sectores de la población para que colaboren a contrarrestar esta situación que vive el país, ¿están considerando ustedes modificar el marco jurídico para castigar también a quienes compren combustible? Es decir, hay gente de muy abajo, presidente, que está prefiriendo en 12, 15 pesos la gasolina por el precio que está ahora a comprarla en una gasolinera, ¿se considera ahora hacer un castigo a esta gente y cómo sería?
+Gracias.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Sí, en la reforma Constitucional se establece, por eso nos importa mucho que se sepa. 
+Ustedes son especialistas en medios de comunicación, es su trabajo y saben que, aun habiendo muchos medios de información en el país: prensa escrita, radio, televisión, redes sociales, no se alcance a cubrir todo el país, no se alcanza a informar a todos los ciudadanos.
+Esta noticia, por ejemplo, puede llegar, se puede conocer cuando mucho en el 40 por ciento de los mexicanos.
+Por eso tenemos que seguir tratando el asunto, porque a veces se piensa que si se enteró un sector, los que están más informados, ya está enterado todo el pueblo. No es así, es más complejo el fenómeno de la comunicación.
+Por eso, nos importa que se conozca hasta en la comunidad más apartada, en todos los lados que se va a llevar a cabo esta reforma Constitucional y que se convierte en delito grave el robo de combustible y que va a castigarse, tanto al que vende como al que compra, porque queremos la participación de los ciudadanos; queremos la participación de las familias, de los adultos mayores, ancianos respetables, para que aconsejen a sus hijos, a sus nietos. Todos a portarnos bien, todos a portarnos bien.
+Porque cae alguien en la cárcel ahora y salen; no tarda mucho en la cárcel porque la ley es muy leve. Pero ya no va a ser así, porque estamos atendiendo las causas. 
+Yo me sentiría mal si se endurecen las penas y no hiciéramos nada por darle trabajo a la gente, por aumentar el salario, por atender a los jóvenes. Todo eso lo estamos haciendo y se va a seguir haciendo.
+Y el presupuesto va orientado a ese propósito: a que haya empleos, a que haya buenos salarios, a que haya bienestar. Eso es lo preventivo, eso es el 80 por ciento de lo que se requiere para pacificar al país.
+Pero, al mismo tiempo, también estamos actuando con rectitud, poniendo orden. Porque imagínense si estos delitos no son considerados graves y se daña al pueblo, entonces no avanzaríamos. Por eso se requiere informar mucho a los ciudadanos. Y yo estoy seguro de que vamos a contar con el apoyo de la gente.
+También, en su momento, voy a dar a conocer lo de las facturas falsas y de la manera en que vamos a actuar para evitar esa evasión fiscal, que es también de miles de millones de pesos.
+Vamos a presentar todo el plan del SAT aquí, frente a ustedes, para pedir a los contribuyentes que nos ayuden y que ya se termine la evasión. 
+No van a ser impuestos, va a ser contribución y que lo que aporten los contribuyentes no se va a ir por el caño de la corrupción; que sus contribuciones van a utilizarse para el desarrollo del país, que ya cambiaron completamente las reglas, que es otro el país.
+Una más.
+PREGUNTA: Hola, qué tal. Buenos días. Héctor Gutiérrez, del periódico Reforma.
+Sólo dos precisiones, una, ¿cuántas personas, cuántos servidores públicos de Pemex fueron removidos en total y qué puestos tenían, si eran altos mandos, medios?
+Y, sobre el caso Puebla, nada más insistir que la oposición ha lamentado las palabras que usted ha dicho y le llama a usted a que tenga mayor mesura y que ayude a reconciliar al país, ¿qué opina sobre esto? Gracias. 
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Se está haciendo la investigación. Por cuestiones de procedimiento hay que mantener hasta cierto tiempo en secrecía lo de los nombres y demás.
+Lo otro, decirles a los conservadores, no a todos, porque no son todos, que vayan actuando de manera distinta también; que no hagan guerra sucia, que jueguen limpio.
+¿Qué es eso de estar utilizando robots para impulsar campañas? Es todo. Y que siempre ha existido el conservadurismo, pero que deben de tener un poco de decencia y que además que no aparenten ser liberales, porque de verdad, en realidad, son conservadores.
+PREGUNTA: (Inaudible).
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Hay tres en proceso de investigación. Sí, hasta ahora, según el informe, así es. Pero cuando tengamos más información se les da.
+PREGUNTA: Urbano Barrera, señor presidente, buenos días, de diario Ovaciones.
+¿Estaría usted dispuesto, en esta gran intención, este gran trabajo, de transparentar la lista de todos los concesionarios de gasolineras para poder ir avanzando en este gran plan y tenerlos bien fiscalizados?
+Y la segunda, una inquietud. De estas 600 pipas que se roban diariamente, ¿tienen detectados si una gran parte de ellas son también de Pemex, que Pemex les estaba dando el servicio a estos canallas?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Todo eso se está investigando y si es posible, se transparenta, si se trata de concesiones, para que de esta forma todos sepamos quiénes son los concesionarios y el comportamiento. Yo creo que van a ayudarnos, yo apuesto más a lo preventivo. 
+Creo que estamos nosotros informando que va en serio, que no es simulación. Incluso los trabajadores de las gasolinerías o gasolineras, ahí también les dejo de tarea eso, de cómo se dice, porque hay quienes sostienen que lo correcto es gasolinería, no gasolinera, pero eso es otro asunto. Ahí hay especialistas en el manejo de la lengua.
+Ellos pueden ayudarnos, los trabajadores, a informar, ayudar a informarnos. Y estoy seguro que todos van a ayudar, estoy optimista de que van a salir bien las cosas.
+Muy buenos días.
+Muchas gracias.
+– – – 0 – – –
+
+https://www.youtube.com/watch?v=Hn1fzzYbCRE
+
+
+
+
+
+
+
+
+Conferencia de prensa matutinaConferencia de prensa matutina
+
+
+
+Sala de prensaSala de prensa
+
+
+
+DocumentosDocumentos
+
+
+
+GabineteGabinete
+
+
+
+Semáforo de riesgo epidémico
+
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 100%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+Enlaces de interés
+
+Aprende en casa II
+Atlas Nacional de Riesgos – Cenapred
+Becas Benito Juárez
+Becas para estudiantes
+Ciudadanos Alertadores
+Gobierno de México
+INAPAM
+Instituto de Salud para el Bienestar
+Jóvenes Construyendo el Futuro
+Liconsa
+Pensión Adultos Mayores
+Planeando juntos
+Proequidad
+Programa Nacional de Reconstrucción
+Proyecto Refinería Dos Bocas
+Responsabilidad Compartida – Infonavit
+Sembrando Vida
+SSA Nuevo coronavirus COVID-19
+Trabajadoras del hogar – programa de afiliación al IMSS
+Universidad de la Salud – CDMX
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close
+
+
+
+
+
+
+
+
+
+
+
+Contacto Andrés Manuel López Obrador
+Presidente de México
+t. 5093 4900
+t. 01800 080 1127
+Puerta 8 Palacio Nacional, Plaza de la Constitución S/N, Colonia Centro, Ciudad de México, C.P. 06066
+Aviso de privacidad
+
+
+
+
+
+
+
+
+
+
+
+
+
+					Copyright © 2021				
+
+
+
+					Developed by ThemeMakers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"es","ajaxurl":"https:\/\/presidente.gob.mx\/wp-admin\/admin-ajax.php","nonce":"51b38c8652","display_exif":"0","display_geo":"1","background_color":"white","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"0","login_url":"https:\/\/presidente.gob.mx\/administrador\/?redirect_to=https%3A%2F%2Fpresidente.gob.mx%2Fversion-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-12%2F","local_comments_commenting_as":"<fieldset><label for=\"email\">Email<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>"};
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"es","ajaxurl":"https:\/\/presidente.gob.mx\/wp-admin\/admin-ajax.php","nonce":"51b38c8652","display_exif":"0","display_geo":"1","display_comments":"0","fullsize_display":"0","background_color":"white","comment":"","post_comment":"Post Comment","loading_comments":"","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"0","login_url":"https:\/\/presidente.gob.mx\/administrador\/?redirect_to=https%3A%2F%2Fpresidente.gob.mx%2Fversion-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-12%2F"};
+/* ]]> */
+
+
+
+
+
+

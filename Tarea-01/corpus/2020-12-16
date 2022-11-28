@@ -1,0 +1,577 @@
+
+
+
+  
+
+
+
+
+
+
+
+16.12.20 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador – Presidente de México
+
+			var tmm_lang_no_events = "No events at this period!";
+			
+			var lang_january =  "January";
+			var lang_february = "February";
+			var lang_march =    "March";
+			var lang_april =    "April";
+			var lang_may =      "May";
+			var lang_june =     "June";
+			var lang_july =     "July";
+			var lang_august =   "August";
+			var lang_september = "September";
+			var lang_october =  "October";
+			var lang_november = "November";
+			var lang_december = "December";
+
+			var lang_sunday =   "Sunday";
+			var lang_monday =   "Monday";
+			var lang_tuesday =  "Tuesday";
+			var lang_wednesday = "Wednesday";
+			var lang_thursday = "Thursday";
+			var lang_friday =   "Friday";
+			var lang_saturday = "Saturday";
+
+			var lang_sun = "Sun";
+			var lang_mon = "Mon";
+			var lang_tue = "Tue";
+			var lang_wed = "Wed";
+			var lang_thu = "Thu";
+			var lang_fri = "Fri";
+			var lang_sat = "Sat";
+
+			var lang_today = "today";
+			var lang_month = "month";
+			var lang_week = "week";
+			var lang_day = "day";
+			var lang_time = "Time";
+			var lang_place = "Place";
+			var error_fetching_events = "There was an error while fetching events!";
+
+			var events_time_format = "0";
+			var events_date_format = 0;
+		
+#wpadminbar { display: none; }
+
+						var is_single_page = true;//for breadcumbs definitions it theme.js
+						var site_url = "https://presidente.gob.mx";
+			var capcha_image_url = "https://presidente.gob.mx/wp-content/themes/diplomat/helper/capcha/image.php/";
+			var template_directory = "https://presidente.gob.mx/wp-content/themes/diplomat/";
+			var ajaxurl = "https://presidente.gob.mx/wp-admin/admin-ajax.php";
+			var ajax_nonce = "f72e8039a7";
+			var lang_enter_correctly = "Please enter correct";
+			var lang_sended_succsessfully = "Your message has been sent successfully!";
+			var lang_server_failed = "Server failed. Send later";
+			var lang_any = "Any";
+			var lang_home = "Home";
+			var lang_attach_more_else = "You cant add more else attachments!";
+			var lang_loading = "Loading ...";
+			var lang_mail_sending = "Mail sending ...";
+			var charcount = "3";
+			var widget_advanced_search = "1";
+			var menu_advanced_search = "1";
+			var fixed_menu = "1";
+			var appearing_speed = "50";
+		
+
+
+
+
+
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/presidente.gob.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=0f8a22554fdb4f1563c296282135734f"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		
+
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var LS_Meta = {"v":"6.11.5","fixGSAP":"1"};
+/* ]]> */
+
+
+
+
+
+
+/* Run FooBox FREE (v2.7.16) */
+var FOOBOX = window.FOOBOX = {
+	ready: true,
+	disableOthers: false,
+	o: {wordpress: { enabled: true }, countMessage:'image %index of %total', excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }},
+	selectors: [
+		".gallery", ".wp-block-gallery", ".wp-caption", ".wp-block-image", "a:has(img[class*=wp-image-])", ".foobox"
+	],
+	pre: function( $ ){
+		// Custom JavaScript (Pre)
+		
+	},
+	post: function( $ ){
+		// Custom JavaScript (Post)
+		
+		// Custom Captions Code
+		
+	},
+	custom: function( $ ){
+		// Custom Extra JS
+		
+	}
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body.custom-background { background-color: #ffffff; }
+
+
+
+
+
+
+
+    var analyticsFileTypes = [''];
+    var analyticsSnippet = 'disabled';
+    var analyticsEventTracking = 'enabled';
+
+
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-144351937-1', 'auto');
+ 
+	ga('send', 'pageview');
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144481486-1');
+
+!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"U4MTS-J7K9R-VPPR2-ZPBHU-KFPCW",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="epsuwqqxg47ssya55w2a-f-dab959d73-clientnsv4-s.akamaihd.net",i={"ak.v":"30","ak.cp":"959687","ak.ai":parseInt("615102",10),"ak.ol":"0","ak.cr":11,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"1e9cf834","ak.r":36140,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"35.229.75.0","ak.cport":46518,"ak.gh":"23.55.63.37","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1612574132","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==g+gwlf0nI/wxud6awBt1yrpI3NkqmW7gJiIea1dBil88lO0PAEHL0sthywLcGrWvEegDXncX+3o3m45io96iKgPxb4E/OD9Hlcwbdurgv8ylCXs2Sqb+wYLIoZmaTQZzGO1io7n4PaSLD4vW+pn2+hdaERqcgR8uf0MorRyZtAEK6LHUqta4dP++yXtJWH6smVKaJQP/lBD57Rs9W9YAsd5+/JzFl3DaCiduxefADa1j5DAaZkXH4LLLV6uSbgoPIvEo6EhrJJWvg3NIY1QrhMfuOXiZYf/fSICb+e5RmJWRbZmjqdJ7vaJ323zBtnJW+AymXixoLZ7hz2BtqOf6RgSIHw2Oiv0qiYksJUBXysZnSqa/w8HJ7MPCk4Cd4Fvsa1FIVUecFhylL6c+Qj/FIcC5zTzo3DS9Vp9LPlgrChk=","ak.pv":"11","ak.dpoabenc":""};if(""!==t)i["ak.ruds"]=t;var _={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))i["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:n,init:function(){if(!_.i){var a=BOOMR.subscribe;a("before_beacon",_.av,null,null),a("onbeacon",_.rv,null,null),_.i=!0}return this},is_complete:function(){return!0}}}}()}(window);
+
+
+(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Inicio
+Sala de Prensa
+
+Boletines
+Transcripciones
+Documentos
+Fotogalería
+Videos
+
+
+Coronavirus COVID-19
+Gabinete
+Oficina de la Presidencia
+Biografía
+Contacto
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+16.12.20 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador
+
+Home Versión Estenográfica 16.12.20 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador 					
+
+
+
+
+
+
+
+
+
+16.12.20 Versión estenográfica de la conferencia de prensa matutina del presidente Andrés Manuel López Obrador
+
+
+2020, Año de Leona Vicario, Benemérita Madre de la Patria
+ 
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Buenos días. Ánimo.
+Vamos a informar sobre tres temas:
+Primero, hacer un llamado a todos los mexicanos, a mujeres y hombres, en especial a los capitalinos a quienes vivimos en la Ciudad de México, para cuidarnos en estos días. En todo el país sigue afectando la pandemia del COVID, pero hay ocho estados, ocho entidades federativas en donde está creciendo el contagio, una de estas entidades federativas, pues es la Ciudad de México. En los últimos tiempos ha habido más hospitalizaciones, hay más contagio y podemos, como lo hemos hecho, entre todos controlar esta situación si nos cuidamos.
+
+
+Lo que debemos de pensar es que falta muy poco para el 24. Yo les hablaba del comportamiento de quienes vivimos aquí, de cómo se procura estar en familia el 24, y ya a partir del 25 la ciudad se vacía, ya no hay movimiento hasta las vísperas de la llegada de los Reyes Magos. Entonces, lo que tenemos que procurar es cuidarnos hasta antes del 24; desde luego, cuidarnos siempre, pero de manera especial, si podemos no salir o sólo salir a la calle por lo indispensable, que es el que podamos tener la necesidad de ir a la calle, estar en la calle, por el sustento, por una compra verdaderamente necesaria, no por algo superfluo, pues entonces sí, con cuidado, pero procurar estar en casa y, como lo hemos venido diciendo, que no hagamos festejos en las casas. Y yo espero que pasando el 24 ya baje la movilidad en la ciudad y esto nos va a ayudar mucho.
+Entonces, es prohibido prohibir. No se trata de cerrar toda la actividad económica, comercial, incluso la recreación, no se trata de eso, se trata de que nos cuidemos como lo hemos venido haciendo. Este ejemplo que se dio el día 12, día de la celebración de la Virgen de Guadalupe, que los feligreses, los peregrinos no asistieron porque fueron conscientes, hicieron caso de las recomendaciones de las autoridades y de la Iglesia católica, de los dirigentes de la Iglesia católica. Entonces, es lo mismo, podemos cuidarnos.
+También nosotros estamos haciendo lo que nos corresponde, estamos ampliando el número de camas, nos están ayudando de otros estados. Lo que les hablaba, que sólo en ocho estados tenemos incremento, en la mayoría de los estados; aunque hay epidemia, no tenemos esta situación de aumento de contagios.
+Agradezco mucho a médicos, enfermeras, de otros estados que están viniendo a la ciudad a ayudar.
+Y vamos a tener ya más camas, no vamos a ser rebasados, pero no queremos es que estén llenos los hospitales, lo que queremos es que no nos enfermemos y, lo más importante, que cuidemos nuestras vidas, que no hayan fallecidos.
+Entonces, es un llamado para que todos actuemos. Falta muy poco, por esto que hablaba del manejo de los tiempos, del comportamiento de la gente de la ciudad. Entonces, quería hacer mención a este tema.
+Lo segundo es agradecerles a los legisladores, en este caso a los integrantes del Congreso de la Unión, diputados y senadores de todos los partidos, porque se terminó ya el periodo ordinario de sesiones y se aprobaron reformas a la Constitución, se aprobaron leyes muy benéficas para el pueblo de México.
+Baste mencionar que se aprobó la ley para la administración de Afores, de la seguridad social, que va a significar que los trabajadores en el futuro, cuando se jubilen, reciban más de pensión. Esa modificación fue muy importante.
+Doy un dato. Las comisiones que cobran las Afores se reducen a la mitad, cobraban un punto y ahora van a cobrar 0.5, por poner un ejemplo, y significa ingresos para el trabajador, porque durante muchos años cobraron altas comisiones.
+Entonces, ya en la ley no queda a discreción, sino ya está establecida una fórmula en donde las comisiones se ajustan a lo que se cobra en países como Colombia, Chile y Estados Unidos, se estandariza; esto significa que el trabajador va a recibir más.
+Hay que agradecer, desde luego, lo que hizo el sector empresarial, de aceptar voluntariamente incrementar sus cuotas para pensionados, esto va a ayudar a que se reciba más cuando el trabajador se jubile.
+Otra reforma importante que se aprobó es la de la libertad del trabajador para utilizar su crédito del Infonavit de manera libre, que pueda utilizar el crédito para comprar un terreno y él hacer su casa, la trabajadora, el trabajador, que pueda comprar una casa usada, que pueda hacer lo que quiera con su crédito, no depender de una empresa contratista, de una inmobiliaria que le venda un departamento caro, mal hecho, en una unidad habitacional allá, distante de su centro de trabajo.
+Entonces, agradezco mucho a los legisladores el que se hayan aplicado, diputados y senadores de todos los partidos, porque ya terminan su periodo.
+También quiero informarles que asistí ayer a la Suprema Corte y escuché el informe del ministro Arturo Zaldívar Lelo de Larrea, presidente de la Suprema Corte. También, muy buen informe.
+Hay un proceso de renovación en el Poder Judicial que va a dar frutos para que jueces, magistrados, ministros, actúen con rectitud y se haga realidad la justicia. Esto, en beneficio del pueblo.
+También es de subrayar que en la reforma que se aprobó también en el Congreso en materia de justicia que tiene que ver con el Poder Judicial se van a reforzar los servicios de los defensores de oficio, que van a poder ayudar mucho a la gente que no tiene para pagar abogados en todo el país y para que también el pueblo de México sepa que se puede acudir a la instancia federal, por ejemplo, en la elaboración de un amparo; que no depende su situación sólo de la instancia local, que no es que ya en el Tribunal Superior de Justicia de un estado se resolvió un asunto y ya no hay nada qué hacer. Sí se puede acudir al amparo de la justicia federal.
+Esto muchas veces no se sabe o no se puede llevar a cabo porque no se tienen recursos para pagar un abogado, no se tiene una orientación. Entonces, esta reforma que se aprobó, entre otras cosas, tiene ese propósito, que se amplíe el número de defensores de oficio, de defensores del pueblo.
+Entonces, también felicitar al ministro presidente de la Suprema Corte, a todos los ministros, a todos los integrantes del Poder Judicial.
+Y, por último, comentarles que, por acuerdo y decisión también de la embajadora de México en Estados Unidos, Martha Bárcena, ella ha decidido ya cerrar su ciclo como embajadora. Lleva 43 años en el Servicio Exterior, es una embajadora de carrera, una especialista notable en materia de política exterior en relaciones internacionales, toda una vida de servicio ayudando, representando con lealtad a México en el extranjero y ella quiere ya retirarse.
+He dado instrucciones al secretario de Relaciones Exteriores, Marcelo Ebrard, para que se le considere a la embajadora Martha Bárcena como embajadora eminente. Es una distinción en el Servicio Exterior Mexicano.
+Agradecerle por sus servicios, sobre todo en el tiempo que nos ha representado en Estados Unidos con mucha dignidad, y le agradecemos mucho por su trabajo.
+Y he decidido, en el marco del cambio de gobierno en Estados Unidos, nombrar, una vez que se cumpla con todo el procedimiento, que se solicite el beneplácito al gobierno de Estados Unidos, he decidido nombrar a Esteban Moctezuma Barragán, él va a ser el próximo embajador de México en Estados Unidos.
+Vamos a solicitar el beneplácito al gobierno estadounidense; luego, de conformidad con la Constitución, voy a enviar el nombramiento al Senado de la República para que sea, si ellos así lo deciden, ratificado. Ese es el procedimiento. Vamos a esperar el trámite, lleva su tiempo este trámite de la obtención del beneplácito.
+También quiero que, en el caso de Esteban, que ha hecho muy buen trabajo como secretario de Educación Pública, termine el año, nos ayude a preparar el regreso a clases en los estados en que es posible hacerlo, porque están en verde y se pueden iniciar clases; también en los estados en donde hay semáforo amarillo, que puedan empezar ya algunas actividades escolares teniendo como centro, como eje la escuela para empezar a ir a la normalidad. Entonces, Esteban está trabajando con ese propósito. Va a llevar algún tiempo.
+Y estoy haciendo una consulta para también ya dar a conocer quién se va a quedar de secretario de Educación Pública, estoy en ese proceso para ver quién va a hacerse cargo de la Secretaría de Educación Pública.
+Entonces, esa es la información.
+No vamos a poder a hablar mucho ahora, tenemos tiempo, pero no mucho, porque vamos a Hermosillo y luego vamos a estar por la tarde en Moctezuma, que vamos a inaugurar un cuartel de la Guardia Nacional.
+Vamos a ir a dormir a Bavispe, mañana allá va a ser la reunión de seguridad y vamos a llevar a cabo un homenaje a las víctimas de los sucesos estos lamentables donde perdieron la vida niñas, niños, mujeres, en Bavispe; va a haber un homenaje y vamos también a informar a los familiares sobre el avance que se ha logrado en detenciones de los responsables de estos crímenes, por eso vamos a tener mañana la reunión de seguridad, también la conferencia de prensa desde Bavispe por la mañana; y regresamos por la tarde-noche y el viernes estamos aquí en la mañana, y luego salimos a una gira al sureste. Ese es el programa en general.
+Entonces, si les parece, vamos. Uno, dos, tres, ustedes tres. Empezamos.
+PREGUNTA: Buenos días, señor presidente. Alberto Marroquín Espinoza, de JF Informa, desde Cancún; FrecuenciaCAD.com; y desde mi portal informativo en Querétaro Es ahora AM.
+Presidente, con el nombramiento del gobernador de Quintana Roo, Carlos Joaquín, como dirigente de la Asociación de Gobernadores de Acción Nacional hace unas semanas, ¿estima usted que puede darse una mejor relación con los mandatarios panistas del país y, por ende, hacer esa sinergia en beneficio de toda la población, a pesar de que se viene una época electoral? Como primera pregunta.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Bueno, yo no sabía de este nombramiento, pero bueno, el gobernador de Quintana Roo es una gente seria, responsable y tenemos muy buena relación. Eso es lo que puedo decir.
+INTERLOCUTOR: Presidente, hablando de los dos Querétaros que existen, fíjese que ahora que anduvimos en Jalpan de Serra, allá en la sierra queretana, nos encontramos que el mercado público, están a punto de desalojar a la gente del mercado público, a todos los locatarios por un problema de deuda que adquirió el municipio cuando hizo un compromiso con el mercado de pagarlo y nunca lo pagó, por año.
+Aquí la petición que me han hecho los locatarios, que son más de 100 locatarios y es el mercado icónico de Jalpan, a lo mejor usted ya lo conoce en Jalpan, es pedirle a lo mejor si el secretario Meyer nos puede apoyar o escucharnos al menos, si puede haber algún esquema de apoyo o de ayuda para rescatar ese mercado público ahí en Jalpa; sobre todo, como lo dice el artículo 115 constitucional, que considera a los mercados públicos como un servicio público. Entonces, considero que es un tema importante y relevante que padece de nuevo Querétaro.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Sí. Jalpan, Querétaro
+INTERLOCUTOR: Sí, Jalpan.
+Y en otro tema, digo, nada más señalarle, ahora que fue usted el año pasado a Amealco, no le señalaron que hay un grave problema con el agua en Amealco y sobre todo también con la tala ilegal. Es un tema que, de hecho, la gente está muy temerosa en la zona; por eso, cuando usted fue a Amealco, no hubo alguien que le haya señalado que ocurría eso allá Jalpan… digo, en Amealco.
+Entonces, es importante ese tema para ellos tomar en cuenta. A lo mejor si la Guardia Nacional puede establecer alguna participación por esa zona, porque es grave lo que ocurre allá con el agua y con la tala de árboles allá en Guerrero.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Muy bien, hablamos con los integrantes, con el comandante Bucio, de la Guardia Nacional, para revisar lo de Amealco sobre la tala de árboles.
+Y vemos también lo del agua, pero eso tiene que ver con Conagua, con Blanca Jiménez; y de Jalpan, con Román Meyer, también se los vamos a encargar.
+INTERLOCUTOR: Muchas gracias, señor presidente.
+PREGUNTA: Muy buenos días. Juan Hernández, del periódico Basta, de Grupo Cantón.
+Son dos denuncias, señor. Uno es contra un atentado contra la libertad de expresión y otro es un peligro para la democracia.
+Procedo a señalarle que en Quintana Roo, nuestro medio hermano Quintana Roo Hoy es objeto de represión por el actual gobernador y me voy a permitir leer una carta rápida dirigida a usted y a la licenciada Olga Sánchez Cordero.
+‘Licenciado Andrés Manuel López Obrador, presidente de México.
+‘Licenciada Olga Sánchez Cordero, secretaria de Gobernación:
+‘Como ustedes saben, en la provincia las banquetas son muy angostas y es la tentación constante de los gobernadores a callar de un tajo las voces disidentes, intimidar a los periodistas, acosarlos con guerra sucia, exiliarlos a través de amenazas o asesinarlos.
+‘Nuestro diario, El Quintana Roo Hoy, es acosado constantemente y ayer, en un recurso extremo, el gobernador Carlos Joaquín ordenó una virulenta auditoria a través de la Secretaría de Finanzas y Planeación.
+‘Se entiende que, como todos sus ataques no han podido doblegarnos, tenemos alta conciencia de la defensa de la libertad de expresión y a ellos que sueñan empujarnos a un rancio servilismo, pero les advertimos que no nos doblegarán.
+‘El único que pecado que hemos cometido es darle voz a los marginados, a los que han querido ser acallados, porque desde nuestras páginas se han denunciado los apoyos de obras a Carlos Joaquín, el involucramiento de su hermano Pedro Joaquín Coldwell en la fraudulenta venta de Agronitrogenados, los despojos constantes que realiza la fiscalía de terrenos de alta plusvalía en zonas turísticas como el de Akumal en el que se despojó a un indígena maya, los fraudes que realiza el gobernador y sus allegados con la asignación de contratos en las carpas COVID, los graves niveles de delincuencia e inseguridad que tiene la entidad y la represión a balazos realizada contra feministas el 9 de noviembre, sólo por citar algunos casos.
+‘Cada una de las notas publicadas está respaldada por un profundo trabajo de investigación, todas bien documentadas, tal como lo exige el rigor periodístico. Con ello han salido a la luz diversas corruptelas y se han frenado abusos. Es nuestra línea editorial y en ella seguiremos. Lo de la auditoría es lo de menos, no tenemos ningún problema de que se realice, porque no tenemos nada que ocultar, la solventaremos en tiempo y forma, el que nada debe nada teme.
+Pero más vale levantar la voz a tiempo para frenar cualquier afán autoritario, sólo pedimos que se respete la libertad de expresión. Por ello, denunciamos ante ustedes este acto intimidatorio represivo, esta agresión disfrazada de acto administrativo que intenta acallar nuestra voz.
+‘Su atento servidor, Rafael Santiago Campos, director del diario Quintana Roo Hoy.’
+Es lo que queremos venir a denunciar hoy.
+Y otra, que es una advertencia y estamos alertando precisamente de un peligro a la democracia y continúo rápido.
+Dice: ‘Señor presidente:
+‘En el estado de Campeche se está fraguando un escandaloso fraude electoral que evidencia que la corrupción está presente y que las peores prácticas del neoliberalismo siguen presentes, es un caso vergonzoso y por demás un detonante de violencia, es un caso único en todo el país.
+‘La hija del gobernador de ese estado, de nombre Karina Vicente Aysa Nakashima, fue impuesta y sembrada nada más y nada menos como presidente del Instituto Estatal Electoral de Campeche por el entonces gobernador Alejandro Moreno Cárdenas, actualmente dirigente del PRI. Es así como la hija del ahora gobernador Carlos Miguel Aysa González es juez y parte y por lo mismo tiene en sus manos la elección de gobernador del próximo año.
+‘Esto pone en grave riesgo a la democracia al dejar en clara desventaja a los partidos de oposición, entre estos Morena frente al PRI-gobierno, que ha hecho toda suerte de trapacerías para robarse la elección del 2021.
+‘Señor presidente:
+‘Sabemos de su respeto a las instituciones electorales y la independencia de estos órganos, pero también de su posición como el respeto a la legalidad en un auténtico Estado de derecho que usted ha estado fomentando y en defensa de la democracia, y por eso es muy importante que usted sepa lo que está ocurriendo, por eso queremos preguntarle: ¿qué opina sobre estos dos casos? y sobre todo por el bien de los mexicanos, ¿qué se va a hacer?’
+Le agradezco.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Yo creo que en los dos casos los gobernadores van a escuchar la denuncia, no van a actuar con cerrazón, es decir, van a atender el planteamiento que aquí se ha hecho, porque, como lo mencioné y eso es lo bueno de esta conferencia, la diversidad, la pluralidad.
+Acabo de decir que considero al gobernador de Quintana Roo un hombre responsable; entonces, lo mismo puedo decir del gobernador de Campeche.
+Vamos nosotros a ayudar, desde luego, de manera voluntaria, no oficial, no oficiosa, sino con el propósito de la conciliación para que se respete la libertad de expresión, que no haya persecución a ningún medio en el país, que haya plena garantía de la libertad que tenemos todos, de manifestarnos de expresarnos y que no haya represalias, que no haya agresiones. Creo que en estos dos estados puede ser posible el lograr la conciliación por las características de los gobernadores.
+Nosotros reconocemos la labor de la prensa, de manera muy especial de la prensa en los estados, en los municipios, porque, como empezó el escrito, las primeras palabras del escrito, en la provincia o en los estados -no me gusta hablar de la provincia- en los estados, en los municipios, en las ciudades de las entidades federativas, las banquetas son muy angostas. No es lo mismo hacer periodismo en un municipio en Sinaloa, Tabasco, en Tamaulipas, en Guerrero que hacer periodismo en la Ciudad de México.
+Aquí se puede escribir un artículo en contra de un funcionario por actos de prepotencia y seguramente no lo va uno a ver ese día, no se lo va uno a topar ese día, ni al día siguiente ni una semana, pero allá sí, el mismo día se están viendo las caras. Es más difícil hacer el periodismo en los municipios en los estados y, además, menos la solidaridad, el cobijo.
+Entonces, yo tengo el compromiso desde hace mucho tiempo de defender a la prensa, la libertad de expresión, de manifestación de las ideas y en los dos casos, si es necesario, aquí le vamos a pedir a Jesús que ayude, tanto en Quintana Roo como en Campeche.
+Sobre los asuntos electorales no queremos ahora meternos. Sí vamos a estar llamando a que la gente actúe con independencia.
+INTERLOCUTOR: ¿No es un riesgo que un funcionario sea…?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Es que, para hacer valer la democracia, lo más importante de todo es que el ciudadano actúe con independencia, con criterio, que sea un ciudadano de verdad, no un ciudadano imaginario, que no nos dejemos manipular, que nos sometamos, que no se venda el voto, que no se permita que se trafique con la necesidad de la gente, que no se use dinero del presupuesto, ni municipal, ni estatal, ni federal, para favorecer a ningún partido, a ningún candidato.
+También que los grupos de poder económico no estén financiando campañas, porque esto lo vamos a estar denunciando y mucho menos si hay financiamiento de organizaciones de la delincuencia organizada.
+Pero ¿quién es el que va a ayudar más?
+El ciudadano. En todo México la gente está muy consciente, muy despierta, muy avispada, además se sabe todo, ahora ya las cosas se saben antes de que sucedan, sabemos todo.
+Entonces, si hay un candidato de un partido repartiendo despensa, así se sabe; además, cuántos teléfonos celulares móviles, cuántos videos podemos tomar y denunciar y a las redes, y también a la fiscalía electoral y tiene que actuar la fiscalía electoral.
+Y recordar que el fraude electoral en cualquiera de sus expresiones es delito grave, no hay derecho a fianza.
+Entonces, todo esto, nada de que: ‘Es que ya están escogiendo a los que van a ser representantes de casilla, ya están escogiendo a los llamados auxiliares, ya tienen el control de los organismos electorales municipales, estatales, distritales’. No, eso era antes.
+Puede ser que quede alguien ahí de estos mapaches electorales, delincuentes electorales, pero ¿dónde se decide?, en la casilla, ahí donde se va a votar, ahí, ejercer ese derecho de manera libre y que el ciudadano cuide.
+Si por sorteo les corresponde -eso también es muy importante- ser funcionario en una casilla, hay que ir, hay que ayudar. Muchos de los problemas de México se originaron por la falta de democracia, por las imposiciones.
+Imagínense si un presidente municipal, un gobernador, un presidente de la República, llega al cargo porque compró votos, porque recibió dinero de los grupos de poder económico o de la delincuencia organizada ¿qué va a hacer cuando llegue al cargo?, pues servirles a esos grupos.
+¿Qué pasaba?
+Compraban los votos valiéndose de la pobreza de la gente y cuando la gente iba al ayuntamiento, si se trataba de una presidencial municipal a pedir algún apoyo, hasta los corrían, los humillaban. ‘¿Qué vienes a pedir?, si ya te di, si ya te dimos’, algo realmente indigno. Eso sucedía.
+Ya no los volvían a ver, ya no recibían a nadie, no les veían ni el pelo, porque era nada más utilizarlos para que el candidato se encaramara en el cargo y sacara provecho personal, se enriqueciera robándose el presupuesto, que es dinero del pueblo.
+Entonces, nada de eso. Voto libre, secreto, que cada quien vote por lo que le dicte su conciencia. Pero eso, en su momento vamos a estar hablando de este tema constantemente.
+PREGUNTA: Buen día, presidente. Carlos Guzmán, de ABA Noticias.
+El primero, sí me gustaría tomarle su comentario respecto a… Usted hablaba del Congreso de la Unión, de las reformas que se han aprobado, pero quedó una pendiente, justamente una que impulsaba el senador Monreal, el senador Armenta, que es la parte del Banco de México.
+Creo que es importante por la cuestión de que implica las remesas de dólares. Va a ser récord en este año, como usted bien atinadamente lo ha dicho aquí en Palacio Nacional, las remesas de los paisanos que llegan a México, pero esta reforma no pasó, quedó ahí pendiente.
+Argumentan las personas del Banco de México que se va a meter mucho billete verde, más que de los migrantes, de la delincuencia organizada. Si nos puede regalar un comentario de inicio por este tema.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Pues yo pienso que fue buena la decisión que tomaron los legisladores en este caso, porque da tiempo a recoger los sentimientos, los puntos de vista de todos, y da tiempo también a informarle al pueblo, que la gente sepa en qué consiste realmente esta reforma, porque a veces, por desconocimiento, se exagera. Hablaban, por ejemplo, de afectación a la autonomía del Banco de México y se me hace una exageración.
+Pero que se explique en qué consiste. Según me han informado, lo que se quiere, lo que se busca, es que la gente que tiene pocos dólares y que los quiere cambiar, pues que le paguen lo justo.
+INTERLOCUTOR: A mejor precio de cambio.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: A mejor precio. Porque hay un mecanismo ahora -que eso es lo que hay que aclarar- donde, para que se reciban dólares, se requiere una especie de certificación.
+A nosotros nos sucedió hace poco. La procuraduría, ahora la fiscalía, iba a donarle al Instituto para Devolver al Pueblo lo Robado… No a donarle, a entregarle, porque todo lo…
+INTERLOCUTOR: Lo decomisado.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Sí, lo que se obtiene por decomisos va al instituto y tenía lo que llaman numerarios, dólares por 500 millones de pesos.
+Entonces, aparentemente iba a ser fácil que con esos 500 millones se compraran boletos y esos boletos se entregaran a los hospitales COVID, lo que se hizo, pero con otro financiamiento.
+Esos dólares los tiene la fiscalía en el Banco de Comercio y habló el fiscal o un representante del fiscal y el consejero jurídico con el gerente del Banco de Comercio para que se lograra tener ese dinero y la respuesta fue que tenían que mandar ese dinero a Canadá.
+Y lo que me llamó mucho la atención es que se habló de que las pruebas que había que hacerle al dinero, entre las pruebas era cerciorarse que no tuvieran los dólares olor a muerto, así como se los estoy diciendo, o residuos de sangre o residuos de droga.
+Entonces, allá hacen esa clasificación, descuentan los que pueden tener esa situación y regresan al resto o aceptan el resto, lo que para ellos consideran válido. Desde luego, se cobra una comisión.
+Tengo entendido que la iniciativa va orientada, no en todos los casos, para que ese procedimiento se pueda hacer en México y aquí mismo se haga el descuento, pero que no se castigue tanto al migrante.
+Entonces, de ahí viene el argumento de que se puede utilizar para el lavado de dinero, pero hay también formas de evitarlo.
+De todas maneras, es muy bueno el que haya tiempo, el que se analice con mucha objetividad, sin dogmatismos, porque los financieros, con todo respeto, son muy dogmáticos. Entonces, se metió en este tema hasta a el Fondo Monetario Internacional y hubo mucho ruido.
+Entonces, que se analice y que se actúe en beneficio del pueblo, sin perjudicar a ninguna institución. Desde luego, hay que respetar la autonomía del Banco de México, pero tampoco exagerar.
+Y que actuemos también con independencia, porque es mucha la subordinación que se daba y que se sigue dando a organismos financieros internacionales. Y de allá nos mandaban la política económica y de allá nos mandaban las recetas que teníamos que aplicar. Una dependencia total. ¿Entonces qué?, ¿no podemos decidir nosotros de acuerdo a lo que conviene al pueblo?
+Y también, en el caso de Banco de México, que ayuden para que haya crecimiento y haya bienestar, porque se ajustan nada más a control de inflación. Es muy importante esa labor, pero necesitamos desarrollo, necesitamos bienestar, que vean al pueblo, la economía de las familias, que no estén pensando nada más los directivos de esa institución en los financieros y que no sean empleados de los machuchones de las finanzas. Que sean representantes de México y, sobre todo, del pueblo de México.
+Pero fue muy buena la decisión, la celebro, el que se hable más. Aquí ofrecemos este espacio para que la gente conozca más sobre la reforma.
+Y hay que desmitificar, porque también los tecnócratas han querido que estos asuntos nada más lo traten las élites, en el entendido de que la economía es asunto de los economistas, de los expertos. No. La economía, como la política, es asunto de todos, y si aquí se explica de manera sencilla o en los foros, la gente va a saber. Además, son procesos pedagógicos muy importantes. Que se analicen los pros, los contras, que se escuche a todos y que prevalezca razón, no los dogmas.
+Nada de que no se puede tocar al intocable. ‘Sobre esto no hay que hablar, no hay que meterse, no testarees esto porque puede generarse una catástrofe’. No. ‘Ah, que va a haber inestabilidad financiera’. No, los que manejan los mercados son muy inteligentes, saben muy bien.
+Si realmente hay una reforma dañina a intereses económicos, financieros, hay reacción de inmediato; pero si es una situación de regulación, no pasa nada.
+Es un poco lo que decían cuando tomamos la decisión, por mandato del pueblo, de cancelar lo del aeropuerto. Decían: ‘No, va a ser tremendo, se va a caer la Bolsa, va a haber inflación, devaluación del peso.’ No pasa nada.
+Lo mismo ese dogma de los del Banco de México, de los que están ahora y de sus maestros, de que si aumentaban el salario, en automático iba a haber inflación. Pues acabaron con el salario para que no hubiera inflación.
+Todavía estoy esperando que ofrezcan disculpas o que me expliquen sobre ese tema, todo el daño que causaron. ¿Cómo es que el salario en México, a pesar de los últimos aumentos, el salario mínimo es de los más bajos del mundo? ¿Cómo lo van a explicar?
+Es esto. ¿Van a atender la economía popular o van a estar nada más sirviéndole a los machuchones de las finanzas de México y del mundo?
+Eso es un poco la explicación que puedo dar.
+INTERLOCUTOR: La segunda tiene que ver con el tema de las vacunas COVID. Ayer en la tarde gobernadores de la Alianza Federalista… El día de hoy se van a reunir sus secretarios de Salud para supuestamente intentar comprar la vacuna contra COVID para sus estados, argumentando que la federación está, dicho en palabras llanas, está acaparando para algunos estados nada más la vacuna COVID. ¿Qué opinión le merece este tema? que prácticamente es política, ¿no?
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Es politiquería, no es política, y por eso no me voy a ocupar sobre del tema, no tiene caso.
+Me voy a ir, porque si no, no llego. A ver la compañera, ella nada más. Me mandaron aquí esta nota de que son las 8:00 y la salida es a las 8:10.
+INTERLOCUTORA: Muchas gracias. Juncal Solano, del Charro Político, de Jalisco. Gracias por la oportunidad.
+Tomando el tema de las vacunas, una preocupación que está en redes sociales es la siguiente: el gobierno federal planea utilizar… Se estableció que el gobierno federal, perdón, planea utilizar el Ejército y la paraestatal Birmex para la distribución de vacunas.
+Una de las preocupaciones es la siguiente: ¿cree que ambas entidades cuentan con los requerimientos técnicos para su conservación?
+Y número dos, ¿considera que las dosis estarán seguras de robos?, especialmente cuando ya hubo robos de más de 37 mil piezas de medicamentos oncológicos en almacenes del IP.
+Esto es importante, señor presidente, porque algunos medios, además de gobernadores, como se acaba de mencionar, están utilizando el tema de la vacuna, que es una esperanza para esta situación de la pandemia que estamos viviendo y que inclusive usted lo mencionó al inicio de la conferencia, donde personajes como el payaso de Víctor Trujillo, con el disfraz de Brozo, pues el fin de semana utilizaron este tipo de temas para lucrar con la información, bueno, pues asegurando que -aquí lo tenemos- asegurando básicamente que -y sabemos la respuesta, pero me gustaría que se dijera públicamente- que usted y su gobierno usarían la vacuna electoralmente y jugarían con la desesperación de pueblo, tal como pues así lo aseguró. Y todos conocemos y sabemos su respuesta, pero sí me gustaría preguntarlo directamente para que quede claro cuál es la postura de estos personajes.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Amor y paz. Y decirles a nuestros adversarios que se serenen. Es que se ofuscan, como se está llevando a cabo la transformación del país y ya no impera la corrupción, ya no hay influyentismo, ya no hay ‘chayote’, entonces hay pues mucha desesperación y se jalan los pelos, se enojan y hacen corajes.
+Pero ¿cuál es la respuesta?
+Amor y paz. Vamos a abrazarnos y no caer en ninguna provocación de nada. No tenemos enemigos ni queremos tenerlos; no odiamos, somos felices.
+Y que se tenga por seguro que se garantiza la libertad de expresión hasta el extremo, no hay problema. Si lo que hiciéramos no significara luchar por una causa justa, si no tuviésemos esa convicción, entonces nos afectarían mucho los ataques; pero tenemos un escudo que nos protege, que es la causa que se defiende, la transformación de México, el acabar con la corrupción y por eso el pueblo es nuestro ángel de la guarda y estamos muy bien con nuestra consciencia, que es nuestro tribunal.
+Entonces, no odiar, no maldecir a nadie, no hace falta eso; además, eso no permite vivir con felicidad. La felicidad verdadera es estar bien con uno mismo, esa es la verdadera felicidad, estar bien con uno mismo, no los bienes materiales, no la fama, no los títulos, es estar bien con uno mismo la felicidad, estar bien con nuestra consciencia y estar bien con el prójimo y sólo siendo buenos podemos ser felices. Entonces amor y paz.
+INTERLOCUTORA: Presidente, y una segunda, ya rapidísimo aprovechando que nos dio la palabra, sería la siguiente: ¿cuál es su opinión referente a que…? Si bien es cierto usted ha mencionado y uno de los pilares de su gobierno ha sido la austeridad y que el servidor está para servir a la nación y no servirse de ella, bueno, hace unos días se dio a conocer que funcionarios como Lorenzo Córdoba van a recibir un aguinaldo por más de medio millón de pesos.
+Así como también en los últimos días en redes sociales ha sido tendencia un senador de Movimiento Ciudadano muy famoso por sus comentarios machistas, elitistas y despegados de la realidad donde uno de sus videos que se hizo viral señala que ha conocido a gente muy valiosa que vive con un sueldito, así lo mencionó, de 40 a 50 mil pesos y que son muy felices, cuando en realidad esto da mucho coraje, señor presidente, porque siendo México un país en el que, según información del Inegi, el 60.7 por ciento de la población ocupada percibe menos de ocho mil pesos mensuales.
+¿Qué opinión le merece este tipo de políticos que viven tan alejados de la realidad de México?, que se supone que deberían representar al pueblo, pero que de pueblo no tienen nada y, por el contrario, sólo viven sumergidos en su burbuja de privilegios despegados de lo que en realidad atañe al pueblo mexicano.
+PRESIDENTE ANDRÉS MANUEL LÓPEZ OBRADOR: Bueno, lo que está pasando es que hay un cambio de mentalidad, son nuevas circunstancias y hay quienes no advierten de que existe una nueva realidad y que ya no se puede, como siempre lo digo, poner vino nuevo en botellas viejas.
+Entonces, ¿qué pasaba?
+Había una especie de enajenación en donde era normal hacer muchas cosas, se le aplaudía al corrupto, se le ponía de ejemplo; el que robaba ni siquiera perdía su respetabilidad, era normal el que se utilizaran expresiones racistas, que no voy a repetir, porque era una falta de conciencia, así, casi colectiva.
+Entonces, una persona pensaba que no estaba mal decir cualquier cosa, lo veía normal, el obtener una ganancia ilícita se pensaba que era un negocio y que producto de la habilidad y de que era porque se tenían buenas agarraderas, buenas influencias, y había que colarse.
+Y esas expresiones de que: ‘Oye, yo tengo esto’ o ‘pobre gente que no tiene’ o cosas de ese tipo, no son expresiones, vamos a decir, de mala fe, era una mentalidad que prevalecía, lo veían y lo siguen viendo en algunos casos normal.
+Es como el caso del rey que llegaron a manifestarse al palacio y escuchaba las voces y les pidió a sus vasallos que le dijeran que por qué esa multitud y por qué gritaban, qué querían. Y uno de los vasallos le dice: ‘Señor, majestad, es que dicen que tienen hambre’, y el rey contesta: ‘¿Y qué es eso?’
+Pero auténtico, porque así era. Entonces, tenemos que celebrar los cambios que se están dando ahora, que nos estamos fijando en la realidad de los otros, que nos está preocupando la situación de prójimo, que no es nada más cómo nosotros vivimos, sino cómo viven los demás.
+Pero no es, yo les aseguro, quienes hacen esas expresiones no las hacen pensando que están mal, las hacen como si fuese una cosa normal. Eso, lo que comentabas sobre el racismo, y de gente académica.
+Una vez transmitieron unas grabaciones -ofrezco disculpas, pero lo voy a decir, porque si no, no nos entendemos- transmitieron una conversación telefónica del actual director del INE, Lorenzo Córdova -yo no me atrevo a aquí ponerlas- hablando de manera racista en contra de personas de pueblos originarios. Y estamos hablando de un doctor en Derecho, una eminencia académica. Por eso no hay que confundir la educación con la cultura, la cultura es muchísimo más, pero mucho más que la educación.
+Ahí terminamos.
+
+
+
+
+
+
+
+Conferencia de prensa matutinaConferencia de prensa matutina
+
+
+
+Sala de prensaSala de prensa
+
+
+
+DocumentosDocumentos
+
+
+
+GabineteGabinete
+
+
+
+Semáforo de riesgo epidémico
+
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 100%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		
+
+
+
+
+
+Enlaces de interés
+
+Aprende en casa II
+Atlas Nacional de Riesgos – Cenapred
+Becas Benito Juárez
+Becas para estudiantes
+Ciudadanos Alertadores
+Gobierno de México
+INAPAM
+Instituto de Salud para el Bienestar
+Jóvenes Construyendo el Futuro
+Liconsa
+Pensión Adultos Mayores
+Planeando juntos
+Proequidad
+Programa Nacional de Reconstrucción
+Proyecto Refinería Dos Bocas
+Responsabilidad Compartida – Infonavit
+Sembrando Vida
+SSA Nuevo coronavirus COVID-19
+Trabajadoras del hogar – programa de afiliación al IMSS
+Universidad de la Salud – CDMX
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close
+
+
+
+
+
+
+
+
+
+
+
+Contacto Andrés Manuel López Obrador
+Presidente de México
+t. 5093 4900
+t. 01800 080 1127
+Puerta 8 Palacio Nacional, Plaza de la Constitución S/N, Colonia Centro, Ciudad de México, C.P. 06066
+Aviso de privacidad
+
+
+
+
+
+
+
+
+
+
+
+
+
+					Copyright © 2021				
+
+
+
+					Developed by ThemeMakers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"es","ajaxurl":"https:\/\/presidente.gob.mx\/wp-admin\/admin-ajax.php","nonce":"51b38c8652","display_exif":"0","display_geo":"1","background_color":"white","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"0","login_url":"https:\/\/presidente.gob.mx\/administrador\/?redirect_to=https%3A%2F%2Fpresidente.gob.mx%2F16-12-20-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador%2F","local_comments_commenting_as":"<fieldset><label for=\"email\">Email<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>"};
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"es","ajaxurl":"https:\/\/presidente.gob.mx\/wp-admin\/admin-ajax.php","nonce":"51b38c8652","display_exif":"0","display_geo":"1","display_comments":"0","fullsize_display":"0","background_color":"white","comment":"","post_comment":"Post Comment","loading_comments":"","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"0","login_url":"https:\/\/presidente.gob.mx\/administrador\/?redirect_to=https%3A%2F%2Fpresidente.gob.mx%2F16-12-20-version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador%2F"};
+/* ]]> */
+
+
+
+
+
+
